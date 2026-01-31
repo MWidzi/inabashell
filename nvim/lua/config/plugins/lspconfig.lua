@@ -7,7 +7,7 @@ return {
         'WhoIsSethDaniel/mason-tool-installer.nvim',
 
         -- Useful status updates for LSP.
-        { 'j-hui/fidget.nvim', opts = {} },
+        { 'j-hui/fidget.nvim',    opts = {} },
 
         -- Allows extra capabilities provided by blink.cmp
         'saghen/blink.cmp',
@@ -217,7 +217,8 @@ return {
                     end
 
                     if server_name == 'ts_ls' then
-                        server.filetypes = { 'javascript', 'javascriptreact', 'typescript', 'typescriptreact', 'html', 'ejs' }
+                        server.filetypes = { 'javascript', 'javascriptreact', 'typescript', 'typescriptreact', 'html',
+                            'ejs' }
                     end
 
                     if server_name == 'html' then
@@ -232,5 +233,6 @@ return {
                 end,
             },
         }
+        require("lspconfig").qmlls.setup {}
     end,
 }

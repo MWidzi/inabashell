@@ -12,35 +12,35 @@ return {
             custom_palettes = {
                 main = {
                     custom_main = {
-                        color0 = '#131229', -- bg
-                        color1 = '#18172d',
-                        color2 = '#222043',
-                        color3 = '#2e294e',
-                        color4 = '#403663',
-                        color5 = '#5a4a85',
-                        color6 = '#786c9c',
-                        color7 = '#958caf',
-                        color8 = '#c4bed9',
+                        color0 = '#343434', -- bg
+                        color1 = '#404040',
+                        color2 = '#454545',
+                        color3 = '#858585',
+                        color4 = '#b2b2b2',
+                        color5 = '#c7c7c7',
+                        color6 = '#e1e1e1',
+                        color7 = '#f3f3f3',
+                        color8 = '#ffffff',
                     },
                 },
                 accent = {
                     custom_accent = {
-                        accent0 = '#1184a3', -- main1
-                        accent1 = '#923852', -- main2
-                        accent2 = '#8b7283',
-                        accent3 = '#a0b5be',
-                        accent4 = '#8b939b',
-                        accent5 = '#b0c0ca',
-                        accent6 = '#c1d0db',
+                        accent0 = '#000000', -- main1
+                        accent1 = '#E95274', -- main2
+                        accent2 = '#E84F56',
+                        accent3 = '#C4C9FC',
+                        accent4 = '#8FB6E8',
+                        accent5 = '#F4D177',
+                        accent6 = '#F6DE29',
                     },
                 },
                 state = {
                     custom_state = {
-                        error = '#923852',
-                        warning = '#ae9072',
-                        hint = '#1184a3',
-                        ok = '#729472',
-                        info = '#5a7e9a',
+                        error = '#000000',
+                        warning = '#F5959F',
+                        hint = '#F4D177',
+                        ok = '#8FB6E8',
+                        info = '#C4C9FC',
                     },
                 },
             },
@@ -49,18 +49,5 @@ return {
         }
 
         vim.cmd 'colorscheme palette'
-        vim.api.nvim_set_hl(0, 'Keyword', { fg = '#1184a3', bold = true })
-        vim.api.nvim_set_hl(0, 'Function', { fg = '#d3a593' })
-        vim.api.nvim_set_hl(0, '@function.builtin', { fg = '#e7d2be' })
-        vim.api.nvim_set_hl(0, 'String', { fg = '#923852' })
-        vim.api.nvim_set_hl(0, 'Constant', { fg = '#923852' })
-        vim.api.nvim_set_hl(0, 'Type', { fg = '#8597a0' })
-        vim.api.nvim_set_hl(0, 'Comment', { fg = '#6d5f66', italic = true })
-        vim.api.nvim_set_hl(0, 'Identifier', { fg = '#90a3ac' })
-        vim.api.nvim_set_hl(0, 'Normal', { bg = '#131229', fg = '#c4bed9' })
-        vim.api.nvim_set_hl(0, 'Delimiter', { fg = '#b0c0ca' })
-        vim.api.nvim_set_hl(0, 'Bracket', { fg = '#b0c0ca' })
-        vim.api.nvim_set_hl(0, 'Visual', { bg = '#2e294e' }) -- darker blue with strong contrast
-        vim.api.nvim_set_hl(0, 'CursorLine', { bg = '#222043' }) -- slightly lighter background
     end,
 }
