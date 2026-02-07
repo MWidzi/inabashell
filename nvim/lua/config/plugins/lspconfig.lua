@@ -7,7 +7,7 @@ return {
         'WhoIsSethDaniel/mason-tool-installer.nvim',
 
         -- Useful status updates for LSP.
-        { 'j-hui/fidget.nvim',    opts = {} },
+        { 'j-hui/fidget.nvim', opts = {} },
 
         -- Allows extra capabilities provided by blink.cmp
         'saghen/blink.cmp',
@@ -135,6 +135,7 @@ return {
         }
 
         local capabilities = require('blink.cmp').get_lsp_capabilities()
+        local capabilities = require('blink.cmp').get_lsp_capabilities()
         local servers = {
             phpactor = {},
             pyright = {},
@@ -174,7 +175,7 @@ return {
                     server.capabilities = vim.tbl_deep_extend('force', {}, capabilities, server.capabilities or {})
 
                     if server_name == 'phpactor' then
-                        require('lspconfig').phpactor.setup {
+                        vim.lsp.config('phpactor', {
                             root_dir = function(_)
                                 return vim.loop.cwd()
                             end,
@@ -185,47 +186,38 @@ return {
                                 ['language_server_phpstan.enabled'] = false,
                                 ['language_server_psalm.enabled'] = false,
                             },
-                            capabilities = server.capabilities,
-                        }
+                            capabilities = capabilities,
+                        })
                         return
                     end
 
                     if server_name == 'omnisharp' then
-                        local mono_path = 'mono'
-                        local omni_path = vim.fn.stdpath 'data' .. '/mason/packages/omnisharp/OmniSharp.exe'
-                        server.cmd = { mono_path, omni_path }
-                        server.settings = {
-                            FormattingOptions = {
-                                EnableEditorConfigSupport = true,
-                                OrganizeImports = true,
+                        vim.lsp.config('omnisharp', {
+                            cmd = { 'mono', vim.fn.stdpath 'data' .. '/mason/packages/omnisharp/OmniSharp.exe' },
+                            settings = {
+                                FormattingOptions = { EnableEditorConfigSupport = true, OrganizeImports = true },
+                                RoslynExtensionsOptions = { EnableAnalyzersSupport = true, EnableImportCompletion = true },
+                                useModernNet = false,
                             },
-                            RoslynExtensionsOptions = {
-                                EnableAnalyzersSupport = true,
-                                EnableImportCompletion = true,
+                            handlers = {
+                                ['textDocument/definition'] = require('omnisharp_extended').handler,
+                                ['textDocument/typeDefinition'] = require('omnisharp_extended').type_definition_handler,
+                                ['textDocument/references'] = require('omnisharp_extended').references_handler,
+                                ['textDocument/implementation'] = require('omnisharp_extended').implementation_handler,
                             },
-                            useModernNet = false,
-                        }
-
-                        local oe = require 'omnisharp_extended'
-                        -- Override handlers with omnisharp-extended
-                        server.handlers = {
-                            ['textDocument/definition'] = oe.handler,
-                            ['textDocument/typeDefinition'] = oe.type_definition_handler,
-                            ['textDocument/references'] = oe.references_handler,
-                            ['textDocument/implementation'] = oe.implementation_handler,
-                        }
+                            capabilities = capabilities,
+                        })
                     end
 
                     if server_name == 'ts_ls' then
-                        server.filetypes = { 'javascript', 'javascriptreact', 'typescript', 'typescriptreact', 'html',
-                            'ejs' }
+                        server.filetypes = { 'javascript', 'javascriptreact', 'typescript', 'typescriptreact', 'html', 'ejs' }
                     end
 
                     if server_name == 'html' then
                         server.filetypes = { 'html', 'php', 'ejs' }
                     end
 
-                    require('lspconfig')[server_name].setup(server)
+                    vim.lsp.config(server_name, server)
 
                     if server_name == 'copilot' then
                         vim.lsp.enable 'copilot'
@@ -233,6 +225,83 @@ return {
                 end,
             },
         }
-        require("lspconfig").qmlls.setup {}
+        local servers = {
+            phpactor = {
+                root_dir = function(_)
+                    return vim.loop.cwd()
+                end,
+                init_options = {
+                    ['language_server.diagnostics_on_update'] = false,
+                    ['language_server.diagnostics_on_open'] = false,
+                    ['language_server.diagnostics_on_save'] = false,
+                    ['language_server_phpstan.enabled'] = false,
+                    ['language_server_psalm.enabled'] = false,
+                },
+            },
+            pyright = {},
+            rust_analyzer = {},
+            lua_ls = {
+                settings = {
+                    Lua = {
+                        completion = { callSnippet = 'Replace' },
+                        diagnostics = { disable = { 'missing-fields' } },
+                    },
+                },
+            },
+            omnisharp = {
+                cmd = { 'mono', vim.fn.stdpath 'data' .. '/mason/packages/omnisharp/OmniSharp.exe' },
+                settings = {
+                    FormattingOptions = { EnableEditorConfigSupport = true, OrganizeImports = true },
+                    RoslynExtensionsOptions = { EnableAnalyzersSupport = true, EnableImportCompletion = true },
+                    useModernNet = false,
+                },
+                handlers = {
+                    ['textDocument/definition'] = require('omnisharp_extended').handler,
+                    ['textDocument/typeDefinition'] = require('omnisharp_extended').type_definition_handler,
+                    ['textDocument/references'] = require('omnisharp_extended').references_handler,
+                    ['textDocument/implementation'] = require('omnisharp_extended').implementation_handler,
+                },
+            },
+            html = {
+                filetypes = { 'html', 'php', 'ejs' },
+            },
+            ts_ls = {
+                filetypes = { 'javascript', 'javascriptreact', 'typescript', 'typescriptreact', 'html', 'ejs' },
+            },
+            copilot = {},
+        }
+
+        -- Install tools first
+        local ensure_installed = vim.tbl_keys(servers)
+        vim.list_extend(
+            ensure_installed,
+            { 'stylua', 'html-lsp', 'omnisharp', 'phpactor', 'typescript-language-server', 'lua-language-server', 'pyright', 'rust-analyzer' }
+        )
+        require('mason-tool-installer').setup { ensure_installed = ensure_installed }
+
+        -- Configure servers with Mason paths
+        require('mason-lspconfig').setup {
+            ensure_installed = {},
+            automatic_installation = false,
+            handlers = {
+                function(server_name)
+                    local server_opts = servers[server_name] or {}
+                    server_opts.capabilities = vim.tbl_deep_extend('force', {}, capabilities, server_opts.capabilities or {})
+
+                    -- Mason provides default cmd, merge with custom config
+                    vim.lsp.config(server_name, server_opts)
+                end,
+            },
+        }
+
+        -- CRITICAL: Enable all servers after configuration
+        vim.lsp.enable(vim.tbl_keys(servers))
+
+        -- Enable copilot separately if needed
+        vim.lsp.enable 'copilot'
+
+        -- Quick manual setup for qmlls if needed
+        vim.lsp.config('qmlls', {})
+        vim.lsp.enable 'qmlls'
     end,
 }

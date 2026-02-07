@@ -4,19 +4,19 @@ player=$(playerctl metadata --all-players --format '{{ playerName }}' | head -n 
 playing=$(playerctl --player="$player" status)
 
 if [[ "$1" == "wb" ]]; then 
-    text=$(playerctl metadata --all-players --format '  |  {{ artist }}' | head -n 1)
+    text=$(playerctl metadata --all-players --format ' {{ artist }}' | head -n 1)
 else 
-    text=$(playerctl metadata --all-players --format '  |  {{ artist }} - {{ title }}' | head -n 1)
+    text=$(playerctl metadata --all-players --format ' | {{ artist }} - {{ title }}' | head -n 1)
 fi
 
 if [[ "$player" == "" ]]; then
    exit 0 
 elif [[ "$player" == "spotify" ]]; then
-    playerIcon="  "
+    playerIcon=" "
 elif [[ "$player" == "firefox" ]]; then
-    playerIcon="󰈹  "
+    playerIcon="󰈹 "
 else
-    playerIcon="󰎆  "
+    playerIcon="󰎆 "
 fi
 
 if [[ "$playing" == "Paused" ]]; then
