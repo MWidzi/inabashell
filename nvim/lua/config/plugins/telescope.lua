@@ -13,7 +13,7 @@ return { -- Fuzzy Finder (files, lsp, etc)
         { 'nvim-telescope/telescope-ui-select.nvim' },
 
         -- Useful for getting pretty icons, but requires a Nerd Font.
-        { 'nvim-tree/nvim-web-devicons', enabled = vim.g.have_nerd_font },
+        { 'nvim-tree/nvim-web-devicons',            enabled = vim.g.have_nerd_font },
     },
     config = function()
         -- [[ Configure Telescope ]]
@@ -101,7 +101,12 @@ return { -- Fuzzy Finder (files, lsp, etc)
         end, { desc = '[S]earch [/] in Open Files' })
 
         vim.keymap.set('n', '<leader>sn', function()
+            vim.cmd 'Noice telescope'
+        end, { desc = '[S]earch [N]otifications' })
+
+        vim.keymap.set('n', '<leader>sN', function()
             builtin.find_files { cwd = vim.fn.stdpath 'config' }
         end, { desc = '[S]earch [N]eovim files' })
     end,
 }
+
