@@ -75,6 +75,9 @@ PanelWindow {
 
     property string wifiIcon: ""
 
+    property string batteryIcon: ""
+    property int batteryPercentage
+
     // basic bar setup
     implicitHeight: Screen.height * 0.04
     anchors.top: true
@@ -178,7 +181,7 @@ PanelWindow {
 
         Process {
             id: volumeProc
-            command: ["sh", "-c", "awk -F\"[][]\" '/Left:/ { print $2, $4 }' <(amixer sget Master)"]
+            command: ["sh", "-c", "~/.config/scripts/get-volume.sh"]
             stdout: SplitParser {
                 onRead: data => {
                     var parts = data.trim().split(/\s+/);
@@ -207,6 +210,21 @@ PanelWindow {
             Component.onCompleted: running = true
         }
 
+        Process {
+            id: batteryProc
+            command: ["sh", "-c", "~/.config/scripts/get-battery.sh"]
+            stdout: SplitParser {
+                onRead: data => {
+                    var parts = data.trim().split(/\s+/);
+
+                    root.batteryIcon = parts[0];
+                    root.batteryPercentage = parseInt(parts[1]);
+                }
+            }
+
+            Component.onCompleted: running = true
+        }
+
         Timer {
             interval: 2000
             running: true
@@ -217,6 +235,7 @@ PanelWindow {
                 tempProc.running = true;
                 playerctlProc.running = true;
                 networkProc.running = true;
+                batteryProc.running = true;
             }
         }
 
@@ -549,13 +568,49 @@ PanelWindow {
                     color: root.mchr2
                 }
 
-                Text {
-                    text: root.wifiIcon
-                    color: root.mchr5
-                    font {
-                        family: root.fontFamily
-                        pixelSize: root.fontSize
-                        bold: true
+                // VOLUME
+                RowLayout {
+                    spacing: 6
+
+                    RowLayout {
+                        spacing: 2
+                        Text {
+                            text: root.batteryIcon
+                            color: root.mchr5
+                            font {
+                                family: root.fontFamily
+                                pixelSize: root.fontSize
+                                bold: true
+                            }
+                        }
+
+                        Text {
+                            text: root.batteryPercentage + "%"
+                            color: root.batteryPercentage < 15 ? root.accent3 : root.batteryPercentage < 50 ? root.accent7 : root.mchr3
+                            font {
+                                family: root.fontFamily
+                                pixelSize: root.fontSize
+                                bold: true
+                            }
+                        }
+                    }
+
+                    // spacer
+                    Rectangle {
+                        width: 2
+                        height: 16
+                        color: root.batteryIcon != "" ? root.mchr2 : "transparent"
+                    }
+
+                    // NETWORK
+                    Text {
+                        text: root.wifiIcon
+                        color: root.mchr5
+                        font {
+                            family: root.fontFamily
+                            pixelSize: root.fontSize
+                            bold: true
+                        }
                     }
                 }
             }
