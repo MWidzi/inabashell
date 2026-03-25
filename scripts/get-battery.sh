@@ -15,7 +15,7 @@ elif [ "$number" -lt 60 ]; then
     icon=" "
 elif [ "$number" -lt 80 ]; then
     icon=" "
-elif [ "$number" -lt 100 ]; then
+elif [ "$number" -le 100 ]; then
     icon=" "
 fi
 
