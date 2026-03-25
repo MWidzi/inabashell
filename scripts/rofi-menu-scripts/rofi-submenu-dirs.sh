@@ -1,16 +1,15 @@
 #!/bin/bash
 
-options="dotfiles\ncoding\n.config\nsystem trash"
-selected=$(echo -e "$options" | rofi -dmenu)
-cp ~/.config/alt_styles/rofi/normal/theme.rasi ~/.config/rofi/theme.rasi
+options="\n\n󱁿\n"
+selected=$(echo -e "$options" | rofi -dmenu -theme-str 'window {width: 600px;} listview {columns: 4;}')
 
 case "$selected" in
-    "dotfiles")
+    "")
         kitty -d ~/.config ;;
-    "coding")
+    "")
         kitty -d ~/Documents/Programming ;;
-    ".config")
+    "󱁿")
         kitty -d ~/.config ;;
-    "system trash")
+    "")
         ~/.config/scripts/fileManager.sh ~/.local/share/Trash/files ;;
 esac

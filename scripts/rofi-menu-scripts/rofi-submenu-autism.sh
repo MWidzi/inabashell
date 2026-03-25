@@ -1,7 +1,7 @@
 #!/bin/bash
 
-options="all\ncava\npipes.sh\nbonsai.sh"
-selected=$(echo -e "$options" | rofi -dmenu)
+options="󰜬\n󰝪\n󰟥\n󰔱"
+selected=$(echo -e "$options" | rofi -dmenu -theme-str 'window {width: 600px;} listview {columns: 4;}')
 
 move_focused_window_relative() {
     dx=$1
@@ -59,18 +59,18 @@ launch_and_random_quadrant_move() {
 }
 
 case "$selected" in
-    "all")
+    "󰜬")
         launch_and_random_quadrant_move "cava" 1
         launch_and_random_quadrant_move "bonsai.sh -l -i" 2
         launch_and_random_quadrant_move "pipes.sh" 3
         ;;
-    "cava")
+    "󰝪")
         launch_and_random_quadrant_move "cava" $(( (RANDOM % 4) + 1 ))
         ;;
-    "pipes.sh")
+    "󰟥")
         launch_and_random_quadrant_move "pipes.sh" $(( (RANDOM % 4) + 1 ))
         ;;
-    "bonsai.sh")
+    "󰔱")
         launch_and_random_quadrant_move "bonsai.sh -l -i" $(( (RANDOM % 4) + 1 ))
         ;;
 esac
