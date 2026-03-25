@@ -1,15 +1,17 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-if [ -z "$1" ]; then
-    kitty bash -c '
-      kitty @ set-background-opacity 1.0
-      yazi
-      kitty @ set-background-opacity 0.7
-    ' bash
-else 
-    kitty -d "$1" bash -c '
-      kitty @ set-background-opacity 1.0
-      yazi
-      kitty @ set-background-opacity 0.7
-    ' bash
+set -u
+set -o pipefail
+
+tmp="$(mktemp -t "yazi-cwd.XXXXXX")"
+trap 'rm -f "$tmp"' EXIT
+
+env EDITOR=nvim VISUAL=nvim kitty --title yazi -e yazi "$@" --cwd-file="$tmp" || true
+
+cwd="$(cat "$tmp" 2>/dev/null || echo "")"
+
+if [ -z "$cwd" ] || [ "$cwd" = "$HOME" ]; then
+  exit 0
 fi
+
+exec env EDITOR=nvim VISUAL=nvim kitty --directory "$cwd"
