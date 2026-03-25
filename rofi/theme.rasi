@@ -12,6 +12,7 @@ configuration {
     show-icons:                 false;
 }
 
+/*****----- Global Properties -----*****/
 * {
     mchr0: #000000;
     mchr1: #454545;
@@ -32,9 +33,6 @@ configuration {
     bg: #343434E0;
     fg: #b2b2b2;
 }
-
-/*****----- Global Properties -----*****/
-@import "~/.cache/wal/colors-rofi-dark.rasi"
 
 /*****----- Main Window -----*****/
 window {

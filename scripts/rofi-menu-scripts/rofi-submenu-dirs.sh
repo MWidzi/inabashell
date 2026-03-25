@@ -1,7 +1,7 @@
 #!/bin/bash
 
 options="\n\n󱁿\n"
-selected=$(echo -e "$options" | rofi -dmenu -theme-str 'window {width: 600px;} listview {columns: 4;}')
+selected=$(echo -e "$options" | rofi -dmenu -theme-str 'window {width: 700px;} listview {columns: 4;}')
 
 case "$selected" in
     "")
