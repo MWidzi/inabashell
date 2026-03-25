@@ -179,9 +179,9 @@ rules = [
 [icon]
 
 dirs = [
-	{ name = ".config", text = "", fg = "#c7c7c7" },
-	{ name = ".git", text = "", fg = "#c7c7c7" },
-	{ name = ".github", text = "", fg = "#c7c7c7" },
+	{ name = ".config", text = "󱁿", fg = "#c7c7c7" },
+	{ name = ".git", text = "󰊢", fg = "#c7c7c7" },
+	{ name = ".github", text = "", fg = "#c7c7c7" },
 	{ name = ".npm", text = "", fg = "#c7c7c7" },
 	{ name = "Desktop", text = "", fg = "#c7c7c7" },
 	{ name = "Development", text = "", fg = "#c7c7c7" },
@@ -207,8 +207,8 @@ conds = [
 	{ if = "dummy", text = "", fg = "#F6DE29" },
 
 	# Fallback
-	{ if = "dir & hovered", text = "", fg = "#f3f3f3" },
-	{ if = "dir", text = "", fg = "#c7c7c7" },
+	{ if = "dir & hovered", text = "", fg = "#f3f3f3" },
+	{ if = "dir", text = "", fg = "#c7c7c7" },
 	{ if = "exec", text = "", fg = "#E95274" },
 	{ if = "!dir", text = "", fg = "#b2b2b2" },
 ]
