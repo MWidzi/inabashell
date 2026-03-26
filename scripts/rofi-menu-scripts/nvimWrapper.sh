@@ -1,5 +1,5 @@
 export FZF_DEFAULT_COMMAND="
-fd --type f --hidden -E .steam -E Steam
+    fd --type f --hidden -E .steam -E Steam
 "
 
 fzf_args=(
@@ -17,14 +17,14 @@ fzf_args=(
     else echo \" \$FZF_MATCH_COUNT matches for [\$FZF_QUERY] \";
     fi'
     --bind 'ctrl-r:change-list-label(Reloading the list)+reload(sleep 2; git ls-files)'
-    --color 'border:#5b2538,label:#A0546D'
-    --color 'list-border:#1184a3,list-label:#1184a3'
-    --color 'input-border:#1184a3,input-label:#439fb5'
-    --color 'prompt:#923852,info:#A0546D'
-    --color 'bg:#131229,bg+:#131229,hl:#42d6e7,hl+:#7de8f4,pointer:#923852'
+    --color 'border:#c7c7c7,label:#f3f3f3'
+    --color 'list-border:#c7c7c7,list-label:#f3f3f3'
+    --color 'input-border:#c7c7c7,input-label:#f3f3f3'
+    --color 'prompt:#b2b2b2,info:#c7c7c7'
+    --color 'bg:#343434,bg+:#343434,hl:#858585,hl+:#858585,pointer:#454545'
 )
 
-path=$(find . -type d | fzf "${fzf_args[@]}")
+path=$(fd --type d --hidden -E .steam -E Steam 2> /dev/null | fzf "${fzf_args[@]}")
 
 kitty @ set-background-opacity 1.0
 cd $path
