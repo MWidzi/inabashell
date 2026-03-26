@@ -570,12 +570,12 @@ PanelWindow {
 
                 // VOLUME
                 RowLayout {
-                    spacing: 6
+                    spacing: root.batteryIcon != "" ? 6 : 0
 
                     RowLayout {
-                        spacing: 2
+                        spacing: root.batteryIcon != "" ? 2 : 0
                         Text {
-                            text: root.batteryIcon
+                            text: root.batteryIcon != "" ? root.batteryIcon : ""
                             color: root.mchr5
                             font {
                                 family: root.fontFamily
@@ -585,7 +585,7 @@ PanelWindow {
                         }
 
                         Text {
-                            text: root.batteryPercentage + "%"
+                            text: root.batteryIcon != "" ? root.batteryPercentage + "%" : ""
                             color: root.batteryPercentage < 15 ? root.accent3 : root.batteryPercentage < 50 ? root.accent7 : root.mchr3
                             font {
                                 family: root.fontFamily
