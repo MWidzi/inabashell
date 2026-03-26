@@ -26,9 +26,7 @@ fzf_args=(
 
 path=$(fd --type d --hidden -E .steam -E Steam 2> /dev/null | fzf "${fzf_args[@]}")
 
-kitty @ set-background-opacity 1.0
 cd $path
 nvim 
-kitty @ set-background-opacity 0.7
 
 exec zsh
