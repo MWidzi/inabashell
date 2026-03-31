@@ -1,17 +1,30 @@
-@define-color window_bg_color #1f1f28;
-@define-color accent_bg_color #54546d;
-@define-color theme_fg_color #f2ecbc;
-@define-color error_bg_color #C34043;
-@define-color error_fg_color #DCD7BA;
+@define-color mchr0 #000000;
+@define-color mchr1 #454545;
+@define-color mchr2 #858585;
+@define-color mchr3 #c7c7c7;
+@define-color mchr4 #e1e1e1;
+@define-color mchr5 #f3f3f3;
+
+@define-color accent1 #F5959F;
+@define-color accent2 #E95274;
+@define-color accent3 #E84F56;
+@define-color accent4 #A24544;
+@define-color accent5 #C4C9FC;
+@define-color accent6 #8FB6E8;
+@define-color accent7 #F4D177;
+@define-color accent8 #F6DE29;
+
+@define-color bg #343434;
+@define-color fg #b2b2b2;
 
 * {
   all: unset;
 }
 
 popover {
-  background: lighter(@window_bg_color);
-  border: 1px solid darker(@accent_bg_color);
-  border-radius: 18px;
+  background: alpha(@bg, 0.9);
+  border: 0px;
+  border-radius: 20px;
   padding: 10px;
 }
 
@@ -29,40 +42,41 @@ scrollbar {
 
 .box-wrapper {
   box-shadow:
-    0 19px 38px rgba(0, 0, 0, 0.3),
-    0 15px 12px rgba(0, 0, 0, 0.22);
-  background: @window_bg_color;
+    0 20px 40px rgba(26, 26, 26, 0.93),
+    0 8px 16px rgba(26, 26, 26, 0.75);
+  background: alpha(@bg, 0.9);
   padding: 20px;
   border-radius: 20px;
-  border: 1px solid darker(@accent_bg_color);
+  border: 0px;
 }
 
 .preview-box,
 .elephant-hint,
 .placeholder {
-  color: @theme_fg_color;
+  color: @fg;
 }
 
 .box {
 }
 
 .search-container {
-  border-radius: 10px;
+  border-radius: 15px;
 }
 
 .input placeholder {
-  opacity: 0.5;
+  opacity: 0.3;
 }
 
 .input selection {
-  background: lighter(lighter(lighter(@window_bg_color)));
+  background: @mchr1;
+    color: @accent2;
 }
 
 .input {
-  caret-color: @theme_fg_color;
-  background: lighter(@window_bg_color);
-  padding: 10px;
-  color: @theme_fg_color;
+  caret-color: @fg;
+  background: @mchr1;
+  padding: 15px;
+  color: @fg;
 }
 
 .input:focus,
@@ -79,27 +93,28 @@ scrollbar {
 }
 
 .list {
-  color: @theme_fg_color;
+  color: @fg;
 }
 
 child {
 }
 
 .item-box {
-  border-radius: 10px;
+  border-radius: 20px;
   padding: 10px;
 }
 
 .item-quick-activation {
-  background: alpha(@accent_bg_color, 0.25);
-  border-radius: 5px;
+  background: transparent;
+    border: 1px solid @accent5;
+  border-radius: 10px;
   padding: 10px;
 }
 
 /* child:hover .item-box, */
 child:selected .item-box,
 row:selected .item-box {
-  background: alpha(@accent_bg_color, 0.25);
+  background: alpha(@mchr2, 0.1);
 }
 
 .item-text-box {
@@ -120,10 +135,10 @@ row:selected .item-box {
 }
 
 .preview {
-  border: 1px solid alpha(@accent_bg_color, 0.25);
+  border: 1px solid alpha(@accent5, 0.25);
   /* padding: 10px; */
-  border-radius: 10px;
-  color: @theme_fg_color;
+  border-radius: 20px;
+  color: @fg;
 }
 
 .calc .item-text {
@@ -159,9 +174,9 @@ row:selected .item-box {
 
 .keybinds {
   padding-top: 10px;
-  border-top: 1px solid lighter(@window_bg_color);
+  border-top: 1px solid lighter(@bg);
   font-size: 12px;
-  color: @theme_fg_color;
+  color: @fg;
 }
 
 .global-keybinds {
@@ -188,14 +203,14 @@ row:selected .item-box {
 
 .keybind-label {
   padding: 2px 4px;
-  border-radius: 4px;
-  border: 1px solid @theme_fg_color;
+  border-radius: 8px;
+  border: 1px solid @accent5;
 }
 
 .error {
   padding: 10px;
-  background: @error_bg_color;
-  color: @error_fg_color;
+  background: @accent3;
+  color: @accent4;
 }
 
 :not(.calc).current {
