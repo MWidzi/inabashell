@@ -1,10 +1,10 @@
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
     "logo": {
-        "type": "file",
-        "source": "~/.config/fastfetch/ascii-clean.txt",
+        "type": "kitty",
+        "source": "~/.config/fastfetch/spotlate_filled.png",
         "width": null,
-        "height": 14,
+        "height": 15,
         "padding": {
             "top": 1,
             "left": 5,
@@ -111,7 +111,7 @@
             "keyIcon": "  \u001b[38;2;143;182;232m\u001b[0m",
             "temp": false,
             "showPeCoreCount": false,
-            "format": "{$1}{name} @ {freq-max}"
+            "format": "{$1}{name}"
         },
         {
             "type": "gpu",
