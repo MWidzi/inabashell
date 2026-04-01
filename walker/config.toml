@@ -1,4 +1,4 @@
-force_keyboard_focus = false    
+force_keyboard_focus = true    
 close_when_open = true          
 click_to_close = true           
 as_window = false               
