@@ -1,0 +1,8339 @@
+vim .config/kitty/kitty.conf
+vim .config/zsh/.zshrc
+zsh
+print -l $fpath\
+
+vim .config/zsh/.zshrc
+zsh
+zsh\
+print -l $fpath\
+
+vim .zshenv
+zsh
+vim .config/kitty/kitty.conf
+vim .config/waybar/style.css
+vim .config/kitty/kitty.conf
+yooo
+cd .config/kitty
+cd. .
+cd ..
+vim kitty/kitty.conf
+curl -sS https://starship.rs/install.sh | sh
+vim .config/zsh/.zshrc
+zsh
+cd ..
+cd .config
+d
+1
+0
+d
+1
+alias d='dirs -v'\
+for index ({1..9}) alias "$index"="cd +${index}"; u
+chsh -s $(which zsh)
+cd .config
+vim zsh/.zshrc
+zsh
+cp 
+vim cursor_mode
+zsh
+cd .config/zsh
+rm cursor.sh
+vim cursor_mode
+zsh
+cd somet somet
+cd somet somet
+zsh
+zsh
+clear
+p10k configure
+clear
+p10k configure
+exec zsh
+source ~/.p10k.zsh\
+
+source .config/zsh/.p10k.zsh \
+
+exec zsh\
+
+exec zsh\
+
+bindkey -v\
+
+exec zsh
+p10k configure
+clear
+zsh
+zsh
+zsh
+zsh
+zsh
+zsh
+zsh
+p10k configure
+vim .config/zsh/.zshrc
+vim .config/waybar/style.css
+vim zsh/.zshrc
+vim .zshrc
+vim .zshrc
+vim .zshrc
+touch text_objects.zsh
+vim text_objects.zsh
+vim .zshrc
+zsh
+zsh
+cd .config
+vim zsh/.zshrc
+zsh
+vim .config/zsh/.zshrc_backup 
+zsh
+echo "pay this nigga 5 bucks"
+echo "nope"
+mkdir .config/zsh/plugins
+mkdir -p $HOME/.config/zsh/plugins/bd\
+curl https://raw.githubusercontent.com/Tarrasch/zsh-bd/master/bd.zsh > $HOME/.config/zsh/plugins/bd/bd.zsh\
+print -- "\n# zsh-bd\n. \$HOME/.config/zsh/plugins/bd/bd.zsh" >> $HOME/.config/zshrc
+grep $HOME/.config/zshrc
+yay -S fzf-git
+fzf
+yazi
+sudo yazi
+yay -S --noconfirm zsh-theme-powerlevel10k-git\
+echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>
+cp .config/zsh/.zshrc .config/zsh/.zshrc_backup\
+
+zsh
+"crazy ok bro "
+yay -S zsh-completions-git
+print -l $fpath
+yay -S zsh-syntax-highlighting-git
+cd ../..
+zsh
+zsh
+cd zsh 
+touch cursor.sh
+vim cursor.sh
+vim .zshrc
+zsh
+clear
+zsh
+zsh
+zsh
+zsh
+zsh 
+zsh
+sz
+zsh 
+zsh
+zsh
+zsh
+zsh
+zsh
+zsh 
+zsh
+zsh
+zsh
+vim .config/zsh/.zshrc
+zsh
+yazi
+vim .config/zsh/.zshrc 
+zsh
+sudo pacman -
+vim .config/waybar
+vim .config/waybar/style.css
+vim .config/zsh/.zshrc 
+vim .config/zsh/.p10k.zsh 
+zsh
+gay
+sudo cp 
+cp
+clear
+yay -S hyprshot-git
+zsh
+sudo pacman -
+sudo pacman "
+zsh
+sudo yazi
+sudo yazi
+groups widzi
+sudo -S yazi
+bash 
+sudo visudo
+sudo -E yazi
+vim /var/log/auth.log
+fzf
+yazi
+/usr/bin/sudo -l
+sudo yazi
+vim .zshenv
+yay -S neovim-git
+nvim
+zsh
+zsh
+ls
+ls
+ls
+ls
+ls
+ls =a
+ls -a
+nvim .zcompcache
+bd
+bd ~
+bd .zcompcache 
+bd 
+bd 4
+cd widzi
+bd home
+cd widzi
+cd .config
+bd home
+cd widzi
+vim .config/zsh/.zshrc 
+nvim .config/zsh/.zshrc 
+autoload -Uz compinit\
+compinit -i\
+compdump\
+
+nvim .config/cache/zsh/.zcompcache 
+zsh
+fzf
+echo $XDG_CACHE_HOME
+cd $XDG_CACHE_HOME
+ls
+mkdir zsh
+cd zsh
+touch .zcompcache
+nvim ~/.config/zsh/.zshrc
+zsh
+nvim .config/zsh/.zshrc 
+nvim .config/cache/zsh/.zcompcache 
+nvim .config/zsh/.zcompdump 
+yazi
+rm -rf $XDG_CACHE_HOME/zsh/.zcompcache/*
+nvim .config/zsh/.zshrc 
+mkdir -p "$XDG_CACHE_HOME/zsh/.zcompcache"\
+chmod 700 "$XDG_CACHE_HOME/zsh/.zcompcache"\
+
+chmod 700 "$XDG_CACHE_HOME/zsh/.zcompcache"\
+
+fzf
+nvim .config/cache/zsh/.zcompcache 
+zsh
+zsh
+man zshcompsys
+sudo pacman -S man
+man zshcompsys
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/.p10k.zsh 
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/.zshrc 
+nvim .config/zshrc 
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/completion.zsh 
+sudo yazi
+cd
+asd
+asdsagf
+cd .config/zsh
+cd .config
+nvim .config/zsh/completion.zsh 
+hyprshot -m window
+nvim .config/hypr/hyprland.conf
+sudo yazi 
+asd
+bbbbbbb
+cd .config/hypr
+bd home
+cd widzi
+nvim .config/cache
+hyprshot -m window
+clear
+cd asdsa
+asdsa
+cd .config/
+bash 
+sudo pacman -S fastfetch
+fastfetch 
+sudo pacman -S bluez bluez-utils\
+
+lsmod | grep btusb\
+
+sudo systemctl start bluetooth.service\
+sudo systemctl enable bluetooth.service\
+
+bluetoothctl\
+
+bluetui
+rfkill list
+bluetoothctl
+clear
+yazi
+nvim .config/zsh/.zshrc 
+zsh
+yazi
+source .config/zsh/.zshrc 
+y
+bd widzi
+mkdir .config/yazi
+touch yazi.toml keymap.toml theme.toml
+nvim yazi.toml 
+nvim keymap.toml
+y
+nvim keymap.toml
+nvim yazi.toml 
+y
+nvim yazi.toml 
+y
+rm yazi.toml keymap.toml theme.toml 
+y
+touch yazi.toml keymap.toml theme.toml
+nvim yazi.toml
+nvim keymap.toml
+nvim yazi.toml
+y
+yazi --clear-cache
+y
+bluetoothctl
+hyprshot -m window
+bluetoothctl
+bluetoothctl
+bluetoothctl
+nvim .config/yazi/theme.toml 
+yazi
+sudo pacman -S hyprpolkitagent
+nvim .config/hypr/autostart.conf
+chmod -x Downloads/via-3.0.0-linux.AppImage 
+yazi
+cd Downloads/]
+cd Downloads
+chmod +x via-3.0.0-linux.AppImage
+yazi
+./via-3.0.0-linux.AppImage
+sudo pacman -S fuse2
+./via-3.0.0-linux.AppImage
+cd /home/widzi/Downloads/
+yazi
+y
+sudo y
+sudo yazi 
+nvim .config/waybar/style.css
+nvim .config/zsh/.zshrc
+yazi
+y
+y
+yaiz
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+u
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+nvim .config/yazi/keymap.toml 
+yazi
+nvim .config/hypr/monitors
+nvim .config/hypr/monitors.conf 
+nvim .config/hypr/rules.conf
+nvim .config/yazi/theme.toml
+yazi
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+hyprshot -m window
+hyprshot -m window
+hyprshot -m window
+hyprshot -m window
+hyprshot -m window
+Downloads/via-3.0.0-linux.AppImage 
+cd bin
+ls
+touch via.desktop
+sudo touch via.desktop
+nvim via.desktop
+sudo nvim via.desktop
+cd ..
+cd 
+sudo chmod +x /usr/share/applications/via.desktop
+nvim Documents/
+cd Documents
+mkdir misc
+cd misc
+nvim colour_pallete.txt
+bd widzi
+hyprshot -m window
+hyprshot -m window
+nvim .config/yazi/theme.toml 
+nvim .config/yazi/theme.toml 
+hyprshot -m window
+ya pkg add yazi-rs/plugins:full-border
+cd .config/yazi
+ls
+touch init.lua
+nvim init.lua
+nvim .config/yazi/theme.toml 
+nvim theme.toml
+nvim init.lua
+hyprshot -m window
+hyprshot -m window
+yazi
+y
+y
+y
+y
+mpv --version
+y
+cd widzi
+sudo pacman -S mpv
+mpv --version
+y
+q
+t
+y
+y
+2
+nvim .config/yazi/yazi.toml 
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/completion.zsh 
+nvim .config/zsh/.zshrc 
+fzf --height 40% --layout reverse --border
+fzf --height 40% --layout reverse --border
+export FZF_DEFAULT_COMMAND='cd'
+fzf --height 40% --layout reverse --border
+export FZF_DEFAULT_COMMAND='fd --type f'
+fzf --height 40% --layout reverse --border
+export FZF_DEFAULT_COMMAND='find . -type f'\
+
+fzf --height 40% --layout reverse --border
+fzf --inline-info
+fzf --height 40% --layout reverse --border --inline-info
+cd .config
+fzf --height 40% --layout reverse --border --inline-info
+mkdir fzf
+cd fzf
+touch .fzfrc
+export FZF_DEFAULT_OPTS_FILE=~/.config/fzf/.fzfrc
+fzf --style full \\
+    --preview 'fzf-preview.sh {}' --bind 'focus:transform-header:file --brief {}'
+bd widzi
+fzf --style full \\
+    --preview 'fzf-preview.sh {}' --bind 'focus:transform-header:file --brief {}'
+nvim .config/zsh/.zshrc 
+sudo pacman -Rs fzf
+yay -Rs fzf
+yay -Rs fzf-git
+yazi
+fzf --style full \\
+    --preview '.config/fzf/fzf-preview.sh {}' --bind 'focus:transform-header:file --brief {}'
+y
+sudo y
+bd home
+cd widzi
+sudo y
+sudo yazi
+fzf --style full \\
+    --preview 'bin/fzf-preview.sh {}' --bind 'focus:transform-header:file --brief {}'
+sudo yazi
+y
+chmod +x fzf-preview.sh 
+bd widzi
+fzf --style full \\
+    --preview 'Documents/scripts/fzf-preview.sh {}' --bind 'focus:transform-header:file --brief {}'
+sudo pacman -S bat 
+bat --version\
+
+fzf --style full \\
+    --preview 'Documents/scripts/fzf-preview.sh {}' --bind 'focus:transform-header:file --brief {}'
+nvim .config/fzf/.fzfrc 
+fzf
+fzf
+fzf
+nvim .config/fzf/.fzfrc 
+fzf
+nvim .config/fzf/.fzfrc 
+fzf
+nvim .config/fzf/.fzfrc 
+fzf
+nvim .config/fzf/.fzfrc 
+nvim .config/fzf/.fzfrc 
+fzf
+nvim .config/fzf/.fzfrc 
+fzf
+export FZF_CTRL_T_OPTS="\
+  --walker-skip .git,node_modules,target\
+  --preview 'bat -n --color=always {}'\
+\
+\
+q\
+\
+\
+
+export FZF_CTRL_T_OPTS="\
+  --walker-skip .git,node_modules,target\
+  --preview 'bat -n --color=always {}'\
+  --bind 'ctrl-/:change-preview-window(down|hidden|)'"
+echo FZF_CTRL_T_OPTS
+echo $FZF_CTRL_T_OPTS
+export FZF_CTRL_R_OPTS="--preview 'cat {}'"
+export FZF_CTRL_R_OPTS="--preview '{}'"
+export FZF_CTRL_R_OPTS="--preview none"
+export FZF_CTRL_T_OPTS="\
+  --walker-skip .git,node_modules,target\
+  --preview 'bat -n --color=always {}'\
+\
+\
+q\
+\
+\
+\
+
+export FZF_CTRL_R_OPTS="--preview-window=hidden"
+export FZF_CTRL_R_OPTS="--preview-window=hidden --info=hidden"
+export FZF_CTRL_R_OPTS="--preview-window=hidden --no-info"
+export FZF_CTRL_R_OPTS="--preview-window=hidden --preview=''"
+export FZF_CTRL_R_OPTS="--preview-window=hidden"
+nvim .config/zsh/.zshrc 
+y
+nvim .config/fzf/.fzfrc 
+nvim .config/yazi/theme.toml 
+nvim Documents/misc/colour_pallete.txt 
+hyprshot -m window
+fzf
+fzf
+printf "\x1b[38;2;255;100;0mTRUECOLOR\x1b[0m\n"\
+
+fzf
+fzf
+fzf --color='bg+=236,prompt=137,info=131'
+clear
+fzf
+fzf
+printf "\x1b[38;2;255;100;0mTRUECOLOR\x1b[0m\n"\
+
+fzf
+fzf
+fzf --color='bg+=236,prompt=137,info=131'
+clear
+fzf --border=sharp --list-border=sharp --input-border=sharp --header-border=sharp --preview-border=sharp
+fzf
+fzf
+export FZF_DEFAULT_OPTS="--height 40% --layout reverse --scroll-off=200 --border sharp --list-border sharp --input-border sharp --header-border sharp --preview-border sharp --style full --padding 1,2 --border-label 'fzf' --input-label 'Input' --header-label 'File Type' --preview '/home/widzi/Documents/scripts/fzf-preview.sh {}' --bind '...' --color 'border:#5b2538,label:#A0546D, ...'"
+fzf
+export FZF_DEFAULT_OPTS="--height 40% --layout reverse --scroll-off=200 --border sharp --list-border sharp --input-border sharp --header-border sharp --preview-border sharp --style full --padding 1,2 --border-label 'fzf' --input-label 'Input' --header-label 'File Type' --preview '/home/widzi/Documents/scripts/fzf-preview.sh {}' --color 'border:#5b2538,label:#A0546D, ...'"
+fzf
+nvim .config/fzf/.fzfrc 
+man fzf
+hyprshot
+hyprshot -m window
+fzf
+fzf
+export FZF_DEFAULT_OPTS=""
+fzf
+sudo pacman -S jdk8-openjdk maven\
+
+git clone https://github.com/osde8info/stegosuite.git\
+cd stegosuite\
+
+mvn package\
+
+sudo pacman -S maven
+mvn clean package -X 
+mvn clean package -X 
+cd ..
+rm -rf stegosuite
+yay -S steghide\
+
+steghide
+cd Downloads
+nvim goofy_text.txt
+steghide embed -ef goofy_text.txt -cf 20250828_165529.jpg
+steghide info cover.jpg\
+
+steghide info 20250828_165529.jpg\
+
+steghide info 20250828_165529.jpg\
+
+steghide extract -sf cover.jpg\
+
+steghide embed -cf 20250828_165529.jpg -ef goofy_text.txt -sf output.jpg\
+
+steghide extract -sf output.jpg
+yay -S stegosuite
+sudo pacman -S jre-openjdk\
+
+sudo pacman -S maven\
+git clone https://github.com/osde8info/stegosuite.git\
+cd stegosuite\
+mvn package\
+
+yay -S swt\
+
+cd ~/.m2/
+touch settings.xml
+nvim settings.xml
+rm -rf ~/.m2/repository/org/eclipse/swt\
+
+yazi
+nvim Documents/misc/sci++_2026_gdd.txt
+cd .config/waybar/ 
+nvim config.jsonc
+nvim config.jsonc
+nvim style.css
+nvim .config/kitty/kitty.conf 
+nvim .config/hypr/monitors.conf 
+pkill -a waybar
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+sudo pacman -
+sudo pacman -S yazi
+sudo pacman -S yazi
+sudo pacman -Syu 
+sudo pacman -S archlinux-keyring
+killall gpg-agent
+sudo killall gpg-agent
+sudo pacman -S archlinux-keyring
+sudo killall gpg-agent
+sudo rm -rf /etc/pacman.d/gnupg
+sudo pacman-key --init
+sudo pacman-key --populate archlinux
+sudo pacman -Sy archlinux-keyring
+sudo pacman -Syu
+sudo pacman -Syu | yes
+yes | sudo pacman -Syu
+sudo pacman -S yazi 
+yazi 
+sudo yazi 
+sudo pacman -S fzf
+sudo reboot 
+nvim .steam/steam/steamapps/steamapps/compatdata/1493710/pfx/dosdevices/z:/usr/share/doc/kitty/kitty.conf 
+nvim .config/zsh/.zshrc
+nvim .config/fzf/.fzfrc 
+chmod +w Documents/scripts/fzf-preview.sh
+chmod +x Documents/scripts/fzf-preview.sh
+nvim .config/fzf/.fzfrc 
+chmod +w Documents/scripts/fzf-preview.sh
+chmod +x Documents/scripts/fzf-preview.sh
+yazi
+yazi
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+bd steamapps
+ls
+cd common
+ls
+ls
+cd ..
+export FZF_DEFAULT_COMMAND='fd --type f --hidden --exclude .git --exclude "/home/widzi/.local/share/Steam/"'
+export FZF_DEFAULT_COMMAND='fd --type f --hidden --exclude .git --exclude "/home/widzi/.local/share/Steam/"'
+fd --type f --hidden --exclude .git --exclude "/home/widzi/.local/share/Steam/"
+fd --type f
+fd --type f --hidden --exclude .git --exclude /home/widzi/.local/share/Steam/
+echo $FZF_DEFAULT_COMMAND
+fd --help
+fd --help | grep ex
+fd
+echo $FZF_DEFAULT_COMMAND
+fd --help
+fd --help | grep ex
+fd
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+nvim .config/fzf/.fzfrc 
+y
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+gd
+rg
+rg --files --hidden
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+echo $FZF_DEFAULT_COMMAND
+fzf
+echo $FZF_CTRL_T_COMMAND
+_neofetch
+fastfetch
+sudo pacman -S fd
+fd
+nvim .config/zsh/.zshrc 
+nvim .config/fzf/.fzfrc
+cd Documents/Programming 
+python3 lekcja1.py
+cd python
+python3 lekcja1.py
+python3 lekcja1.py
+python3 lekcja1.py
+yazi
+nvim .config/hypr/hyprland.conf 
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+makoctl reload
+notify-send "test"
+makoctl reload
+notify-send "test"
+makoctl reload
+notify-send "test"
+makoctl reload
+notify-send "test"
+makoctl reload
+notify-send "test"
+notify-send "test"
+notify-send "test"
+makoctl reload
+notify-send "test"
+makoctl reload
+makoctl reload
+notify-send "test"
+notify-send "test"
+notify-send "test"
+makoctl reload
+notify-send "test"
+notify-send "test"
+makoctl reload
+makoctl reload
+notify-send "test"
+makoctl reload
+notify-send "test"
+makoctl reload
+notify-send "test"
+notify-send "test"
+makoctl reload
+makoctl reload
+notify-send -u critical "test"
+notify-send -u critical "test"
+notify-send "test"
+makoctl reload
+notify-send -u critical "test"
+makoctl reload
+makoctl reload
+nvim .config/hypr/visuals.conf 
+makoctl reload
+notify-send -u critical "test"
+notify-send -u critical "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send -u critical "test"
+notify-send -u critical "test"
+nvim .config/hypr/visuals.conf 
+notify-send "test"
+notify-send "test"
+nvim .config/kitty/kitty.conf 
+notify-send "test"
+nvim .config/fzf/.fzfrc 
+clear
+askjaslkjlkjaslkjaslkjsalkjaslkjsalkjsalkjaslkjaslkjsalkjlkassjlkjsa
+notify-send -u critical "test"
+makoctl reloa
+makoctl reload
+makoctl reload
+makoctl reload
+notify-send -u critical "test"
+makoctl reload
+makoctl reload
+makoctl reload
+notify-send -u critical "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+makoctl reload
+makoctl reload
+notify-send "test"
+makoctl reload
+notify-send "test"
+makoctl reload
+notify-send "test"
+makoctl reload
+makoctl reload
+notify-send "test"
+nvim .config/mako/config 
+man 5 mako
+nvim
+pytho
+python3 Documents/Programming/python/lekcja1.py 
+python3 Documents/Programming/python/lekcja1.py 
+python3 Documents/Programming/python/lekcja1.py 
+clear
+python3 Documents/Programming/python/lekcja1.py 
+clea
+clear
+hyprctl reloa
+hyprctl reload
+hyprctl reload
+makoctl reload
+hyprctl reload
+makoctl reload
+hyprctl reload
+makoctl reload
+hyprctl layers
+makoctl reload
+hyprctl reload
+hyprctl layers
+hyprctl reload
+pkill mako
+mako
+mako
+hyprctl reload
+hyprctl reload
+hyprctl reload
+hyprctl reload
+hyprctl reload
+rofi
+nvim .config/mako/config 
+nvim .config/hypr/binds.conf 
+firefox
+nvim
+nvim .config/mako/config 
+nvim .config/mako/config 
+y
+yay -S git
+nvim .config/mako/config 
+yes
+yazi
+yazi
+sudo pacman -S 7-zip
+sudo pacman -S 7zip
+yazi
+y
+y
+yazi
+notify-send "test"
+nvim .config/mako/config 
+notify-send "test"
+nvim .config/mako/config 
+nvim .config/mako/config 
+notify-send "test"
+notify-send "test"
+nvim .config/mako/config 
+notify-send "test"
+nvim .config/hypr/rules.conf 
+nvim .config/mako/config 
+notify-send "test"
+nvim .config/mako/config 
+notify-send "test"
+nvim .config/mako/config 
+makoctl reload
+notify-send "test"
+asasd
+eys
+yes
+yazi
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+hyprctl dispatch setprop active alpha 0\
+
+nvim .config/hypr/rules.conf 
+crazy shit 
+echo "oi blyat that's messed up buddy"
+nvim
+yes
+yes
+yes
+yes
+yes
+nvim Documents/misc/english.txt
+nvim Documents/Programming/python/lekcja1.py 
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/hyprland.conf 
+nvim .config/hypr/hyprland.conf 
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/visuals.conf 
+y
+y
+y
+y
+nvim .config/hypr/rules.conf 
+y
+nvim .config/hypr/rules.conf 
+y
+nvim .config/hypr/rules.conf 
+y
+nvim .config/hypr/rules.conf 
+y
+hyprctl clients\
+
+hyprctl clients\
+
+nvim .config/kitty/kitty.conf 
+hyprctl reload
+y
+hyprctl clients\
+
+y
+nvim .config/hypr/rules.conf 
+y
+nvim .config/hypr/rules.conf 
+y
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+y
+nvim .config/hypr/rules.conf 
+y
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+y
+y
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+nvim .config/kitty/kitty.conf 
+nvim .config/kitty/kitty.conf 
+nvim .config/hypr/rules.conf 
+nvim .config/zsh/.zshrc 
+y
+y
+nvim .config/kitty/kitty.conf 
+y
+nvim .config/kitty/kitty.conf 
+y
+y
+y
+y
+y
+nvim .config/hypr/binds.conf 
+nvim
+y
+y
+nvim 
+nvim Documents/misc/sci++_gdd2026.txt
+nvim Documents/misc/sci++_gdd2026.txt
+nvim Documents/misc/sci++_gdd2026.txt 
+nvim Documents/misc/sci++_gdd2026.txt 
+nvim Documents/misc/pomyslyDoGryNotApproved.txt
+y
+y
+nvim .config/kitty/kitty.conf 
+nvim .config/kitty/kitty.conf 
+nvim .config/kitty/kitty.conf 
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/visuals.conf 
+nvim Documents/misc/sci++_gdd2026.txt 
+sudo pacman -S bluez-utils
+bluetoothctl
+sudo pacman -S gnome-bluetooth
+sudo systemctl enable bluetooth\
+sudo systemctl start bluetooth\
+
+sudo pacman -S bluez
+bluetoothctl
+y
+nvim .config/mako/config 
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/.zshrc 
+notify-send 'test'
+notify-send 'test'
+y
+nvim .config/kitty/kitty.conf 
+hyprshot -m window
+hyprshot -m window
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/.zshrc 
+nvim .config/yazi/theme.toml
+y
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+cd .config/nvim
+ls
+ls -a
+nvim .stylua.toml
+nvim .stylua.toml
+nvim .stylua.toml
+nvim .config/nvim/init.lua 
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+  kitten @ set-background-opacity 1\
+
+hyprshot -m window
+kitten @ set-background-opacity 0.7
+nvim zshrc
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/.zshrc 
+nvim .config/hypr/rules.conf 
+nvim .config/hypr/rules.conf 
+hyprshot -m window
+nvim .config/hypr/rules.conf 
+nvim .config/zsh/.zshrc 
+cd .config/nvim
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+y
+y
+nvim
+sudo pacman -S openssh
+sudo systemctl enable ssh
+sudo pacman -S the_silver_searcher
+y
+y
+yazi
+y
+npm --ver
+node --ver
+node --version
+man pushd
+pushd --help
+cd Documents/Programming/ZPAW
+cd Documents/Programming
+mkdir ZPAW
+cd ZPAW
+mkdir temp-app 
+pushd temp-app
+npm init -y\
+npm install express ejs morgan cookie-parser \
+npm install --save-dev prettier eslint eslint-config-prettier globals\
+npm install\
+popd\
+rm -rf temp-app
+ls
+\
+git config --global credential.helper 'cache --timeout 5400'
+ssh -V
+bd home
+cd widzi
+ip address
+hostname -I
+nvim .config/waybar/config.jsonc 
+y
+nvim .config/nvim/init.lua 
+cd .ssh
+cd id_rs
+ls =a
+ls -a
+cd ..
+nvim .config/nvim/init.lua 
+sudo systemctl enable sshd
+sudo systemctl status sshd
+cd ..
+cd /etc
+cd ssh
+nvim sshd_config
+sudo nvim sshd_config
+cd sshd_config.d
+sudo nvim 20-force_publickey_auth.conf
+bd widzi
+ssh student@10.42.0.46
+ssh student@10.42.0.46
+ssh student@10.42.0.46
+ufw
+iptables
+iptables -h
+ssh localhost
+sudo systemctl start ssh
+sudo systemctl restart ssh\
+
+sudo systemctl restart sshd\
+
+ssh student@10.42.0.46
+ssh student@10.42.0.46
+ssh widzi@10.42.0.46
+ssh-keygen -t rsa\
+
+ssh-copy-id widzi@10.42.0.46
+ssh 'widzi@10.42.0.46'
+y
+cd Documents/Programming/python
+python3 zadanie_na_ocene_petle.py
+python3 zadanie_na_ocene_petle.py
+python3 zadanie_na_ocene_petle.py
+python3 zadanie_na_ocene_petle.py
+python3 zadanie_na_ocene_petle.py
+python3 zadanie_na_ocene_petle.py
+python3 zadanie_na_ocene_petle.py
+cd .config/nvim/init.lua 
+cd .config/nvim/
+git commit
+git config --global user.email "mlydzy123@gmail.com"
+git commit
+git add .gitignore .stylua.toml init.lua lazy-lock.json
+git commit
+git commit
+git push
+git push
+git push
+git push
+git remote -v
+git push
+git pull
+git config pull.rebase false
+git push
+git pull
+git push
+bd /
+cd /usr/share/rofi/themes/
+ls
+nvim gruvbox-dark-hard.rasi
+#cp gruvbox-dark-hard.rasi
+cp gruvbox-dark-hard.rasi /home/widzi
+bd /
+cd /home/widzi
+nvim
+cd Documents/Programming/python
+ls
+nvim 
+nvim zadanie_na_ocene_petle.py
+python3 Documents/Programming/python/zadanie_na_ocene_petle.py 
+nvim zadanie_na_ocene_petle.py
+nvim Documents/Programming/python/zadanie_na_ocene_petle.py 
+nvim Documents/Programming/python/zadanie_na_ocene_petle.py 
+python3 Documents/Programming/python/zadanie_na_ocene_petle.py 
+python3 Documents/Programming/python/zadanie_na_ocene_petle.py 
+nvim Documents/Programming/python/zadanie_na_ocene_petle.py 
+y
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python2.py 
+python3 Documents/Programming/python/python3.py 
+nvim .config/nvim/init.lua 
+p
+y
+cd Documents/Programming/python
+nvim python2.py
+nvim python3.py
+nvim python3.py
+bd widzi
+nvim .config/hypr/hyprpaper.conf 
+y
+nvim .config/hypr/hyprpaper.conf 
+nvim .config/hypr/hyprpaper.conf 
+nvim .config/hypr/hyprpaper.conf 
+hyprctl reload
+hyprctl hyprpaper reload
+hyprctl hyprpaper wallpaper Pictures/wallpapers/teto_miku_wallpaper_3.webp 
+hyprctl hyprpaper wallpaper Pictures/wallpapers/teto_miku_wallpaper_3.webp 
+hyprctl hyprpaper wallpaper ~/Pictures/wallpapers/teto_miku_wallpaper_3.webp 
+hyprctl hyprpaper wallpaper ", ~/Pictures/wallpapers/teto_miku_wallpaper_3.webp"
+hyprctl hyprpaper wallpaper ", ~/Pictures/wallpapers/teto_miku_wallpaper_1.webp"
+nvim .config/hypr/hyprpaper.conf 
+nvim .config/fzf/.fzfrc 
+nvim .config/zsh/.zshrc 
+fastfetch
+hyprctl reload
+hyprctl keyword master:mfact 0.7
+hyprctl keyword general:layout dwindle\
+hyprctl keyword general:layout master\
+
+hyprctl keyword general:layout dwindle\
+hyprctl keyword general:layout master\
+
+hyprctl keyword general:layout dwindle\
+hyprctl keyword general:layout master\
+
+hyprctl keyword general:layout dwindle\
+hyprctl keyword general:layout master\
+
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+sudo pacman -S php
+clear
+nvim .config/hypr/binds.conf 
+nvim .config/hypr/visuals.conf 
+nvim Downloads/icalexport.ics 
+nvim .config/nvim/init.lua 
+cd Documents/Programming/python
+nvim test.py
+nvim .config/hypr/visuals.conf 
+nvim .config/hypr/binds.conf 
+nvim Documents/Programming/python/test.py 
+hyprctl reload
+hyprctl wallpaper reload
+hyprctl hyprpaper reload
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+python3 Documents/Programming/python/test.py 
+nvim .config/hypr/programs.conf 
+nvim .config/hypr/visuals.conf 
+nvim .config/hypr/binds.conf 
+y
+hyprctl clients
+hyprctl clients
+clear
+nvim .config/hypr/rules.conf 
+clear
+cd Downloads
+cd ..
+cd Documents/Programming/ZPAW
+mkdir first-server
+cd first-server
+npm init --yes
+touch index.js
+ls 
+code -r
+nvim
+nvim package.json
+nvim index.js
+node index.js
+nvim package.json
+nvim index.js
+nvim 
+nvim index.js
+nvim index.js
+npm install --save-dev @types/node
+node index.js
+nvim index.js
+node index.js
+nvim index.js
+node index.js
+nvim package.json
+node index.js
+nvim index.js
+node index.js
+node index.js
+nvim index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+cd Documents/Programming/ZPAW/first-server
+nvim index.js
+nvim .local/state/nvim/lsp.log 
+nvim .config/nvim/init.lua 
+nvim .config/hypr/binds.conf 
+curl --verbose http://localhost:8000/
+nvim Documents/Programming/python/zadanie_na_ocene_petle.py 
+curl http://localhost:8000/
+curl http://localhost:8000/
+> curl http://localhost:8000/
+curl http://localhost:8000/
+curl http://localhost:8000/foobar/
+curl http://localhost:8000/ready/player/one
+curl "http://localhost:8000/items?order=price,ascending&filter=none"\
+
+curl "http://localhost:8000/blog/post/123?clickid=21fdj9l0#chapter-3"
+curl http://localhost:8000/
+curl http://localhost:8000/
+curl http://localhost:8000/
+curl http://localhost:8000/
+curl http://localhost:8000/
+curl http://localhost:8000/
+curl http://localhost:8000/
+curl http://localhost:8000/
+curl http://localhost:8000/
+curl "http://localhost:8000/blog/post/123?clickid=21fdj9l0#chapter-3"
+curl "http://localhost:8000/blog/post/123?clickid=21fdj9l0#chapter-3"
+curl "http://localhost:8000/blog/post/123?clickid=21fdj9l0#chapter-3"
+> curl "http://localhost:8000/items?order=price,ascending&filter=none"
+curl "http://localhost:8000/items?order=price,ascending&filter=none"
+curl "http://localhost:8000/items?order=price,ascending&filter=none"
+curl --request POST http://localhost:8000/
+curl --request POST http://localhost:8000/
+curl --request POST http://localhost:8000/
+curl "http://localhost:8000/items?order=price,ascending&filter=none"
+curl "http://localhost:8000/items?order=price,ascending&filter=none"
+curl --request POST http://localhost:8000/
+rofi
+bluetoothctl
+nvim .config/zsh/.zshrc 
+nvim 
+nvim .config/zsh/.zshrc 
+y
+y
+y
+d
+d
+dirs -v
+cd .config
+d
+1
+yay
+sudo pacman -S bat
+sudo pacman -S chafa
+sudo pacman -S imagecat
+sudo pacman -S imgcat
+yay -S imgcat
+imgcat
+imgcat .cache/gnome-software/icons/eaa657f7612b72baae7a36ddcca2a847748209c4-online.hatsune_miku.tachidesk-vaadinui.png 
+nvim .config/hypr/binds.conf 
+nvim .config/nvim/init.lua 
+nvim 
+nvim .config/nvim/init.lua
+nvim 
+nvim Documents/misc/notes.txt
+nvim .config/hypr/binds.conf  
+nvim .config/hypr/autostart.conf 
+hyprctl reload
+nvim .config/waybar
+nvim .config/waybar/mediaplayer.py
+kew
+nvim .config/hypr/visuals.conf 
+nvim .config/hypr/input.conf 
+nvim .config/zsh/.zshrc 
+nvim .config/hypr/rules.conf 
+nvim Documents/Programming/python/python3.py 
+nvim .config/zsh/.zshrc 
+nvim Documents/scripts/fzf-preview.sh 
+nvim Documents/scripts/fzf-preview.sh 
+nvim .local/state/nvim/undo/%usr%share%rofi%themes%gruvbox-dark-hard.rasi 
+sudo nvim /usr/share/rofi/themes/gruvbox-dark-hard.rasi
+y
+y
+nvim .local/state/nvim/lsp.log
+sudo pacman -S dotnet-sdk
+sudo pacman -Syu
+cd Documents/Programming
+ls
+mkdir C#
+cd C\#
+touch test.cs
+nvim test.cs
+nvim test.cs
+nvim test.cs
+nvim .config/rofi/config.rasi 
+cd Documents/Programming/PHP
+php readCSV.php
+sudo pacman -Syu
+sudo pacman -S dotnet-sdk php-apache
+dotnet --version
+nvim Documents/Programming/python/python3.py 
+nvim .config/kitty/kitty.conf 
+cd ../..
+ls
+cd home/widzi
+sudo pacman -S ecryptfs-utils
+cd Documents
+ls
+mkdir passcodes
+cd passcodes
+mkdir ~/.secret\
+mkdir ~/secret\
+mkdir ~/.ecryptfs\
+
+ecryptfs-add-passphrase\
+
+echo "$HOME/.secret $HOME/secret ecryptfs" > ~/.ecryptfs/secret.conf\
+
+echo 12b6771d95b1dd7b > ~/.ecryptfs/secret.sig
+mount.ecryptfs_private secret\
+
+lsmod | grep ecryptfs\
+
+sudo modprobe ecryptfs\
+
+cd ..
+rm -rf passcodes
+sudo pacman -Rs ecryptfs-utils
+mkdir passcodes
+cd passcodes
+sudo pacman -S fscrypt\
+
+sudo fscrypt setup /\
+
+sudo fscrypt setup 
+sudo fscrypt setup /
+ls
+fscrypt encrypt ~/Documents/passcodes\
+
+sudo tune2fs -O encrypt /dev/sda3\
+
+zcat /proc/config.gz | grep CONFIG_FS_ENCRYPTION\
+
+sudo fscrypt setup /\
+
+fscrypt encrypt ~/Documents/passcodes
+ls
+touch passcodes.txt
+nvim passcodes.txt
+nvim passcodes.txt
+cd ..
+fscrypt lock ./passcodes
+     find "./passcodes" -print0 | xargs -0 fuser -k
+fscrypt lock ./passcodes
+find ./passcodes -print0 | xargs -0 fuser\
+
+find ./passcodes -print0 | xargs -0 fuser -k\
+
+fscrypt lock ./passcodes\
+
+sudo find ./passcodes -print0 | xargs -0 fuser\
+
+fscrypt lock ./passcodes\
+
+sudo lsof +D ./passcodes\
+
+fscrypt lock ~/Documents/passcodes
+sudo lsof +D ./passcodes\
+
+sudo lsof +D ./passcodes -e /run/user/1000/gvfs -e /run/user/1000/doc\
+
+nvim temp.txt
+reboot 
+nvim .config/kitty/kitty.conf 
+y
+cd ..
+cd
+cd Documents/Programming/C\#
+ls
+nvim
+nvim test.cs
+git config --global user.name "Maciej Widzinski"
+git config --global user.email "mlydzy123@gmail.com"
+ls
+ls -a
+nvim .config/fzf/.fzfrc 
+cd .config/rofi
+nvim config.rasi
+bd widzi
+cd .config/nvim/lua
+bd wizi
+bd widzi
+cd .config/nvim/lua
+cd
+cd .config/nvim/lua
+bd home 
+cd
+nvim .config/zsh/.zshrc 
+cd .config/zsh
+ls
+nvim cursor_mode
+nvim completion.zsh
+nvim cursor_mode
+nvim .config/zsh/.zshrc 
+cd
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/completion.zsh 
+nvim .config/zsh/.zshrc 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+php 
+cd Documents/Programming
+mkdir PHP
+cd PHP
+touch icsTimes.php
+nvim icsTimes.php
+nvim readCSV.php
+cd
+cd .config/nvim
+nvim init.lua
+nvim init.lua
+cd
+cler
+clear
+git version
+cd Documents/Programming/ZPAW
+mkdir repo
+cd repo
+git clone git@github.com:MWidzi/PZAIW_widzi_2025-6.git
+git clone https://github.com/MWidzi/PZAIW_widzi_2025-6.git
+echo "# PZAIW_widzi_2025-6" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/MWidzi/PZAIW_widzi_2025-6.git\
+git push -u origin main
+ls
+git clonehttps://github.com/MWidzi/PZAIW_widzi_2025-6.git
+git clone https://github.com/MWidzi/PZAIW_widzi_2025-6.git
+ls
+cd ..
+rm -rf repo
+mkdir repo
+cd repo
+git clone https://github.com/MWidzi/PZAIW_widzi_2025-6.git
+cd PZAIW_widzi_2025-6
+ls -a
+nvim .gitignore
+touch testfile
+nvim testfile
+nvim .config/hypr/input.conf 
+cd Documents/Programming/ZPAW
+ls
+cd repo
+ls
+cd PZAIW_widzi_2025-6
+ls
+git add testfile
+git commit 
+git push
+reboot
+nvim Documents/temp.txt 
+fscrypt lock ~/Documents/passcodes
+fscrypt unlock ~/Documents/passcodes
+fscrypt lock ~/Documents/passcodes
+cd Documents
+cd passcodes
+ls
+nvim OhLpBpJVVsbplYd7Tk8crXytaXTgGaEDveF-SjvRsXjX6ewNtFUOLw
+fscrypt unlock ~/Documents/passcodes
+ls
+nvim passcodes.txt
+fscrypt lock ~/Documents/passcodes
+pgrep nvim\
+
+pkill all nvim
+pkill nvim
+fscrypt lock ~/Documents/passcodes
+nvim passcodes.txt
+ls
+fscrypt lock ~/Documents/passcodes
+y
+nvim Documents/Programming/python/tic_tac_toe.py 
+cd Documents/Programming/python
+python3 tic_tac_toe.py
+python3 tic_tac_toe.py
+python3 tic_tac_toe.py
+python3 tic_tac_toe.py
+python3 tic_tac_toe.py
+python3 tic_tac_toe.py
+python3 tic_tac_toe.py
+python3 tic_tac_toe.py
+python3 tic_tac_toe.py
+python3 tic_tac_toe.py
+nvim Documents/Programming/PHP/doc.csv 
+cd Documents/Programming/PHP
+nvim readCSV.php
+ls
+ls
+ls
+nvim readCSV.php
+nvim readCSV.php
+nvim readCSV.php
+php -S 0.0.0.0:8000\
+
+cd Documents/Programming/PHP
+ls
+php -S 0.0.0.0:8000\
+
+y
+y
+nvim Documents/Programming/PHP/doc.csv 
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+nvim .config/nvim/init.lua 
+hyprctl layers
+nvim .config/mako/config 
+notify-send --urgency=critical "test"
+makoctl reloadd
+makoctl reload
+hyprctl reload
+nvim .config/mako/config 
+makoctl reload
+nvim .config/hypr/rules.conf 
+hyprctl reload
+cd Documents/Programming/PHP/
+php -S 0.0.0.0
+php -S 0.0.0.0:8000\
+
+nvim .config/rofi/config.rasi 
+nvim .config/mako/config 
+cd .config/yazi
+ls
+nvim theme.toml
+bd widzi
+nvim .config/nvim/init.lua 
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+nvim .config/hypr/visuals.conf 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/style.css 
+y
+nvim .config/hypr/visuals.conf 
+fastfetch
+nvim .config/waybar/style.css 
+nvim .config/hypr/visuals.conf 
+pkill waybar 
+waybar
+waybar
+waybar
+hyprshot -m output
+y
+hyprshot -m output
+nvim .config/hypr/hyprland.conf 
+nvim .config/hypr/visuals.conf 
+nvim .config/waybar/style.css 
+y
+pkill waybar
+pkill waybar
+waybar
+waybar
+hyprshot -m output
+y
+hyprshot -m output
+y
+nvim .config/hypr/visuals.conf 
+nvim .config/waybar/style.css 
+nvim .config/kitty/kitty.conf 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/style.css 
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+hyprctl clients
+nmtui
+nvim .config/waybar/style.css 
+nvim .config/waybar/config.jsonc 
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+pkill waybar
+pkill waybar
+waybar
+nvim .config/waybar/style.css 
+pkill waybar
+waybar
+waybar
+waybar
+nvim .config/waybar/config.jsonc 
+y
+sudo yazi
+cp .config/waybar/config.jsonc Documents/misc
+y
+nvim Backup/config.jsonc 
+nvim .config/waybar/config.jsonc 
+nvim Backup/config.jsonc 
+pkill waybar
+wayabr
+waybar
+waybar
+waybar
+waybar
+waybar
+nvim .config/mako/config 
+nvim .config/waybar/config.jsonc 
+nvim Backup/config.jsonc 
+nvim Backup/config.jsonc 
+nvim .config/waybar/config.jsonc 
+pkill waybar
+waybar
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+cd Documents/Programming/ZPAW
+ls
+cd first-server
+ls
+nvim Backup/config.jsonc 
+nvim .config/waybar/style.css 
+nvim .config/hypr/visuals.conf 
+nvim .config/hypr/visuals.conf 
+hyprctl clients
+nvim .config/waybar/style.css 
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+nvim Backup/config.jsonc 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/config.jsonc 
+pkill waybar
+waybar
+waybar
+nvim .config/waybar/config.jsonc 
+pkill waybar
+waybar
+nvim Backup/config.jsonc 
+nvim .config/waybar/config.jsonc 
+cd Documents/misc
+ls
+nvim english.txt
+nvim .config/waybar/config.jsonc 
+nvim Documents/misc/english.txt 
+cd .config/waybar
+ls
+nvim mediaplayer.py
+nvim .config/waybar/style.css 
+nvim .config/waybar/mediaplayer.py 
+nvim .config/waybar/mediaplayer.py 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/style.css 
+nvim .config/hypr/visuals.conf 
+nvim .config/waybar/mediaplayer.py 
+nvim Documents/misc/english.txt 
+nvim .config/waybar/config.jsonc 
+nvim Documents/misc/english.txt 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/config.jsonc 
+nvim Documents/misc/english.txt 
+nvim Documents/misc/english.txt 
+nvim Documents/misc/english.txt 
+nvim Backup/config.jsonc 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/style.css 
+waybar
+waybar
+waybar
+waybar
+nvim .config/waybar/style.css 
+y
+nvim 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/mako/config 
+nvim .config/yazi/init.lua 
+nvim .config/nvim/init.lua 
+hyprshot -m window
+hyprshot -m display
+hyprshot -m output
+y
+python3 Documents/Programming/python/zadnaoc_08_10_2025.py 
+python3 Documents/Programming/python/zadnaoc_08_10_2025.py 
+python3 Documents/Programming/python/zadnaoc_08_10_2025.py 
+python3 Documents/Programming/python/zadnaoc_08_10_2025.py 
+python3 Documents/Programming/python/zadnaoc_08_10_2025.py 
+nvim Backup/config.jsonc 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/style.css 
+nvim .config/yazi/init.lua 
+nvim .config/nvim/init.lua 
+nvim 
+nvim .config/waybar/style.css 
+upower
+upower -e
+upower -i /org/freedesktop/UPower/devices/battery_BAT1
+upower -i /org/freedesktop/UPower/devices/battery_BAT1
+cd Documents/misc
+nvim future_rice.txt
+upower -i /org/freedesktop/UPower/devices/battery_BAT1
+powerprofilesctl set power-saver
+nvim 
+nvim Backup/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim Documents/Programming/python/python3.py 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+cd .config/nvim/lua/
+ls
+cd ..
+ls
+cd lua
+ls
+cd custom
+ls
+cd plugins
+ls
+nvim init.lua
+nvim init.lua
+nvim init.lua
+cd 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim Documents/Programming/python/zadnaoc_08_10_2025.py 
+nvim Documents/Programming/python/zadnaoc_08_10_2025.py 
+nvim Documents/Programming/python/zadnaoc_08_10_2025.py 
+nvim Documents/Programming/python/zadnaoc_08_10_2025.py 
+nvim Documents/Programming/python/zadnaoc_08_10_2025.py 
+nvim Documents/Programming/python/zadnaoc_08_10_2025.py 
+nvim Documents/Programming/python/zadnaoc_08_10_2025.py 
+nvim Documents/Programming/python/zadnaoc_08_10_2025.py 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim Documents/Programming/python/zadnaoc_08_10_2025.py 
+nvim Documents/Programming/python/zadnaoc_08_10_2025.py 
+cd Documents/misc
+touch colors.txt
+nvim colors.txt
+nvim .config/nvim/init.lua 
+pkill waybar
+waybar
+waybar
+upower -i /org/freedesktop/UPower/devices/battery_BAT1
+nvim Documents/Programming/python/python3.py 
+nvim Documents/Programming/python/zadanie_na_ocene_petle.py 
+nvim Documents/Programming/python/zadanie_na_ocene_petle.py 
+nvim Documents/Programming/python/zadanie_na_ocene_petle.py 
+nvim Documents/Programming/C\#/test.cs 
+nvim Documents/Programming/PHP/readCSV.php 
+nvim Documents/Programming/python/zadanie_na_ocene_petle.py 
+nvim Documents/Programming/python/zadanie_na_ocene_petle.py 
+python3 Documents/Programming/python/python4.py 
+nvim .config/yazi/theme.toml 
+u
+y
+nvim .config/yazi/theme.toml 
+y
+nvim .config/yazi/theme.toml 
+cd Documents/Programming/python
+ls
+ls -la
+nvim python4.py
+nvim python4.py
+nvim python4.py
+nvim python4.py
+nvim python4.py
+nvim python4.py
+nvim python4.py
+cd 
+nvim Documents/misc/colors.txt 
+nvim .config/waybar/config.jsonc 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim Documents/misc/colors.txt 
+nvim .config/waybar/style.css 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+nvim .config/waybar/style.css 
+pkill waybar 
+waybar
+nvim .config/waybar/style.css 
+hyprshot -m output
+y
+nvim .config/waybar/style.css 
+nvim .config/waybar/style.css 
+nvim .config/waybar/style.css 
+nvim .config/waybar/style.css 
+nvim .config/waybar/style.css 
+powerprofilesctl set normal
+powerprofilesctl set balanced
+nvim .config/waybar/config.jsonc 
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+hyprshot -m output
+nvim Backup/config.jsonc 
+nvim .config/rofi/config.rasi 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/config.jsonc 
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+hyprshot -m window
+hyprshot -m output
+hyprshot -m output
+rofi -show filebrowser -file-browser-show-hidden\
+
+rofi -list-keybindings
+rofi -list-keybindings | grep "Control+w"
+rofi -list-keybindings | grep "delete-entry"
+nvim .local/share/Steam.backup/package/bins_ubuntu12.zip.vz.5cc501f754dd7f2c29d5b401daab722880118bdc_38469948 
+nvim .config/hypr/binds.conf 
+rofi -show filebrowser -file-browser-show-hidden\
+
+rofi -show recursivebrowser -file-browser-show-hidden\
+
+yay -S rofi-file-browser-extended-git
+rofi -show file-browser-extended -file-browser-show-hidden\
+
+rofi -show recursivebrowser -recursivebrowser-show-hidden true\
+
+rofi -show-keybindings | grep "kb-delete"
+rofi --version
+rofi -version
+rofi -show recursivebrowser -recursivebrowser-show-hidden true
+rofi -show recursivebrowser -recursivebrowser-show-hidden true
+rofi -show recursivebrowser -recursivebrowser-show-hidden
+rofi -show recursivebrowser -recursivebrowser-show-hidden true\
+
+rofi -dump-config
+nvim .config/mako/config 
+cd .config/rofi
+ls
+touch 
+touch theme.rasi
+nvim theme.rasi
+nvim .config/rofi/config.rasi 
+nvim .config/waybar/style.css 
+nvim Documents/misc/colors.txt 
+nvim .config/rofi/theme.rasi 
+nvim Documents/misc/colors.txt 
+nvim .config/kitty/kitty.conf 
+nvim .config/kitty/kitty.conf 
+nvim .config/kitty/kitty.conf 
+hyprshot -m window
+asdjasldkjaskld
+lkajsjdlkjas
+ljsadlkjaslkjas
+nvim .config/rofi/config.rasi 
+cd Documents/Programming/PHP
+ls
+php -S 0.0.0.0
+php -S 0.0.0.0:8000
+nvim
+cd
+nvim .p10k.zsh 
+nvim .config/zsh/.zshrc 
+nvim .config/zsh/.p10k.zsh 
+nvim 
+nvim .config/nvim/init.lua 
+nvim .config/kitty/kitty.conf 
+nvim
+nvim .config/kitty/kitty.conf 
+nvim .config/nvim/init.lua 
+nvim .config/waybar/style.css 
+nvim .config/hypr/visuals.conf 
+nvim .config/kitty/kitty.conf 
+pkill waybar
+waybar
+waybar
+waybar
+y
+nvim .config/zsh/.p10k.zsh 
+swaync-client -toggle-panel
+swaync-client --toggle-panel
+cp -r /etc/xdg/swaync/config.json .config/swaync 
+mkdir .config/swaync
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+man swaync(5)
+man swaync
+sudo pacman -S mpris
+mpris 
+su
+nvim .config/nvim/init.lua 
+hyprshot -m window
+hyprshot -m output
+pacman -S scrcpy
+sudo pacman -S scrcpy
+sudo pacman -Syu
+sudo pacman -S scrcpy
+kitty
+kitty
+kitty
+yes
+nvim Documents/misc/colors.txt 
+kitty 
+yes
+yes
+scrcpy --help | head -20 | foot -e less
+sudo pacman -S foot
+scrcpy --help | head -20 | foot -e less
+sudo pacman -Rs foot
+scrcpy --help | head -20 | kitty -e less
+scrcpy --help | head -20 | kitty
+kitty
+kitty
+nvim .config/kitty/kitty.conf 
+kitty
+nvim .config/kitty/kitty.conf 
+nvim .config/hypr/binds.conf 
+swaync-client -r
+swaync-client -R
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --reload-config
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+swaync-client --toggle-panel
+notify-send "test"
+swaync-client --toggle-panel
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send -critical "test"
+notify-send -c "test"
+notify-send -u=critical "test"
+notify-send -u="critical" "test"
+notify-send -u critical "test"
+notify-send -u critical "test"
+swaync-client -Rrst
+swaync-client -R -rs -t
+swaync-client -R -rs -t
+swaync-client -R -t
+swaync-client -R -rs -t
+nvim .config/hypr/binds.conf 
+sudo pacman -S sl
+sl
+ls /sys/class/backlight
+nvim /etc/xdg/swaync/configSchema.json
+nvim .config/swaync/config.json 
+nvim /etc/xdg/swaync/configSchema.json
+swaync-client -swb
+swaync-client -swb
+swaync-client -swb
+sudo pacman -S swaync
+swaync --help
+swaync -v
+swaync
+sudo pacman -S wtf
+pkill mako
+swaync
+G_MESSAGES_DEBUG=all swaync
+G_MESSAGES_DEBUG=all swaync
+G_MESSAGES_DEBUG=all swaync
+G_MESSAGES_DEBUG=all swaync
+G_MESSAGES_DEBUG=all swaync
+nvim .config/kitty/kitty.conf 
+swaync -swb
+swaync-client -swb
+nvim .config/waybar/style.css 
+pkill swaync
+swaync
+pkill mako
+swaync
+cp /etc/xdg/swaync/style.css .config/swaync
+ls .config/swaync
+ls -la .config/swaync
+nvim .config/swaync/config.json
+nvim .config/hypr/binds.conf 
+nvim .config/swaync/style.css
+nvim .config/hypr/visuals.conf 
+notify-send "asdasdsad"
+notify-send "crazyshit"
+notify-send "crazyshit"
+notify-send "crazyshit"
+swaync-client -R
+nvim .config/swaync/jso
+nvim .config/swaync/config.json
+notify-send "10-11"
+nvim .config/yazi/theme.toml 
+y
+nvim Documents/misc/colors.txt 
+nvim .config/rofi/theme.rasi 
+swaync-client -R -rs
+nvim .config/waybar/style.css 
+notify-send "10-11"
+notify-send "10-11"
+notify-send "10-11"
+swaync-client -swb
+swaync-client -swb
+swaync-client -swb
+swaync-client -swb
+pkill mako
+swaync
+swaync
+swaync
+swaync
+nvim .config/swaync/style.css
+nvim .config/hypr/autostart.conf 
+nvim .config/waybar/config.jsonc 
+nvim .config/swaync/config.json
+hyprshot -m window
+notify-send "test"
+notify-send "10-11"
+notify-send "10-11"
+notify-send "test"
+notify-send "test"
+nvim .config/swaync/style.css
+nvim .config/swaync/style.css
+nvim .config/waybar/style.css 
+nvim .config/waybar/config.jsonc 
+nvim .config/waybar/style.css 
+ls /dev
+ls /dev/sda1
+ls -la /dev/sda1
+ls -la /dev/sda2
+ls -la /dev/sda3
+ls -la /dev/sda
+y
+cd
+sudo mount /dev/shm /mnt/usb
+dmesg
+sudo mount /dev/snd /mnt/usb
+nvim .config/nvim/init.lua 
+mkdir /mnt/usb
+sudo mkdir /mnt/usb
+lsblk
+lsblk
+lsusb\
+
+dmesg | tail -n 30
+lsmod | grep usb_storage\
+
+reboot 
+lsmod | grep usb_storage\
+
+sudo modprobe usb_storage\
+
+sudo modprobe usb_storage\
+
+lsmod | grep usb_storage\
+
+nvim .config/nvim/init.lua 
+nvim
+c
+rm .config/easyeffects
+nvim
+cd .config/nvim
+cd ..
+reverse
+nvim .config/fzf/.fzfrc 
+nvim .config/fzf/.fzfrc 
+nvim .config/fzf/.fzfrc 
+which fzf-file-widget
+nvim .config/fzf/.fzfrc 
+fscrypt unlock ~/Documents/passcodes
+nvim Documents/passcodes
+fscrypt lock Documents/passcodes
+ls
+mkdir .config
+ln -s ~/.config/discord ~/.config/discord
+cd .config
+ls
+cd discord
+ls
+cd
+ln -s ~/.config/easyeffects ~/.config/easyeffects
+ln -s ~/.config/fzf ~/.config/fzf
+ln -s ~/.config/hypr ~/.config/hypr
+ln -s ~/.config/kitty ~/.config/kitty
+ln -s ~/.config/nvim ~/.config/nvim
+ln -s ~/.config/rofi ~/.config/rofi
+ln -s ~/.config/swaync ~/.config/swaync
+ln -s ~/.config/waybar ~/.config/waybar
+ln -s ~/.config/yazi ~/.config/yazi
+ln -s ~/.config/zsh ~/.config/zsh
+cd .config
+ls
+cd nvim
+ls
+cd ..
+ls
+cd discord
+ls
+cd ..
+git init 
+git init https://github.com/MWidzi/dotfiles-Miku-Teto-.git
+ls
+touch .gitignore
+nvim .gitignore
+git init
+nvim .gitignore
+git remote add origin https://github.com/MWidzi/dotfiles-Miku-Teto-.git 
+git add .
+git commit -m "Initial upload of still unfinished dotfiles"
+git branch -M main
+git push -u origin main 
+ls
+rm discord fzf hypr kitty nvim rofi swaync waybar yazi zsh
+cd ..
+cd .config
+ln -s ~/.config/discord ~/.config/discord
+ln -s ~/.config/fzf ~/.config/fzf
+ln -s ~/.config/hypr ~/.config/hypr
+ln -s ~/.config/kitty ~/.config/kitty
+ln -s ~/.config/nvim ~/.config/nvim
+ln -s ~/.config/rofi ~/.config/rofi
+ln -s ~/.config/swaync ~/.config/swaync
+ln -s ~/.config/waybar ~/.config/waybar
+ln -s ~/.config/yazi ~/.config/yazi
+ln -s ~/.config/zsh ~/.config/zsh
+ls
+y
+nvim
+cd .config
+ls -la
+y
+y
+cd .config
+ls
+y
+git add .
+git commit -m "ACTUALLY upload the dotfiles instead of the symlinks"
+git push 
+fscrypt unlock Documents/passcodes
+nvim Documents/passcodes/passcodes.txt
+fscrypt unlock Documents/passcodes
+fscrypt lock Documents/passcodes
+cd .config
+git pull
+nvim hypr/monitors.conf
+git rm --cached hypr/monitors.conf
+git add .
+git update-index --assume-unchanged hypr/monitors.conf\
+
+hyprctl monitors
+cd .config
+git reset HEAD\
+
+git update-index --assume-unchanged ~/.config/hypr/monitors.conf\
+
+cd hypr
+ls
+nvim binds.conf
+git update-index --assume-unchanged ~/.config/hypr/binds.conf\
+
+nvim hyprpaper.conf
+git update-index --assume-unchanged ~/.config/hypr/hyprpaper.conf\
+
+nvim .config/waybar
+git update-index --assume-unchanged ~/.config/waybar/config.jsonc\
+
+cd .config
+git update-index --assume-unchanged ~/.config/waybar/config.jsonc\
+
+curl --request POST http://localhost:8000/
+y
+mkdir src
+cd src
+touch path_handlers.js
+sudo pacman -S cowsay
+cowsay "i hate niggers"
+sudo pacman -S pipes
+yay -S pipes.sh
+pipesz
+pipes.sh
+cd Documents/Programming/ZPAW
+ls
+cd repo
+ls
+cd pza
+cd PZAIW_widzi_2025-6
+ls
+nvim testfile
+nvim README.md
+rm -rf testfile
+cd ..
+rm -rf repo
+cd ..
+rm -rf repo
+ls
+cd first-server
+ls
+touch .gitignore
+nvim .gitignore
+ls
+git init
+nvim .gitignore
+git remote add origin https://github.com/MWidzi/PZAIW_widzi_2025-6.git
+ls
+nvim index.js 
+ks
+ls
+mkdir static
+cd static
+touch index.html
+nvim index.html
+cd ..
+nvim index.js
+nvim index.js
+git add .
+ls
+ls -a
+mv ./.gitignore ../
+ls -a
+cd ..
+ls
+cd first-server
+ls
+cd ..
+ls -a
+cd first-server
+ls
+ls -a
+rm -rf .git
+cd ..
+git init 
+git remote add origin https://github.com/MWidzi/PZAIW_widzi_2025-6.git
+git add .
+git commit -m "projekt 1"
+git push 
+git branch -M main
+git push -u origin main
+ls -a
+rm -rf .git
+y
+git init https://github.com/MWidzi/PZAIW_widzi_2025-6.git
+rm -rf .git
+ls
+ls -a
+rm -rf https:
+git clone https://github.com/MWidzi/PZAIW_widzi_2025-6.git
+ls -a
+rm -rf PZAIW_widzi_2025-6
+ls
+cd ..
+ls
+git clone https://github.com/MWidzi/PZAIW_widzi_2025-6.git
+v
+y
+git add .
+git commit -m "projekt na 13-10-2025"
+git push
+cd first-server
+node index.js
+node index.js
+cd Documents/Programming/ZPAW/first-server
+ls
+cd Documents/Programming/ZPAW/first-server
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+ls
+fscrypt unlock Documents/passcodes
+nvim Documents/passcodes/passcodes.txt
+fscrypt lock Documents/passcodes
+nvim .config/nvim/init.lua 
+ls
+nvim .config/nvim/init.lua 
+nvim 
+cd Documents/Programming/PHP
+ls
+php -S 0.0.0.0:8000
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+cd Documents/Programming/ph
+cd Documents/Programming/PHP
+nvim readCSV.php
+nvim readCSV.php
+nvim readCSV.php
+ls
+nvim readCSV.php
+mkdir csvToIcs
+cd csvToIcs
+composer init
+sudo pacman -S composer
+composer init
+ls
+cd ..
+ls
+mv doc.csv icsTimes.php readCSV.php ./csvToIcs
+ls
+cd csvToIcs
+ls
+nvim
+nvim .config/waybar/style.css 
+nvim Documents/misc/colors.txt 
+nvim .config/waybar/style.css 
+cd .config/swaync
+ls
+nvim style.css
+cd .config/swaync
+nvim style.css
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+cd .config/swaync
+nvim style.css
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+pkill swaync
+swaync
+notify-send "test"
+hyprshot -m output
+notify-send "test"
+hyprshot -m output
+notify-send "test"
+notify-send "test"
+notify-send "test"
+notify-send "test"
+nvim Documents/misc/english.txt 
+nvim Documents/misc/english.txt 
+cd .config/swaync
+ls
+nvim config.json
+nvim style.css
+nvim .config/swaync/config.json 
+hyprshot -m window
+cd .config/swaync
+ls
+nvim style.css
+notify-send "test"
+notify-send "test"
+notify-send "test"
+nvim /etc/xdg/swaync/style.css
+hyprshot -m window
+notify-send "test"
+notify-send "test"
+notify-send "test"
+nvim /etc/xdg/swaync/style.css
+hyprshot -m window
+nvim Documents/misc/english.txt 
+nvim .config/swaync/style.css 
+nvim Documents/misc/english.txt 
+nvim .config/hypr/binds.conf 
+nvim .config/swaync/style.css 
+hyprshot -m output
+hyprshot -m output
+notify-send "test"
+notify-send "test"
+notify-send "test"
+hyprshot -m output
+hyprshot -m output
+notify-send "test"
+notify-send "test"
+notify-send "test"
+y
+nvim .config/hypr/binds.conf 
+cd .config
+ls
+git add .
+git commit -m "swaync style"
+git diff --cached --name-only\
+
+git diff --name-only origin/branch-name..HEAD\
+
+git diff --name-only @{u}...HEAD\
+
+cd nvim/ini
+nvim
+git push
+nvim Documents/misc/english.txt 
+fscrypt unlock Documents/passcodes
+nvim Documents/passcodes/passcodes.txt
+fscrypt unlock Documents/passcodes
+nvim Documents/passcodes/passcodes.txt 
+fscrypt lock Documents/passcodes
+sudo pacman -S vscode
+cd Documents/Programming/Unity/NeuroRhythm
+nvim
+cd
+cd Documents/Programming/python
+y
+yay -S unityhub
+cd Documents/Programming
+ls
+mkdir Unity
+cd Unity
+git clone https://github.com/MWidzi/NeuroRhythm.git
+ls
+ls -a
+git clone https://github.com/MWidzi/NeuroRhythm.git
+ls
+cd NeuroRhythm
+ls
+nvim
+nvim 
+nvim
+cd
+cd Documents/Programming/python
+ls
+nvim test.py
+nvim ksiazka_telefoniczna.py
+python3 Documents/Programming/python/test.py 
+y
+python3 Documents/Programming/python/test.py 
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 ksiazka_telefoniczna.py
+cd .config
+ls
+nvim hypr/binds.conf
+cd Documents/Programming/PZAIW_widzi_2025-6
+ls
+cd first-server
+nvim
+nvim 
+nvim Documents/Programming/PHP/csvToIcs/doc.csv 
+nvim Documents/Programming/PHP/csvToIcs/doc.csv 
+y
+cd Documents/Programming/PHP
+ls
+cd csvToIcs
+ls
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+y
+nvim Documents/Programming/PHP/csvToIcs/readCSV.php 
+cd Documents/Programming/PHP/csvToIcs
+nvim test.php
+nvim test.php
+y
+nvim icsTimes.php
+fscrypt unlock Documents/passcodes
+nvim Documents/passcodes/passcodes.txt 
+fscrypt lock Documents/passcodes
+cd Documents/Programming/Unity/NeuroRhythm
+ls
+git commit -m "fixed note expansion"
+git add .
+git commit -m "fixed note expansion"
+git push 
+fscrypt unlock Documents/passcodes
+nvim Documents/passcodes/passcodes.txt 
+fscrypt lock Documents/passcodes
+nvim 
+cd Documents/Programming/Unity/NeuroRhythm
+cd Assets/Scripts
+bd NeuroRhythm
+git pull
+git pull
+nvim .clang-format
+nvim Assets/Scripts/PlayerController.cs 
+nvim Assets/Scripts/CameraController.cs 
+cd .config
+ls
+cd 
+ls 
+ls -a 
+cd .mozilla
+ls
+ls -a
+cd firefox
+ls
+cd fj3la9xy.default
+ls
+ls -a
+bash 
+nvim .config/hypr/animations.conf 
+cd .config
+ls
+nvim fzf/.fzfrc 
+cd kitty
+s
+ls
+cd ..
+y
+cd yazi
+ls
+cd ..
+cd .mozilla
+cd firefox
+ls
+nvim profiles.ini
+cd fj3la9xy.default
+nvim Documents/misc/colors.txt 
+nvim Documents/misc/colors.txt 
+powerprofilesctl set
+powerprofilesctl set power-saver
+upopwer
+upower
+upower -i
+upower --monitor-detail
+upower -i $(upower -e | grep BAT)
+npm install express 
+ls
+nvim index.js
+nvim index.js
+nvim index.js
+\:q
+nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+curl 0.0.0.0:8000
+mkdir public
+cd public
+touch index.html
+mv ~/Documents/Programming/PZAIW_widzi_2025-6/first-server/static/favicon.ico ./
+mv ./favicon.ico ../../first-server/static
+cp ~/Documents/Programming/PZAIW_widzi_2025-6/first-server/static/favicon.ico ./
+ls
+\:q
+cd public
+mkdir css
+cd css
+touch style.csw
+rm style.csw
+touch style.css
+tree -i 
+tree -i node_modules/
+cp ../first-server/static/index.html ./public/index.html
+\:q
+cd Documents/Programming/PZAIW_widzi_2025-6
+ls
+mkdir express-flashcards
+cd express-flashcards
+npm init --yes
+nvim
+nvim
+nvim
+nvim
+cd Documents/Programming/PZAIW_widzi_2025-6/express-flashcards
+ls
+npm run dev
+npm run
+node index.js
+nvim 
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+curl 0.0.0.0:8000
+man curl
+curl -X POST 0.0.0.0:8000
+curl --request POST http://localhost:8000/
+sudo pacman -S tree
+tree -i
+cd Documents/Programming/PZAIW_widzi_2025-6/express-flashcards
+tree -i
+ls
+cd node_modules
+ls
+cd ..
+tree -I node_modules
+cd
+curl --request POST http://localhost:8000/
+curl --request POST http://localhost:8000/
+curl http://localhost:8000/
+curl http://localhost:8000/
+nvim Documents/misc/colors.txt 
+nvim .config/hypr/visuals.conf 
+nvim Documents/misc/colors.txt 
+nvim .config/swaync/style.css 
+nvim Documents/misc/colors.txt 
+ls
+rm -rf chrome
+rm -rf user.js
+pwd
+nvim Documents/misc/english.txt 
+nvim Documents/misc/colors.txt 
+nvim Backup/nvim/init.lua 
+nvim .config/nvim/init.lua 
+nvim .config/hypr/visuals.conf 
+nvim .config/nvim/init.lua 
+nvim .config/waybar/style.css 
+nvim .config/hypr/visuals.conf 
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+upower --battery
+nvim Documents/misc/english.txt 
+ls
+cd Documents
+ls
+cd ..
+cd Downloads
+ls
+git clone https://github.com/adriankarlen/textfox
+cd textfox
+ls
+cd
+cd .mozilla
+ls
+cd firefox
+ls
+cd fj3la9xy.default
+lsl
+ls
+cp ~/Downloads/textfox/chrome ./
+cp -r ~/Downloads/textfox/chrome ./
+ls
+cp -r ~/Downloads/textfox/user.js ./
+ls
+cd ..
+ls
+cd 6k069cjj.default-release
+cp -r ../fj3la9xy.default/chrome ./
+cp  ../fj3la9xy.default/user.js ./
+cd
+cd Downloads
+cd textfox
+ls
+nvim tf-install.sh
+./tf-install.sh
+chmod +x tf-install.sh
+sh tf-install.sh
+sh tf-install.sh
+cd 
+cd .mozilla/firefox
+ls
+cd 6k069cjj.default-release
+ls | grep chrome 
+cd chrome
+ls
+nvim defaults.css
+nvim overwrites.css
+nvim overwrites.css
+grep --tf-accent
+nvim overwrites.css
+ls
+nvim defaults.css
+nvim userChrome.css
+nvim findbar.css
+nvim defaults.css
+nvim userChrome.css
+nvim userChrome.css
+nvim config.css
+bd firefox
+ls
+cd ..
+ls
+cd extensions
+ls
+ls
+cd ..
+cd firefox
+ls
+cd 6k069cjj.default-release
+ls
+cd chrome
+ls
+nvim config.css
+hyprshot -m window
+hyprshot -m window
+nvim .config/zsh/.zshrc 
+nvim .config/kitty/kitty.conf 
+cd .config/scripts
+sh -c ./lock-in-mode.sh
+chmod +x ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+nvim .config/hypr/visuals.conf 
+nvim .config/hypr/binds.conf 
+cd .config
+mkdir scripts
+cd scripts
+touch lock-in-mode.sh
+nvim lock-in-mode.sh
+hyprctl clients
+nvim .config/kitty/kitty.conf 
+nvim .config/hypr/rules.conf 
+awk '{print $2}'
+nvim Downloads/textfox/chrome/defaults.css 
+pkill waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+nvim .config/hypr/visuals.conf 
+nvim .config/waybar/style.css 
+cd .config
+touch alt_styles
+cp ./waybar/style.css alt_styles
+cd wallpapers
+cd ..
+rm alt_styles
+mkdir alt_styles
+cp ./waybar/style.css ./alt_styles
+cd alt_styles
+ls
+cd .. 
+nvim waybar/style.css 
+mv ./alt_styles/style.css waybar/style.css
+cd alt_styles
+ls
+cd ..
+cp waybar/style.css alt_styles
+nvim waybar/style.css 
+cp waybar/config.jsonc alt_styles
+nvim waybar/config.jsonc 
+cd alt_styles
+ls
+mkdir waybar
+mkdir normal
+mkdir alt
+rm -rf normal
+rm -rf alt
+cd waybar
+mkdir alt
+mkdir normal
+cd ..
+cp config.jsonc waybar/normal
+cp style.css waybar/normal
+ls
+cd waybar
+ls
+cd normal
+ls
+nvim style.css
+cd ..
+cd ..
+ls
+rm config.jsonc style.css
+ls
+cd waybar/normal
+ls
+bd alt-styles
+bd alt_styles
+cd ..
+cp waybar/style.css alt_styles/waybar/alt
+cp waybar/config.jsonc alt_styles/waybar/alt
+cd alt_styles
+ls
+cd waybar
+ls
+cd alt
+ls
+cd ..
+cd normal
+ls
+cd ..
+cd alt
+nvim style.css
+nvim style.css
+nvim config.jsonc
+nvim style.css
+bd .config
+nvim zsh/.zshrc 
+cd .config/scripts
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+sh -c ./lock-in-mode.sh
+cd .config/scripts
+ls
+nvim lock-in-mode.sh
+nvim .config/zsh/.zshrc 
+v
+v Documents/misc/style.css 
+v Documents/misc/style.css 
+v Documents/misc/style.css 
+hyprshot -m output
+hyprshot -m output
+hyprshot -m output
+hyprshot -m output
+fscrypt unlock Documents/passcodes
+nvim Documents/passcodes/passcodes.txt 
+cd Documents/Programming/Unity/NeuroRhythm
+ls
+git pull
+nvim
+v
+v
+v
+nvim .config/scripts/lock-in-mode.sh 
+cd .mozilla/firefox/6k069cjj.default-release
+ls
+cd chrome
+ls
+v config.css
+sudo pacman -S hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+y
+sh -c ./get-song.sh
+chmod 
+chmod +x ./get-song.sh
+sh -c ./get-song.sh
+nvim get-song.sh 
+playerctl metadata --all-players --format '{{ status }}: {{ artist }} - {{ title }}'\
+
+v .config/waybar/style.css 
+v .config/waybar/config.jsonc 
+v .config/waybar/mediaplayer.py 
+v .config/waybar/config.jsonc
+nvim .config/scripts/lock-in-mode.sh 
+sh -c ./get-song.sh
+sh -c ./get-song.sh
+sh -c ./get-song.sh
+playerctl metadata --all-players --format '{{ player }}'
+playerctl metadata --all-players --format '{{ playerName }}'
+sh -c ./get-song.sh
+sh -c ./get-song.sh
+playerctl metadata --all-players --format '{{ playerName }}'
+v .config/scripts/get-song.sh 
+v .config/waybar/config.jsonc 
+pacman -S grim imagemagick wl-clipboard
+sudo pacman -S grim imagemagick wl-clipboard
+yay -S quickshell
+sudo pacman -Syu
+yay -S quickshell
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+playerctl metadata --all-players --format '{{ status }}: {{ artist }} - {{ title }}'\
+
+hyprlock
+ playerctl metadata --all-players --format '{{ status }}: {{ artist }} - {{ title }}' | echo\
+
+ playerctl metadata --all-players --format '{{ status }}: {{ artist }} - {{ title }}' | echo\
+
+hyprlock
+hyprlock
+hyprlock
+playerctl metadata --all-players --format '{{ status }}: {{ artist }} - {{ title }}'\
+
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+whoami
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+upower
+upower -i
+upower -i
+upower --show-info
+upower --battery
+upower --battery | grep 'percentage'
+upower --battery | grep 'percentage' | tail -n 1
+tail -n=1 'two words'
+tail -n 1 'two words'
+echo "this is a string" | awk '{print $NF;}'\
+
+echo "this is a nigger" | awk '{print $NF;}'\
+
+upower --battery | grep 'percentage' | awk '{print $NF;}'
+whatis awk
+man awk
+hyprlock 
+hyprlock 
+hyprlock 
+hyprlock 
+hyprlock 
+hyprlock 
+hyprlock 
+hyprlock 
+hyprlock 
+whoami
+hyprlock 
+fc-list | grep -i hack\
+
+fc-list
+fc-list | grep -i hack\
+
+fc-list | grep -i H\
+
+fc-list | grep -i Ha\
+
+fc-list | grep -i Hack\
+
+sudo pacman -S ttf-hack-nerd\
+
+fc-list | grep -i Hack\
+
+hyprlock
+hyprlock
+hyprlock
+upower --i
+upower --battery
+upower --battery | grep 'state' | awk '{print $NF;}'
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+hyprlock
+yay -S quickshell
+yay -S quickshell
+cd .config/hypr
+ls
+touch colors.conf
+nvim colors.conf
+git clone https://github.com/jamdon2/hyprquickshot ~/.config/quickshell/hyprquickshot
+quickshell -c hyprquickshot -n
+hyprshot -zm output -m "eDP-1" -o "~/.config/images" -f "hyprlock_wallpaper.png"\
+
+yes
+hyprshot -zm output -m "eDP-1" -o "~/.config/images" -f "hyprlock_wallpaper.png"\
+
+hyprshot -zm output -m "eDP-1" -o "~/.config/images" -f "hyprlock_wallpaper.png"\
+
+hyprshot -zm output -m "eDP-1" -o ~/.config/images -f "hyprlock_wallpaper.png"\
+
+pwd
+pwd
+pwd
+pwd
+pwd
+pwdd
+pwd
+pwd
+pwd
+pdw
+hyprshot -zm output -m "eDP-1" -o ~/.config/images -f "hyprlock_wallpaper.png"\
+
+v .config/hypr/hyprlock.conf 
+hyprloc
+hyprlock
+hyprlock
+v .config/hypr/hyprlock.conf 
+hyprlock
+v .config/hypr/hyprlock.conf 
+v .config/hypr/visuals.conf 
+v .config/hypr/binds.conf 
+cd .config
+;s
+ls
+cd scripts
+;s
+ls
+v get-song.sh
+v get-song.sh
+v get-battery.sh
+chmod +x ./get-battery.sh
+sh -c ./get-battery.sh
+v get-battery.sh
+sh -c ./get-battery.sh
+sh -c ./get-battery.sh
+v get-battery.sh
+v get-song.sh
+powerprofilesctl set 'normal'
+powerprofilesctl set 'balanced'
+cd ..
+ls
+cd images
+pwd
+y
+y
+cd ..
+cd scripts
+v lock.sh
+chmod +x lock.sh
+sh -c ./lock.sh
+v get-battery.sh
+quickshell -c hyprquickshot -l
+quickshell -c hyprquickshot -n
+v .config/waybar/config.jsonc 
+v .config/hypr/binds.conf 
+v .config/hypr/hyprlock.conf 
+v .config/scripts/get-battery.sh 
+v .config/hypr/hyprlock.conf 
+v .config/hypr/colors.conf 
+v Documents/misc/colors.txt 
+y
+y
+v .config/scripts/lock.sh 
+v .config/scripts/get-song.sh 
+v .config/hypr/hyprlock.conf 
+playerctl metadata --all-players --format '{{ playerName }}' | head -n 1
+powerprofilesctl set "power-saving"
+powerprofilesctl set "power-saver"
+v .config/hypr/binds.conf 
+v .config/scripts/lock.sh 
+v .config/scripts/lock-in-mode.sh 
+cd Backup
+ls
+mkdir waybar
+mv ./waybar waybar-24-10-2025
+cp ~/.config/waybar/config.jsonc ./waybar-24-10-2025
+cp ~/.config/waybar/style.css ./waybar-24-10-2025
+cd waybar-24-10-2025
+ls
+cd .config/scripts
+v waybarCava.sh
+cd ..
+cd waybar
+ls
+cd ..
+cd alt_styles
+ls
+cd waybar
+cd normal
+v config.jsonc
+v style.css
+wabar
+waybar
+cd .config/scripts
+chmod +x waybarCava.sh
+./waybarCava.sh
+sudo pacman -S cav
+sudo pacman -S cava
+cava
+cmd[update:1000] echo "$(~/.config/scripts/get-song.sh)"\
+
+v .config/hypr/hyprlock.conf 
+playerctl --player=playerctld --list-all | head -n 1
+playerctl --player=playerctld --list-all\
+
+v .config/scripts/get-song.sh 
+v .config/scripts/lock.sh 
+y
+y
+.config/scripts/get-song.sh 
+.config/scripts/get-song.sh wb
+playerctl --player=playerctld --list-all | head -n 1\
+
+playerctld
+playerctld daemon &\
+
+sudo pacman -Rs mako
+powerprofilesctl set 'power-saving'
+powerprofilesctl set 'power-saver'
+powerprofilesctl set 'balanced'\
+
+powerprofilesctl set 'power-saver'
+~/.config/scripts/waybarCava.sh\
+
+v .config/scripts/waybarCava.sh 
+cd .config/systemd/user
+ls
+hyprlock
+cd .config/scripts
+v hyprlockCava.service
+ln -s ./hyprlockCava.service ~/.config/systemd/user/hyprlockCava.service
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now hyprlockCava.service\
+systemctl --user start --now hyprlockCava.service
+rm ~/.config/systemd/user/hyprlockCava.service
+cp ./hyprlockCava.service ~/.config/systemd/user
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now hyprlockCava.service\
+systemctl --user start --now hyprlockCava.service
+systemctl --user status --now hyprlockCava.service\
+journalctl --user -u hyprlockCava -f
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now hyprlockCava.service\
+systemctl --user start --now hyprlockCava.service
+systemctl --user status --now hyprlockCava.service\
+journalctl --user -u hyprlockCava -f
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user disable --now hyprlockCava.service\
+systemctl --user stop --now hyprlockCava.service
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now hyprlockCava.service\
+systemctl --user start --now hyprlockCava.service
+systemctl --user status --now hyprlockCava.service\
+journalctl --user -u hyprlockCava -f
+systemctl --user status --now hyprlockCava.service\
+journalctl --user -u hyprlockCava -f
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user disable --now hyprlockCava.service\
+systemctl --user stop --now hyprlockCava.service
+pkill cava
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now hyprlockCava.service\
+systemctl --user start --now hyprlockCava.service
+systemctl --user status --now hyprlockCava.service\
+journalctl --user -u hyprlockCava -f
+journalctl --user -u hyprlockCava.service -b
+systemctl --user status --now hyprlockCava.service\
+journalctl --user -u hyprlockCava -f
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now hyprlockCava.service\
+systemctl --user start --now hyprlockCava.service
+systemctl --user status --now hyprlockCava.service\
+journalctl --user -u hyprlockCava -f
+tail -f  /dev/shm/cava_output.txt
+systemctl --user status --now hyprlockCava.service\
+journalctl --user -u hyprlockCava -f
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now hyprlockCava.service\
+systemctl --user start --now hyprlockCava.service
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now hyprlockCava.service\
+systemctl --user start --now hyprlockCava.service
+v .config/systemd/user/hyprlockCava.service 
+y
+cd .config/scripts
+v hyprlockCava.sh
+y
+cd ..
+cd ..
+cd /dev
+cd /shm
+cd ./shm
+ls
+v cava_output.txt
+y
+chmod +w cava_output.txt
+y
+y
+v
+v hypr/hyprlock.conf 
+./hyprlockCava.sh
+./hyprlockCava.sh
+touch eq.sh
+chmod +x eq.sh
+chmod +x hyprlockCava.sh
+./eq.sh
+./eq.sh
+./eq.sh
+./eq.sh
+./eq.sh
+./eq.sh
+./eq.sh
+./eq.sh
+./eq.sh
+./eq.sh
+./eq.sh
+chmod +x hyprlockCava.sh
+./hyprlockCava.sh
+./hyprlockCava.sh
+./hyprlockCava.sh
+./hyprlockCava.sh
+./hyprlockCava.sh
+./hyprlockCava.sh
+./hyprlockCava.sh
+./hyprlockCava.sh
+./hyprlockCava.sh
+./hyprlockCava.sh
+systemctl --user status --now cava-to-file.service\
+journalctl --user -u cava-to-file -f
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now cava-to-file.service\
+systemctl --user start --now cava-to-file.service
+systemctl --user status --now hyprlockCava.service\
+journalctl --user -u cava-to-file -f
+cd .config/scripts
+ls
+./eq.sh
+./eq.sh
+./eq.sh
+./eq.sh
+v hyprlockCava.sh
+cat /dev/shm/cava_output.txt
+cat /dev/shm/cava_output.txt
+pkill cava
+cat /dev/shm/cava_output.txt
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now cava-to-file.service\
+systemctl --user start --now cava-to-file.service
+systemctl --user status --now hyprlockCava.service\
+journalctl --user -u cava-to-file -f
+systemctl --user daemon-reexec\
+systemctl --user daemon-reload\
+systemctl --user enable --now hyprlockCava.service\
+systemctl --user start --now hyprlockCava.service
+cd .config/scripts
+ls
+./eq.sh
+v eq.sh
+v .config/scripts/hyprlockCava.sh 
+cd .config/systemd/user
+ls
+rm hyprlockCava.service
+cd
+cd .config/scripts
+ls
+rm eq.sh hyprlockCava.sh hyprlockCava.service
+y
+cd .config
+git pull
+git add .
+git commit -m 'waybar changes, did hyprlock and some custom sh'
+git pull
+git merge
+y
+hyprctl reload
+v Backup/.config/hypr/binds.conf
+cd .config
+git pull 
+git config pull.rebase false 
+git pull
+git add .
+git commit -m 'changed waybar, added hyprlock and custom sh'
+git pull 
+ls
+v hypr
+v hypr
+v hypr
+v hyor
+v hypr
+v hypr
+git reset --soft origin/main\
+
+git add .
+git push 
+git commit -m 'changed waybar, added hyprlock and custom .sh'
+git push 
+y
+hyprctl reload
+git status --short\
+
+git status
+git update-index --assume-unchanged binds.conf
+cd ..
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+fscrypt lock Documents/passcodes
+cd .config
+ls
+cd scripts
+ls
+cd ..
+cd scripts
+chmod +x ./*
+cd 
+cd .config
+v v hypr/hyprlock.conf 
+v hypr/hyprlock.conf 
+cava
+powerprofilesctl set 'balanced'
+powerprofilesctl set 'power-saver'
+cd .config/scripts
+ls
+v lock.sh
+git status
+cd ..
+v hypr/hyprlock.conf
+git update-index --assume-unchanged hypr/hyprlock.conf
+git status
+v .gitignore
+git update-index --assume-unchanged scripts/lock.sh
+git pull
+v .gitignore
+git status
+rm ./images/hyprlock_wallpaper.png
+git pull
+git stash hypr/hyprlock.conf scripts/lock.sh
+git stash push -m "Temp local changes"\
+git pull\
+git stash pop\
+
+git stash pop
+y
+hyprctl reload
+git status
+git add/rm images/hyprlock_wallpaper.png
+git status
+git branch
+git update-index --assume-unchanged scripts/lock.sh
+git update-index --assume-unchanged hypr/hyprlock.conf
+git stash drop
+git pull 
+git status\
+
+v images/hyprlock_wallpaper.png
+git rm --cached images/hyprlock_wallpaper.png\
+
+git status
+git add .
+git push
+git add .
+git commit -m 'removed image'
+git push 
+mkdir firefox
+mv ~/.mozilla/firefox/6k069cjj.default-release/chrome/config.css ./firefox
+cd firefox
+ln --symbolic ./config.css ~/.mozilla/firefox/6k069cjj.default-release/chrome/config.css
+ls
+v firefoxtheme.txt
+ls
+cd .. 
+git add .
+git commit -m 'firefox config'
+git push 
+cd .config
+y
+sudo pacman -S btop
+btop
+reboot 
+waybar
+sudo reboot 
+cd .config/waybar
+ls
+v config.jsonc
+git update-index --assume-unchanged ./config.jsonc
+cd ..
+cd alt_styles
+ls
+cd waybar
+cd alt
+v config.jsonc
+cd ../normal
+v config.jsonc
+cd ..
+git update-index --assume-unchanged ./alt/config.jsonc
+git update-index --assume-unchanged ./normal/config.jsonc
+waybar
+y
+ln -s .config/firefox/config.css .mozilla/firefox/6k069cjj.default-release/chrome/config.css
+cp .config/firefox/config.css .mozilla/firefox/6k069cjj.default-release/chrome/config.css
+btop
+btop
+powerprofilesctl set 'normal'
+powerprofilesctl set 'balanced'
+fastfetch
+v .config/hypr/hyprlock.conf 
+hyprlock
+upower --battery | grep 'percentage' | awk '{print $NF;}'
+v .config/hypr/hyprlock.conf 
+v .config/hypr/hyprlock.conf 
+cd .config/scripts
+ls
+./get-battery.sh
+v get-battery.sh 
+v get-song.sh
+v get-battery.sh 
+~/.config/scripts/get-battery.sh
+cd ..
+hyprlock
+btop 
+pkill -all hyprlock
+pkill hyprlock
+btop
+killall hyprlock
+killall waybarCava.sh
+btop 
+killall sh
+killall cava
+cd .config/scripts
+ls
+v lock.sh
+v lock-in-mode.sh
+btop 
+npm install ejs
+ls
+mv foot.partial.ejs views
+mv head.partial.ejs views
+ls
+cd views
+ls
+ls
+mkdir views
+cd views
+touch categories.ejs
+cd Documents/Programming/PZAIW_widzi_2025-6/express-flashcards
+v index.js
+cd .config
+ls
+cd discord
+ls
+v .config/hypr/colors.conf 
+cp ~/Downloads/SoftX.theme.css ./
+ls
+powerprofilesctl set 'power-saver'
+cd Documents/Programming/PZAIW_widzi_2025-6
+ls
+cd express-flashcards
+ls
+ls
+node run dev
+node start
+node index.js 
+btop
+upower --battery
+upower --battery
+v .config/hypr/colors.conf 
+v .config/hypr/colors.conf 
+v Documents/misc/colors.txt 
+cd .config
+mkdir Discord
+cd .config
+ls
+mv discord/themes discord/themes
+mv discord/themes Discord/themes
+cd Discord
+ls
+cd ..
+cd discord
+ls
+y
+y
+ls
+v DiscordPlus.theme.css
+v SoftX.theme.css
+cp ~/Downloads/chillax.theme.css ./
+ls
+rm chillax.theme.css SoftX.theme.css
+cp ~/Downloads/system24.theme.css ./
+v system24.theme.css
+ls
+cd ..
+ls
+cd settings
+ls
+v settings.json
+cd ../themes
+rm DiscordPlus.theme.css
+ls
+cd ..
+v settings.json
+mv ./settings ~/.config/Discord
+mv ./themes ~/.config/discord
+mv settings.json ~/.config/Discord
+ln -s ~/.config/Discord/themes ./themes
+ln -s ~/.config/Discord/settings ./settings
+ln -s ~/.config/Discord/settings.json ./
+y
+cp ~/.config/Discord/themes ./
+cp -r ~/.config/Discord/themes ./
+cp -r ~/.config/Discord/settings ./
+cp -r ~/.config/Discord/settings.json ./
+ls
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+fscrypt lock Documents/passcodes
+cd .config
+git add .
+git commit -m 'vesktop theme'
+git push 
+cd ..
+cd .config
+git pull
+git stash .
+git stash -u
+git pull
+y
+git merge
+git stash --include-untracked
+git stash push -m "Stash local changes in hypr/binds.conf"\
+git merge origin/main\
+git stash pop   # reapply your changes after the merge\
+
+git add hypr/binds.conf\
+git commit -m "Save local changes to hypr/binds.conf before merging"\
+git merge origin/main\
+
+git checkout -- hypr/binds.conf\
+git merge origin/main\
+
+hyprctl reload
+cd hypr
+v wallpapers.conf
+git update-index --assume-unchanged ./wallpapers.conf
+v Documents/misc/english.txt 
+btop
+btop
+cd .config/Discord
+ls
+cd themes
+v system24.theme.css
+v Documents/misc/english.txt 
+y
+upower --battery
+v Documents/misc/colors.txt 
+btop
+btop
+btop
+btop
+btop
+btop --config ~/.config/btop
+btop --config ~/.config/btop/btop.conf
+btop
+btop
+btop
+btop
+btop
+btop
+v
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+v .config/zsh/.zshrc 
+btop
+cd .config
+ls
+cd btop
+ls
+v btop.conf
+cd theme
+cd themes
+ls
+ls
+ls
+ls
+ls
+btop
+v widzi.theme
+c ..
+cd ..
+ls
+v btop.conf
+cd ..
+mv ./btop ~/.config
+ls
+ln -s ~/.config/btop ./
+ls
+cd ..
+cd .config
+cd btop
+ls
+v btop.conf
+v btop.conf
+cd themes
+c
+cd
+v Documents/misc/colors.txt 
+ln -s ~/.config/btop ~/.config
+ln -s /home/widzi/.config/btop ~/.config/btop\
+
+ls -l ~/.config/btop\
+
+ln -s /home/widzi/.config/btop ~/.config/btop\
+
+v .config/btop/themes/widzi.theme 
+v .config/btop/themes/widzi.theme 
+v .config/hypr/colors.conf 
+cd .config
+git status
+btop
+btop
+btop
+btop
+y
+powerprofilesctl set 'power-saver'
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+btop
+fastfetch
+fastfetch
+cd .config
+cd rofi
+ls
+v theme.rasi
+v theme.rasi
+cd
+cd .config
+ls
+fastfetch -c all.jsonc
+fastfetch --gen-config-full
+mv ./fastfetch ~/.config
+ln -s /home/widzi/.config/fastfetch ./
+ln -i
+y
+cd ../.config/fastfetch
+ls
+v config.jsonc
+v Documents/misc/colors.txt 
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+v .config/scripts/get-song.sh 
+cd Documents/Programming/python
+v ksiazka_telefoniczna.py
+cd Documents/Programming/python
+v ksiazka_telefoniczna.py
+python3 zadanie_na_ocene_slowniki.py
+python3 zadanie_na_ocene_slowniki.py
+python3 zadanie_na_ocene_slowniki.py
+python3 zadanie_na_ocene_slowniki.py
+python3 zadanie_na_ocene_slowniki.py
+python3 zadanie_na_ocene_slowniki.py
+python3 zadanie_na_ocene_slowniki.py
+python3 zadanie_na_ocene_slowniki.py
+python3 zadanie_na_ocene_slowniki.py
+cd Documents/Programming/python
+ls
+v zadanie_na_ocene_slowniki.py
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch --colors-block-width 20\
+
+fastfetch --colors-block-width 20\
+
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc --colors-block-width 10
+fastfetch -c .config/fastfetch/config.jsonc --colors-block-width 10
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc -v
+fastfetch -v -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -c .config/fastfetch/config.jsonc
+fastfetch -h os-format\
+
+fastfetch -h host-format\
+
+fastfetch -h de-format\
+
+fastfetch -h wm-format\
+
+fastfetch -h wm-format\
+
+fastfetch -h cpu-format\
+
+fastfetch -h memory-format\
+
+fastfetch -h disk-format\
+
+fastfetch -h editor-format\
+
+fastfetch -h shell-format\
+
+fastfetch -h cpu-format\
+
+fastfetch -h cpu-format\
+
+fastfetch -h gpu-format\
+
+fastfetch -h title-format\
+
+cd .config/images
+v fastfetch-logo.txt
+v Documents/misc/colors.txt 
+btop
+fastfetch -c ~/.config/fastfetch/config.jsonc
+fastfetch -c ~/.config/fastfetch/config.jsonc
+fastfetch
+fastfetch
+y
+v
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+clear
+fastfetch
+fastfetch
+clear
+fastfetch -h wm-format\
+
+fastfetch -h packages-format\
+
+v Documents/misc/colors.txt 
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+cd .config/fastfetch/
+v config.jsonc
+cd ..
+cd hypr
+v binds.conf
+v programs.conf
+v binds.conf
+powerprofilesctl set 'power-saver'
+clear
+cd .config/kitty
+v kitty.conf
+v Documents/misc/colors.txt 
+cd .config
+mkdir wlogout
+wlogout
+wlogout
+wlogout
+ln -s ~/.config/wlogout ~/.config/wlogout
+wlogout
+v .config/scripts/lock.sh 
+hyprctl layers
+cd Documents/misc
+v getHyprNamespace.sh
+chmod +x getHyprNamespace.sh
+./getHyprNamespace.sh
+clear
+cd .config/waybar
+v colors.css
+v .config/wlogout/layout 
+v .config/hypr/colors.conf 
+v .config/waybar/style.css 
+v .config/hypr/colors.conf 
+v .config/hypr/binds.conf 
+v .config/hypr/rules.conf 
+v .local/share/Steam.backup/package/bins_ubuntu12.zip.vz.5cc501f754dd7f2c29d5b401daab722880118bdc_38469948 
+v .config/hypr/binds.conf 
+v .config/waybar/style.css 
+yay -S wlogout
+wlogout
+cp /etc/wlogout/layout .config/wlogout
+cp /etc/wlogout/style.css .config/wlogout
+cd .config/wlogout
+ls
+v layout
+v style.css
+cd ..
+git status
+v wlogout/style.css
+sudo pacman -S obs
+sudo pacman -S obs-studio
+sudo pacman -S pipewire wireplumber xdg-desktop-portal-hyprland
+systemctl --user enable pipewire.service pipewire-pulse.service wireplumber.service\
+systemctl --user start pipewire.service pipewire-pulse.service wireplumber.service\
+
+systemctl --user status xdg-desktop-portal-hyprland.service\
+
+systemctl --user enable --now xdg-desktop-portal-hyprland.service\
+
+systemctl --user status xdg-desktop-portal-hyprland.service\
+
+v .zshenv 
+y
+fastfetch
+xdg-open .config/images/fastfetch_logo.png
+fastfetch -c ~/.config/fastfetch/config.jsonc
+y
+fastfetch --logo .config/images/fastfetch_logo.png 
+y
+y
+y
+cd ..
+v fastfetch/config.jsonc
+v .config/hypr/colors.conf 
+v .config/nvim/init.lua 
+v .config/kitty/kitty.conf 
+cd .config
+cd alt_styles/waybar/normal
+v config.jsonc
+cd ../alt
+v config.jsonc
+cd ../../../fastfetch
+v config.jsonc
+v .config/hypr/binds.conf 
+v .config/fastfetch/config.jsonc 
+v .config/wlogout/style.css 
+cd .config
+git add .
+git commit -m 'fastfetch and wlogout'
+git push
+git push
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+cd .config
+git pull 
+git fetch
+git config --global pull.rebase true
+git pull
+y
+git stash 
+git update-index --no-assume-unchanged alt_styles/waybar/alt/config.jsonc alt_styles/waybar/normal/config.jsonc scripts/lock.sh waybar/config.jsonc\
+
+git stash 
+git pull
+git stash pop
+git stash drop
+git status
+git pull
+git update-index --assume-unchanged waybar/config.jsonc alt_styles/waybar/alt/config.jsonc alt_styles/waybar/normal/config.jsonc scripts/lock.sh
+git reset --hard\
+
+cd .config
+git status
+git update-index --assume-unchanged alt_styles/waybar/alt/config.jsonc alt_styles/waybar/normal/config.jsonc scripts/lock.sh waybar/config.jsonc
+sudo pacman -S hyprpicker hyprsunset 
+yay -S pyprland
+sudo pacman -Syu
+yay -S pyprland
+v .config/hypr/animations.conf 
+v
+cava
+ls
+v system24.theme.css
+cd .config
+ls
+ln -s ~/.config/cava ~/.config/cava
+cp Discord/themes/system24.theme.css ~/.var/app/dev.vencord.Vesktop/config/vesktop/themes/system24.theme.css
+git status 
+git add .
+powerprofilesctl set 'power-saver'
+cd Documents/Programming/PZAIW_widzi_2025-6/
+ls
+cd express-flashcards
+;s
+ls
+v index.js
+upower -i
+upower --battery
+cd Documents/Programming/PZAIW_widzi_2025-6/express-flashcards
+node index.js
+cd .config
+git add .
+git commit -m 'removed temp nvim file or somet'
+git push
+git push
+fscrypt unlock 
+fscrypt unlock 
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+fscrypt lock Documents/passcodes
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+v .config/kitty/kitty.conf 
+v .config/waybar/config.jsonc 
+pwd
+notify-send 'test'
+notify-send 'test'
+hyprlock
+cd .config
+cd .config/hypr
+git status
+v .config/hypr/binds.conf 
+v .config/hypr/programs.conf 
+cd .config/swaync
+ls
+v style.css
+v config.json
+c style.css
+v style.css
+v .config/hypr/animations.conf 
+cat /etc/xdg/swaync/configSchema.json
+v /etc/xdg/swaync/configSchema.json
+v .config/hypr/binds.conf 
+cd Documents/misc
+ls
+sh -c ./getHyprNamespace.sh
+v .config/hypr/rules.conf 
+cd .config/swaync/y
+cd .config/swaync/
+v config.json
+v style.css
+v config.json
+v .config/nvim/init.lua 
+upower --battery
+cargo install momoisay
+momoisay
+momoisay say i hate niggers
+momoisay say 'I hate niggers'
+momoisay animate
+momoisay freestyle
+momoisay help animate
+momoisay animate 'jebaă� plastykă�'
+momoisay animate 'fucking clanker'
+momoisay animate 'fuckin clanker'
+sudo pacman -S bluetui
+fzf --header="$(date)"\
+
+fzf --header="$(your-command-here || echo '')"\
+
+v .config/fzf/.fzfrc 
+setsid 
+setsid --help
+hyprctl exec kitty
+kitty &
+kitty --class floating-kitty
+kitty --class floating-kitty
+v .config/hypr/rules.conf 
+v .config/fzf/.fzfrc 
+v .config/zsh/.zshrc 
+cd .config/rofi
+ls
+~/.config/scripts/rofi-menu-scripts/rofi-menu.sh
+v .config/rofi/config.rasi 
+v .config/rofi/config.rasi 
+iw 
+iwctl
+nmcli
+v .config/zsh/.zshrc 
+v .config/hypr/binds.conf 
+v .config/rofi/config.rasi 
+v .config/rofi/theme.rasi
+cd .config/alt_styles
+mkdir rofi
+cd rofi
+mkdir normal alt
+ls
+cp ~/.config/rofi/theme.rasi ./normal
+cp ~/.config/rofi/theme.rasi ./alt
+cd alt
+ls
+v theme.rasi
+cd ..
+cp ~/.config/rofi/theme.rasi ./normal
+cp ~/.config/rofi/theme.rasi ./alt
+v theme.rasi
+v alt/theme.rasi
+v normal/theme.rasi
+v alt/theme.rasi
+v normal/theme.rasi
+cd ../../hypr
+v binds.conf
+v programs.conf
+hyprpicker --help
+sudo pacman -Syu
+bluetui
+usb-devices
+mkdir USB
+sudo mount /dev/sda1 ./USB
+y
+sudo umount fusectl
+sudo umount ./USB
+~/.config/scripts/rofi-menu-scripts/omarchy-pkg-install.sh
+cd .config/scripts
+ls
+v omarchy-pkg-install
+mv omarchy-pkg-install omarchy-pkg-install.sh
+v omarchy-pkg-install.sh
+chmod +x omarchy-pkg-install.sh
+./omarchy-pkg-install.sh
+chmod +x omarchy-pkg-install.sh
+v omarchy-pkg-install.sh
+./omarchy-pkg-install.sh
+v omarchy-pkg-install.sh
+./omarchy-pkg-install.sh
+v omarchy-pkg-install.sh
+./omarchy-pkg-install.sh
+v omarchy-pkg-install.sh
+./omarchy-pkg-install.sh
+v omarchy-pkg-install.sh
+./omarchy-pkg-install.sh
+./omarchy-pkg-install.sh
+./omarchy-pkg-install.sh
+v omarchy-pkg-install.sh
+./omarchy-pkg-install.sh
+./omarchy-pkg-install.sh
+v omarchy-show-done.sh
+v omarchy-pkg-install.sh
+v omarchy-pkg-aur-install.sh
+ls
+mkdir rofi-menu-scripts
+mv ./omarchy-pkg-aur-install.sh ./omarchy-show-done.sh ./omarchy-pkg-install.sh ./rofi-menu-scripts
+ls
+cd rofi-menu-scripts
+l
+ls
+chmod +x omarchy-pkg-aur-install.sh omarchy-show-done.sh
+./omarchy-pkg-aur-install.sh
+v ./omarchy-pkg-aur-install.sh
+v ./omarchy-show-done.sh
+v ./omarchy-pkg-aur-install.sh
+v ./omarchy-show-done.sh
+v ./omarchy-show-done.sh
+v ./omarchy-pkg-install.sh
+v rofi-menu.sh
+chmod +x ./rofi-menu.sh
+./rofi-menu.sh
+v rofi-menu.sh
+./rofi-menu.sh
+v rofi-menu.sh
+v ./omarchy-pkg-install.sh
+v ./omarchy-pkg-aur-install.sh
+v rofi-menu.sh
+v ./omarchy-pkg-install.sh
+v ./omarchy-pkg-aur-install.sh
+v ./omarchy-pkg-aur-install.sh
+v ./omarchy-pkg-aur-install.sh
+v rofi-menu.sh 
+v rofi-menu.sh
+lsmod | grep usb_storage
+sudo modprobe usb_storage\
+
+reboot
+v .config/scripts/rofi-menu-scripts/omarchy-pkg-install.sh 
+sudo mount /dev/sda1 ./USB
+sudo umount ./USB
+lsmod | grep usb_storage
+sudo modprobe usb_storage\
+
+lsmod | grep usb_storage
+y
+lsblk
+sudo mount /dev/sdb1
+sudo mount /dev/sdb1 ./USB
+y
+sudo umount ./USB
+cd ./USB/programowanie\ aplikacji\ internetowych
+ls
+cd csvToIcs
+ls
+php -S 
+php -S 0.0.0.0:8000
+sudo mount /dev/sdb1 ./USB
+sudo umount /dev/sdb1 ./USB
+sudo umount ./USB
+y
+cd .config/alt_styles/rofi/alt
+v theme.rasi
+v .config/rofi/config.rasi 
+cd .config/scripts
+ls
+v fileManager.sh
+./fileManager.sh ~/.config
+./fileManager.sh
+chmod +x ./rofi-menu-scripts/rofi-submenu-dirs.sh
+./rofi-menu-scripts/rofi-submenu-dirs.sh
+fzf | v
+fzf | v
+fzf | nvim
+sudo mount /dev/sdb1 ./USB
+y
+sudo v
+sudo nvim 
+sudo yazi
+sudo umount ./USB
+cd .config/scripts/rofi-menu-scripts
+ls
+v rofi-menu.sh
+v rofi-submenu-dirs.sh
+cd ../
+cd rofi-menu-scripts
+v omarchy-pkg-aur-install.sh
+v omarchy-pkg-install.sh
+v scripts/fileManager.sh 
+v scripts/nvimWrapper.sh
+cd scripts
+chmod +x nvimWrapper.sh
+./nvimWrapper.sh
+v scripts/nvimWrapper.sh
+v nvimWrapper.sh
+./nvimWrapper.sh
+v .config/fzf/.fzfrc \
+
+sudo mount /dev/sdb1 ./USB
+y
+sudo umount ./USB
+nvim .config/hypr/binds.conf 
+nvim .config/hypr/programs.conf 
+v .config/zsh/.zshrc 
+v .config/zsh/.zshrc 
+nvim .config/fzf/.fzfrc 
+nvim .config/scripts/rofi-menu-scripts/nvimWrapper.sh 
+v .config/scripts/rofi-menu-scripts/omarchy-pkg-install.sh 
+v .config/fzf/.fzfrc 
+cd scripts/rofi-menu-scripts
+./nvimWrapper.sh
+pipes.sh
+cava
+cd .config/scripts/rofi-menu-scripts
+./nvimWrapper.sh
+./nvimWrapper.sh
+ls
+bonsai.sh
+bonsai.sh --help
+bonsai.sh -l
+cava
+pipes.sh
+cd .config/cava
+ls
+cd ..
+rm -rf cava
+ln -s ~/.config/cava ./
+cd .config/scripts/rofi-menu-scripts
+chmod +x ./rofi-submenu-autism.sh
+./rofi-submenu-autism.sh
+./rofi-submenu-autism.sh
+./rofi-submenu-autism.sh
+./rofi-submenu-autism.sh
+bonsai.sh --help
+bonsai.sh -l
+bonsai.sh -l -i
+./rofi-submenu-autism.sh
+./rofi-submenu-autism.sh
+./rofi-submenu-autism.sh
+./rofi-submenu-autism.sh
+./rofi-submenu-autism.sh
+~/.config/scripts/rofi-menu-scripts/rofi-submenu-autism.sh
+~/.config/scripts/rofi-menu-scripts/rofi-submenu-autism.sh
+v .config/hypr/rules.conf 
+cd alt_styles
+cd rofi
+mv alt script_launcher
+cd scripts/rofi-menu-scripts
+ls
+ls
+cd ..
+ls
+mv ./nvimWrapper.sh ./rofi-menu-scripts
+cd rofi-menu-scripts
+nvim rofi-menu.sh
+v ../../alt_styles/rofi/alt/theme.rasi
+v
+git add .
+git commit -m 'custom rofi dmenu'
+git add .
+git status
+cd ..
+cd ..
+git reset --soft HEAD~1\
+
+git add .
+git commit -m 'custom rofi dmenu
+git commit -m 'custom rofi dmenu'
+git push 
+git push 
+cd hypr
+ls
+git pull
+git push
+v .config/scripts/rofi-menu-scripts/nvimWrapper.sh 
+cd .config/scripts/rofi-menu-scripts
+v autismLauncher.sh
+ls
+v rofi-submenu-autism.sh
+ls
+v rofi-submenu-autism.sh
+v rofi-submenu-autism.sh
+v rofi-menu.sh
+cd ..
+cd ..
+ls
+cd
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+cd views
+ls
+mkdir forms 
+ls
+cd views
+ls
+cd PZAIW_widzi_2025-6
+ls
+cd express-flashcards
+ls
+ls
+ls
+v
+ls
+mkdir models
+v
+ls
+cd views
+ls
+v category.ejs
+v categories.ejs
+v categories.ejs
+cd ..
+ls
+cd public
+ls
+cd ..
+grep -r "index.html" ./
+cd public
+ls
+v index.html
+cd
+cd Documents/misc
+ls
+v test.html
+xdg-open test.html
+rm test.html
+curl --request POST -d "front=mango" -d "back=" http://localhost:8000/cards/j-angielski-food/new\
+curl --request POST -d "front=awers" -d "back=rewers" http://localhost:8000/cards/nieistniejaca-kategoria/new
+cd PZAIW_widzi_2025-6/express-flashcards
+node index.js
+node index.js
+node index.js
+cd views
+;s
+ls
+mv categories.ejs category.ejs
+cd ..
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+hyprsunset
+v Documents/Programming/PZAIW_widzi_2025-6/express-flashcards/models/flashcards.js 
+v .config/hypr/animations.conf 
+hyprctl keyword animation:enabled no
+hyprctl keyword animations:enabled no
+v .config/alt_styles/waybar
+cd .config
+git add . 
+git commit -m 'made lockin mode remove animations'
+git push
+cd ..
+cd PZAIW_widzi_2025-6
+ls
+mv express-flashcards projekt02
+ls
+cd projekt02
+s
+ls
+node index.js
+git add .
+cd ..
+git add .
+git commit -m 'created 2nd project'
+git push 
+git push
+cd c
+v .config/hypr/animations.conf 
+cd PZAIW_widzi_2025-6
+git push
+git remote set-url origin https://github.com/MWidzi/PZAIW_widzi_2025-6.git\
+
+git remote set-url origin git@github.com:MWidzi/PZAIW_widzi_2025-6.git\
+
+ssh -T git@github.com\
+
+git push
+hyprsunset
+v .config/scripts/lock-in-mode.sh 
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+sudo pacman -Syu
+cd 
+ssh-keygen -t ed25519 -C "your_email@example.com"\
+
+ssh-keygen -t ed25519 -C "mlydzy123@gmail.com"\
+
+eval "$(ssh-agent -s)"\
+ssh-add ~/.ssh/id_ed25519\
+
+cat ~/.ssh/id_ed25519.pub\
+
+ssh -T git@github.com\
+
+v .config/scripts/rofi-menu-scripts/rofi-menu.sh 
+cd .config
+ls
+cd images
+y
+cd ..
+v fastfetch/config.jsonc
+v fastfetch/config.jsonc
+v fastfetch/config.jsonc
+git status
+cd .config
+ls
+cd scripts
+v rofi-menu-scripts
+cd scripts/rofi-menu-scripts
+v rofi-submenu-autism.sh
+v rofi-submenu-autism.sh
+cd scripts/rofi-menu-scripts
+ls
+cp rofi-menu.sh rofi-menu-playerctl.sh
+v rofi-menu-playerctl.sh
+chmod +x ./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+v rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+rofi -dmenu -no-show-match -no-sort\
+
+rofi -show dmenu
+rofi -show drun
+rofi -show drun
+rofi -show drun -no-filter
+rofi -show drun -filter ""
+rofi -show drun -filter "" -no-filter
+rofi -show drun -filter "" -no-filter -horizontal
+echo -e "玲 Previous\n�� Play/Pause\n瑩 Next" | rofi -dmenu -no-custom -no-filter -lines 1 -columns 3\
+
+echo -e "玲 Previous\n�� Play/Pause\n瑩 Next" | rofi -dmenu -no-custom -no-filter -lines 1 -columns 3
+echo -e "玲 Previous\n�� Play/Pause\n瑩 Next" | rofi -dmenu -no-custom -no-filter -lines 1 -columns 3 -no-config
+cd ../..
+v rofi/config.rasi 
+cd scripts/rofi-menu-scripts
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+v rofi-submenu-autism.sh
+v rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+cd
+v .config/waybar/style.css 
+cd .config
+cd scripts/rofi-menu-scripts
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+v rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+v rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+v rofi-menu-playerctl.sh
+./rofi-menu-playerctl.sh
+v rofi-menu-playerctl.sh
+bd .config
+v alt_styles/waybar/normal/config.jsonc
+bluetui
+cd hypr
+v pyprland.toml
+v rules.conf
+v .config/hypr/binds.conf 
+cd scripts
+cd ..
+cd alt_styles
+ls
+cd rofi
+ls
+cp -r script_launcher playerctl_menu
+cd playerctl_menu
+ls
+v theme.rasi
+v rules.conf
+v .config/hypr/rules.conf 
+v .config/hypr/pyprland.toml 
+powerprofilesctl set 'power-saver'
+v .config/hypr/pyprland.toml 
+v .config/hypr/pyprland.toml 
+v .config/waybar/config.jsonc 
+v .config/alt_styles/waybar/normal/config.jsonc 
+v .config/alt_styles/waybar/normal/config.jsonc 
+v waybar/config.jsonc
+v alt_styles/waybar/normal/config.jsonc
+v alt_styles/rofi/playerctl_menu/theme.rasi
+git add .
+git commit -m 'added rofi playerctl and bluetui scratchpad'
+git push
+git push
+v .config/waybar/config.jsonc 
+v .config/hypr/binds.conf 
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+fscrypt lock Documents/passcodes
+nmcli device connect wifi ssid goonspot
+hyprctl reload
+cd .config
+git pull 
+git add alt_styles/waybar/normal/config.jsonc waybar/config.jsonc
+git commit -m 'a'
+git pull
+git update-index --no-assume-unchanged alt_styles/waybar/normal/config.jsonc waybar/config.jsonc
+git add .
+git commit -m 'stash local changes\
+
+git commit -m 'stash local changes'\
+
+git pull
+git reset soft
+git reset --soft
+git reset --soft HEAD~1\
+
+git reset --soft HEAD~1\
+
+git status
+git pull
+git add .
+git commit -m 'a'
+git pull
+git statu
+git status
+git diff --name-only origin/main..HEAD\
+
+git reset --soft HEAD~1\
+
+git reset --soft HEAD~1\
+
+git add . 
+git stash push -m "description message"\
+
+git pull
+git stash pop
+hyprctl reload
+b
+v
+v hypr/monitors.conf
+y
+git status
+git update-index --assume-unchanged alt_styles/waybar/normal/config.jsonc waybar/config.jsonc
+hyprsunset
+v .config/hypr/hyprsunset.conf 
+cd Documents/Programming
+ls
+cd python
+cd ..
+cd PHP
+ls
+cd csvToIcs
+ls
+cd
+y
+ls
+v dbToCalendar.php
+v sendICS.php
+c
+cd
+y
+php -S 0.0.0.0:8000
+y
+ls
+php -S 0.0.0.0:8000
+v Documents/misc/colors.txt 
+v .config/nvim/init.lua 
+v .config/kitty/kitty.conf 
+sudo mount /dev/sdb1 ./USB
+y
+sudo umount ~/USB
+v debata_o_prawach_czlowieka_11_2025.txt
+nmcli --fields SSID,SECURITY device wifi list
+echo $CHSSID
+echo Documents/scripts/rofi-wifi-menu
+ls
+c Documents/scripts/rofi-wifi-menu
+cd Documents/scripts/rofi-wifi-menu
+ls
+v rofi-wifi-menu.sh
+mv config.example config
+v config
+bash ./rofi-wifi-menu.sh
+v rofi-wifi-menu.sh
+cd .config/alt_styles/rofi/playerctl_menu
+ls
+v theme.rasi
+cd Documents/scripts
+cd rofi-wifi-menu
+ls
+bash rofi-wifi-menu.sh
+v rofi-wifi-menu.sh
+v rofi-wifi-menu.sh
+bash rofi-wifi-menu.sh
+cd 
+cd .config
+ls 
+cd scripts
+ls
+v rofiWifiWrapper.sh
+./rofi-menu-scripts
+chmod +x rofiWifiWrapper.sh
+./rofiWifiWrapper.sh
+./rofiWifiWrapper.sh
+./rofiWifiWrapper.sh
+./rofiWifiWrapper.sh
+./rofiWifiWrapper.sh
+./rofiWifiWrapper.sh
+cd ..
+cd alt_styles/waybar
+v normal/config.jsonc
+v alt/config.jsonc
+y
+cd wifi_menu
+v theme.rasi
+nmcli --fields SSID,SECURITY,BARS device wifi list
+nmcli --fields SSID,SECURITY,BARS device wifi list
+nmcli --fields SSID,SECURITY,BARS device wifi list
+nmcli --fields SSID,SECURITY,BARS device wifi list
+cat /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh\
+
+yay -S spicetify-cli
+sudo chmod a+wr /opt/spotify\
+sudo chmod a+wr /opt/spotify/Apps -R
+ls -a /opt/spotify | grep
+ls -a /opt/spotify
+spicetify
+spicetify config current_theme tui\
+
+spicetify apply\
+
+spicetify backup apply enable-devtools
+spicetify config current_theme text\
+
+spicetify apply
+yay -S spicetify-cli
+spicetify config current_theme text
+spicetify apply
+v .config/hypr/colors.conf 
+v Documents/scripts/rofi-wifi-menu/rofi-wifi-menu.sh 
+v .config/zsh/.zshrc 
+v .config/zsh/.zshrc 
+cd .config/spicetify
+ls
+cd Themes
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls -a
+spicetify config current_theme widzi_text
+spicetify apply
+spicetify apply
+spicetify apply
+spicetify apply
+spicetify apply
+spicetify apply
+spicetify apply
+ls
+ls
+ls
+ls
+ls
+cd /
+ls -a | grep 
+ls -a | grep "spicetify"
+ls -a
+find | grep "spicetify"
+find 2>/dev/null | grep "spicetify"
+find 2>/dev/null | grep "spicetify themes"
+find 2>/dev/null | grep "spicetify-themes"
+find 2>/dev/null | grep "color.ini"
+cp -r ./opt/spicetify-cli/Themes/text/ ~/.config/spicetify/Themes/
+cd ~
+cd .config/spicetify/Themes
+ls
+mv text widzi_text
+cd widzi_text
+ls
+v color.ini
+v user.css
+v .config/hypr/colors.conf 
+v Documents/misc/colors.txt 
+yay -S gitfetch-python
+sudo pacman -Syu
+mv .config/spicetify .config
+ln -s ~/.config/spicetify .config
+v Documents/misc/english.txt 
+nmcli device list
+nmcli device statis
+nmcli device status
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/misc/english.txt 
+cd .config/nvim
+ls
+ls
+v init.lua
+v init.lua
+v init.lua
+v init.lua
+cd ..
+v README.md
+cd
+sudo mount /dev/sdb1 ./USB
+y
+cd
+mv ~/Documents/misc/debaty/debata_o_prawach_czlowieka_11_2025.txt USB/debaty/debata_o_prawach_czlowieka_11_2025.txt
+sudo mv ~/Documents/misc/debaty/debata_o_prawach_czlowieka_11_2025.txt USB/debaty/debata_o_prawach_czlowieka_11_2025.txt
+sudo chown widzi USB/debaty/debata_o_prawach_czlowieka_11_2025.txt
+chown widzi USB/debaty/debata_o_prawach_czlowieka_11_2025.txt
+sudo yazi
+sudo umount ~/USB
+v .config/hypr/binds.conf 
+v .config/hypr/input.conf 
+v .config/nvim/init.lua 
+cd python
+ls
+v .config/hypr/input.conf 
+y
+v .config/hypr/input.conf 
+sudo systemctl status keyd
+sudo systemctl status keyd
+y
+v wynikiUczniów.py
+python3 zadanie_na_ocene_slowniki.py
+python3 wynikiUczniów.py
+ls
+v wyniki.txt
+cd Documents/Programming/python/wynikiUczniow/
+ls
+v wyniki.txt
+v dane.txt
+v wynikiUczniów.py
+python3 wynikiUczniów.py
+v wyniki.txt
+keyd
+sudo systemctl enable --now keyd
+mv /etc/keyd/ .config
+sudo mv /etc/keyd/ .config
+sudo ln -s .config/keyd /etc
+v /etc/keyd
+cd /etc
+ls -a | grep keyd
+man keyd
+sudo keyd reload
+sudo keyd reload
+sudo systemctl status keyd
+cd /etc/keyd
+ln -s ~/.config/keyd /etc/keyd
+y
+sudo yazi
+sudo ln -s ~/.config/keyd /etc/keyd
+v
+sudo yazi
+sudo systemctl status keyd
+sudo keyd reload
+sudo systemctl start keyd
+sudo keyd reload
+sudo keyd reload
+v .config/keyd/
+cd .config/keyd
+touch default.conf
+cd ..
+chown widzi ./keyd
+sudo chown widzi ./keyd
+cd keyd
+ls
+v default.conf
+v .config/keyd/default.conf 
+sudo keyd reload
+hyprctl clients
+hyprctl clients | grep waybar
+v .config/hypr/rules.conf 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+v
+cd
+cd .config
+v
+npm install -g @google/gemini-cli
+sudo npm install -g @google/gemini-cli
+gemini
+v 
+.config/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+v init.lua
+v .config/nvim/init.lua 
+v .config/nvim
+v 
+cd .local/share/nvim/mason/packages
+ls
+..
+cd ..
+cd ls
+ls
+cd registries
+ls
+cd github
+ls
+cd ..
+cd ..
+cd
+.config/nvim/lua/kickstart/health.lua 
+v .config/nvim/lua/kickstart/health.lua 
+v .config/local/share/nvim/lazy/sidekick.nvim/lua/sidekick/health.lua 
+v .config/local/share/nvim/lazy/sidekick.nvim/lua/sidekick/health.lua 
+v
+v
+zellij
+zellij
+zellij
+zellij
+zellij
+y
+ls -a | grep sidekick
+y
+cd sidekick.nvim
+y
+cd
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+zellij
+v .config/zellij/config.kdl
+sudo pacman -Rs zellij
+sudo pacman -S zellij
+zellij
+sudo pacman -Rs zellij
+zellij
+zellij
+zellij
+sudo pacman -S zellij
+v .config/zellij/config.kdl
+v 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+cd .config/nvim
+v
+v 
+gemini
+v .gitignore
+gemini
+sudo npm install -g @github/copilot
+copilot
+v 
+cd .config/waybar
+ls
+v
+y
+cd Documents/Programming/Unity/Hackathon2025
+ls
+git init
+v .gitignore
+git add .
+git status
+ls
+git commit -m 'initial commit'
+git remote add origin git@github.com:MWidzi/Hackathon_sci_2025.git
+git push -u origin main
+git branch -M main
+git push -u origin main
+git fetch
+git push -u origin main
+git pull
+git pull remote main
+git pull git@github.com:MWidzi/Hackathon_sci_2025.git main
+git add .
+git push -u origin main
+git status
+hyprctl monitors
+v .config/hypr/monitors.conf 
+v .config/hypr/binds.conf 
+v .config/hypr/wallpapers.conf 
+v .config/hypr/monitors.conf 
+v .config/hypr/monitors.conf 
+powerprofilesctl set 'normal'
+powerprofilesctl set 'balanced'
+sudo nmcli device wifi connect ssid goonspot password goonspot
+sudo nmcli device wifi connect goonspot password goonspot
+cd Documents/Programming/Unity/Hackathon2025
+ls
+v
+sudo pacman -Syu 
+sudo nmcli device wifi connect POCO\ X6\ Pro\ 5G
+sudo pacman -Syu
+sudo pacman -
+sudo pacman -S code
+v
+v
+v ./\ 
+v ./
+v ./
+v ./
+v ./
+v ./
+git add .
+git commit -m 'movement 
+git commit -m 'movement + camera controller'
+git pusg
+git push
+v ./
+git add .
+git commit -m 'fixed samplescene'
+git push
+cd Documents/Programming/Unity/Hackathon2025
+v ./
+git add .
+git commit -m 'temp catching and throwing'
+git push
+v 
+git add .
+git commit -m 'changed holding mechanics'
+git push
+git pull 
+git add .
+git commit -m 'saved scene omfg'
+git push
+git add .
+git commit -m 'tweaked catch system'
+git push
+cd Documents/Programming/Unity/Hackathon2025
+v ./
+v ./
+v ./
+v Documents/Programming/Unity/NeuroRhythm/Assets/Scripts/PlayerController.cs 
+v Documents/Programming/Unity/NeuroRhythm
+v Documents/Programming/Unity/Hackathon2025
+cd Documents/Programming/Unity/Hackathon2025
+v .gitignore
+cd Assets/Scenes
+ls
+v SampleScene.unity
+cd ../..
+v
+v ./
+v ./
+v Documents/Programming/Unity/NeuroRhythm
+sudo nmcli devie wifi scan
+sudo nmcli device wifi scan
+sudo nmcli device wifi connect goonspot password goonspot
+nmcli --help
+nmcli device --help
+nmcli device wifi rescan
+git add .
+git commit -m 'finally made the catch system good'
+git push
+git pull
+v ./
+cd Documents/Programming/Unity
+git clone git@github.com:MWidzi/Hackathon_sci_2025.git ./Hackathon2025_final/
+v 
+cd Documents/Programming/Unity/NeuroRhythm
+v ./
+cd Documents/Programming/Unity
+cd Hackathon2025_final
+v ./
+sudo mount /dev/sdb1 ./USB
+lsblk
+sudo mount /dev/sdb1 ./USB
+y
+sudo umount ~/USB
+cd
+sudo umount ~/USB
+sudo mount /dev/sdb1 ./USB
+y
+sudo yazi
+powerprofilesctl set 'power-saver'
+v .config/hypr/binds.conf 
+v .config/hypr/wallpapers.conf 
+v .config/hypr/monitors.conf 
+cd .config
+git status
+upower --battery
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+sudo fscrypt lock Documents/passcodes
+fscrypt lock Documents/passcodes
+cd .config
+git add .
+git commit -m 'added spicetify and did inital nvim config cleanup'
+git push
+y
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+fscrypt lock Documents/passcodes
+cd Documents/Programming/Unity/NeuroRhythm
+git status
+git pull
+git status
+v Packages/manifest.json
+git reset --hard
+git pull
+git pull 
+git pull 
+git pull 
+git pull 
+v 
+v ./
+git add . 
+git commit -m "fixed timing system so it dosen't get fucked by floating point errors"
+git push
+cd
+cd Documents/Programming/Unity/NeuroRhythm
+v ./
+cd python
+cd wynikiUczniow
+v ./
+v
+cd Documents/Programming/python/wynikiUczniow/
+v ./
+y
+v ./
+y
+cd ..
+xdg-open Python_v26.pdf
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+python3 symbole.py
+mv ./symbole.txt ../
+python3 symbole.py
+mv ../symbole.txt ./
+python3 symbole.py
+y
+yay -S xampp
+sudo pacman -Syu
+yay -S xampp
+yay -S xampp
+v
+v 
+v
+v
+cd .config/waybar
+v config.jsonc
+v config.jsonc
+v config.jsonc
+v config.jsonc
+v config.jsonc
+v config.jsonc
+v config.jsonc
+v config.jsonc
+v config.jsonc
+v config.jsonc
+v config.jsonc
+v
+v Documents/misc/english.txt 
+v Documents/misc/english.txt 
+v Documents/misc/english.txt 
+v 
+v 
+v 
+v 
+v 
+v 
+v 
+v 
+v 
+v
+v
+v
+v
+v
+v
+v
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v ;
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+v Documents/Programming/python/python4.py 
+cd .config/w
+cd .config/
+cd alt_styles/waybar/normal
+v 
+cd ..
+v ./
+bd .config
+ls
+cd nvim
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+sudo mount /dev/sdb1 ./USB
+dmesg
+sudo dmesg
+sudo mount /dev/sdb1 ./USB
+sudo mount /dev/sdb1 ./USB
+sudo pacman -Syu
+python3 matura.py
+sudo pacman -Syu
+python3 matura.py
+python3 matura.py
+
+python3 matura.py
+python3 matura.py
+python3 matura.py
+python3 matura.py
+y
+v Matura.rtf
+v matura.py
+cd ..
+cd Zadanie2/
+v ./
+nautilus
+v .config/hypr/binds.conf 
+v .config/hypr/programs.conf 
+v .config/hypr/binds.conf 
+y
+cd Documents/Programming/PZAIW_widzi_2025-6
+sudo pacman -Syu
+v .config/nvim/init.lua 
+cd templates
+touch songs.ejs
+mkdir templates
+cd templates
+cd utils
+touch songs.json
+mkdir utils
+cd utils
+touch songs.js
+cd Documents/Programming/PZAIW_widzi_2025-6
+git pull
+cd projekt02-take2
+v ./
+v ./
+v ./
+v Documents/Programming/PZAIW_widzi_2025-6/projekt02-take2/templates/songs.ejs 
+v Documents/Programming/PZAIW_widzi_2025-6/projekt02/views/category.ejs 
+v .local/state/nvim/lsp.log 
+v .local/state/nvim/lsp.log 
+v .local/state/nvim/lsp.log 
+v Documents/Programming/kurwa.txt
+v Backup/nvim/init.lua 
+v .config/nvim/init.lua 
+cd .config/nvim
+v ./
+cd Documents/Programming/PZAIW_widzi_2025-6
+cd projekt02-take2
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+cd Documents/Programming/PZAIW_widzi_2025-6
+cd projekt02
+v ./
+v ./
+v Backup/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/nvim/init.lua 
+node index.js
+node index.js
+mv templates views
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+cd Documents/Programming/PZAIW_widzi_2025-6
+v ./ 
+cd projekt02-take2
+v /.
+v ./
+cd Documents/Programming/PZAIW_widzi_2025-6
+cd projekt02
+v ./
+cd .config
+git add .
+git commit -m 'added function that reorders ui plugin splits in nvim'
+git push
+a
+cd
+cd Documents/Programming/PZAIW_widzi_2025-6
+git add .
+git commit -m 'projekt02take2 added json and early ejs' 
+git push 
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+fscrypt lock Documents/passcodes
+cd Documents/Programming/PZAIW_widzi_2025-6
+git pull
+cd projekt02-take2
+ls
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+cd Documents/Programming/PZAIW_widzi_2025-6
+cd projekt02
+v ./
+cd Documents/Programming/PZAIW_widzi_2025-6
+cd projekt02-take2
+v ./
+git add .
+git commit -m 'finished error handling'
+git push
+v ./
+git add .
+git commit -m 'removed forced error and changed redirect in root site to work'
+git push
+v ./
+git add .
+git commit -m 'removed debug logs'
+git push
+v .config/hypr/animations.conf 
+cd .config
+ls 
+git status
+cd nvim
+v ./
+v. /
+v ./
+v ./
+v Documents/misc/english.txt 
+cd Documents/misc
+ls
+ls -a
+v
+cd Documents/Programming/PZAIW_widzi_2025-6
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+v ./
+ fscrypt unlock ~/Documents/passcodes
+cd
+v Documents/passcodes/passcodes.txt 
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+git status
+git restore .
+git pull
+v ./
+v ,.
+v ,.
+v ./
+v ./
+v
+cd Documents
+ls
+cd misc
+ls
+ls -la
+y
+cd
+v 
+cd Documents/misc/pzaw_2025_12_14_kwerendy.txt
+touch Documents/misc/pzaw_2025_12_14_kwerendy.txt
+v Documents/misc/pzaw_2025_12_14_kwerendy.txt
+v Documents/misc/stażv2.txt 
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt03/
+v ./
+v ./
+cd ..
+git add .
+v README.md
+v README.md
+git add .
+git commit -m 'finished projekt03'
+git push
+cd Documents/Programming/PZAIW_widzi_2025-6/
+mv projekt02-take2 projekt03
+ls
+cd projekt03
+ls
+y
+node index.js
+node index.js
+node index.js
+npm install morgan
+npm install morgan
+node index.js
+node index.js
+node index.js POPULATE_DB=1
+node index.js POPULATE_DB=1
+POPULATE_DB=1 node index.js 
+POPULATE_DB=1 node index.js 
+node index.js 
+y
+POPULATE_DB=1 node index.js 
+node index.js 
+node index.js 
+node index.js 
+node index.js 
+node index.js 
+node index.js 
+node index.js 
+node index.js 
+node index.js 
+cd Documents/Programming/PZAIW_widzi_2025-6/
+cd projekt03
+v ./
+cd ..
+v README.md
+git add . 
+git commit -m 'updated readme'
+git push
+cd Documents/Programming/PZAIW_widzi_2025-6/
+v README.md
+git add .
+git commit -m 'fixed readme'
+git push
+node index.js 
+cd projekt03
+node index.js
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+v Documents/misc/stażv2.txt 
+cd Documents/Programming/Unity/NeuroRhythm
+v 
+v
+git add .
+git commit -m 'slightly untangled spawning and timing systems as well as changed the note movement system'
+git push
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+timedatectl
+timedatectl
+python3 test.py
+python3 pracownicy.py
+python3 pracownicy.py
+cd Documents/Programming/python
+v test.py
+sudo pacman -Syu
+fscrypt unlock Documents/passcodes
+v Documents/passcodes/passcodes.txt 
+cd Documents/Programming/PZAIW_widzi_2025-6
+ls
+cd projekt03
+;s
+ls
+tree
+tree -I node_modules
+v ./
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt03
+sudo pacman -S sqlitebrowser
+sudo pacman -Syu
+c 
+cd
+cd .config
+git status
+git commit -m 'improved split organizer"
+git commit -m 'improved split organizer'
+git add .
+git commit -m 'improved split organizer'
+git pull
+git push
+git push
+ ssh-keygen -t ed25519 -C "mlydzy123@gmail.com"
+cd
+v .ssh/id_ed25519.pub
+eval "$(ssh-agent -s)"\
+ssh-add ~/.ssh/id_ed25519\
+
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+cd .config
+git remote -v
+git remote set-url origin git@github.com:MWidzi/dotfiles-Miku-Teto.git
+git push
+y
+v
+cd .config
+ls
+keyd
+sudo keyd
+sudo keyd reload
+v keyd/
+v .config/hypr/wallpapers.conf
+v .config/hypr/hyprpaper.conf
+sudo keyd reload
+sudo systemctl status keyd 
+keyd list-devices
+v .config/keyd/default.conf 
+v .config/hypr/input.conf 
+sudo systemctl status keyd 
+sudo systemctl --user status keyd 
+sudo evtest
+sudo pacman -S libinput
+libinput list-devices
+sudo evtest
+libinput list-devices
+cat /etc/udev/rules.d/90-keyd.rules
+keyd monitor
+sudo mkdir -p /etc/udev/rules.d
+cd /etc/udev/rules.d
+cd
+sudo nvim /etc/udev/rules.d/90-keyd.rules
+sudo udevadm control --reload-rules && sudo udevadm trigger
+v .config/keyd/default.conf 
+sudo keyd --udev-reload
+sudo systemctl restart keyd
+sudo keyd reload
+keyd monitor
+v .config/hypr/input.conf 
+sudo keyd reload
+keyd monitor
+\:q
+sudo keyd reload
+keyd monitor
+sudo nvim /etc/udev/rules.d/90-keyd.rules
+sudo udevadm control --reload-rules && sudo udevadm trigger
+sudo usermod -aG uinput $USER
+sudo groupadd uinput
+sudo usermod -aG uinput $USER
+sudo nvim /etc/udev/rules.d/90-keyd.rules
+sudo systemctl enable keyd --now
+y /etc/keyd
+ln -s ~/.config/keyd /etc/keyd
+sudo ln -s ~/.config/keyd /etc/keyd
+sudo keyd reload
+ls
+y
+rm -rf keyd
+sudo rm keyd
+ls
+sudo ln -s ~/.config/keyd/default.conf /etc/keyd
+ls
+sudo keyd reload
+v .config/hypr/hyprpaper.conf 
+v .config/hypr/hyprpaper.conf 
+powerprofilesctl set 'power-saver'
+yazi
+yazi --print yazi.toml
+y
+yazi --debug
+yazi
+hyprlock
+v .config/hypr/rules.conf 
+v Documents/misc/english.txt 
+ya pkg add Chromium-3-Oxide/everforest-medium
+v
+v .config/yazi/theme.toml 
+cd .config/yazi
+v
+v yazi.toml
+ls
+v package.toml
+cd plugins
+ls
+v full-border.yazi
+cd ..
+cd ..
+mv yazi/plugins ./ 
+yazi
+mv ./plugins yazi
+yazi
+cd yazi
+v ./
+ls
+y
+yazi
+ls
+cd 
+cd .config/yazi
+ls
+v init.lua
+y
+mv ./init.lua ../../Desktop/
+yazi
+yazi
+yazi
+v ./
+cd ..
+c
+cd
+cd .config
+git status
+v hypr/input.conf 
+rm -rf yazi/flavors
+git add .
+git stauts
+git status
+git commit -m 'changed yazi fallback to new spec'
+git push 
+cd hypr
+v hyprlock.conf
+cd ..
+git status
+cd hypr
+v hyprlock.conf
+cd ..
+cd wlogout
+ls
+v layout
+cd ..
+cd scripts
+ls
+v lock.sh
+git status
+v lock.sh
+cd ..
+cd scripts
+git update-index --no-assume-unchanged lock.sh
+cd ..
+v hypr/binds.conf 
+v wlogout/layout
+\
+git add .
+git commit -m 'changed lock script so it dosent take 3 seconds'
+git push
+sudo pacman -S hypridle
+yay -S pyprland
+cd hypr
+touch hypridle.conf
+v hypridle.conf
+v autostart.conf
+ya pkg add yazi-rs/flavors:dracula
+hyprlock
+~/.config/scripts/lock.sh
+v .config/hypr/hypridle.conf 
+v
+v 
+cd 
+cd Documents/Programming
+cd PZAIW_widzi_2025-6/projekt03
+cd ..
+cd projekt01
+cd first-server
+v 
+v index.js
+ip address
+nmcli connection show
+yay -S pyprland spicetify-cli 
+sudo pacman -Syu
+hyprpm add https://github.com/dawsers/hyprscroller\
+# verify it installed correctly\
+hyprpm list
+hyprpm add https://github.com/dawsers/hyprscroller\
+hyprpm list
+hyprpm update
+hyprpm add https://github.com/dawsers/hyprscroller\
+hyprpm list
+cd .config
+git statu
+git status
+git add . 
+git commit -m 'added hypridle'
+git push
+cd nvim
+v
+pyprland
+pypr 
+yay -S pyprland
+yay -S spicetify-cli
+sudo pacman -Syu
+yay -S spicetify-cli
+yay -S pyprland
+sudo pacman -Syu
+sudo pacman -R yay  \
+git clone https://aur.archlinux.org/yay.git\
+cd yay\
+makepkg -si\
+
+cd
+yay -S pyprland
+sudo pacman -R yay  
+rm -rf ~/yay\
+git clone https://aur.archlinux.org/yay.git\
+cd yay\
+makepkg -si --clean\
+
+cd
+yay -S pyprland
+yay -S spicetify-cli
+yay --version
+pyprland
+rmpc
+sudo pacman -S mpd
+systemctl --user enable mpd\
+systemctl --user start mpd\
+
+systemctl --user status mpd.service 
+systemctl --user status mpd.service 
+systemctl --user stop mpd\
+mkdir -p ~/.config/mpd/playlists ~/.local/state/mpd ~/.local/share/mpd\
+chmod 755 ~/.local/{state,share}/mpd\
+
+cp /usr/lib/systemd/user/mpd.service ~/.config/systemd/user/mpd.service\
+
+cd .config
+cd mpd
+ls
+music_directory "~/Music"          # Your music folder\
+playlist_directory "~/.config/mpd/playlists"\
+db_file "~/.local/share/mpd/mpd.db"\
+log_file "~/.local/state/mpd/log"\
+state_file "~/.local/state/mpd/state"\
+bind_to_address "localhost:6600"   # Or "127.0.0.1" to avoid IPv6 warnings\
+
+v mpd.conf
+systemctl --user daemon-reload\
+systemctl --user enable --now mpd\
+systemctl --user status mpd\
+
+rmpc
+rmpc
+systemctl --user restart mpd
+cd Music
+ls
+mkdir rmpc_cache
+cd rmpc_cache
+pwd
+cd
+cd .config/mpd
+ls
+v mpd.conf
+export MPD_HOST="$XDG_RUNTIME_DIR/mpd/socket"\
+
+cd
+v .config/zsh/.zshrc
+mkdir -p ~/Music ~/.config/mpd/playlists ~/.local/{state,share}/mpd ~/.cache/rmpc/yt-dlp\
+systemctl --user restart mpd\
+
+cd Documents/Programming
+ls
+v kurwa.txt
+cd PHP
+v sklep.xml
+cd 
+pacman -S rmpc
+sudo pacman -S rmpc
+rmpc
+rmpc
+mkdir .config/rmpc
+rmpc config > ~/.config/rmpc/config.ron
+ln -s ~/.config/rmpc .config
+y
+y
+v theme.toml
+y
+cd
+cd .config/rmpc 
+v config.ron
+c 
+cd
+sudo pacman -S yt-dlp
+ffmpeg --version
+ffprobe --version
+pacman -Qi yt-dlp\
+
+sudo pacman -Syu python-mutagen\
+
+v .config/rmpc/config.ron
+echo $MPD_HOST\
+mpc status\
+
+rmpc
+sudo pacman -S mpc
+echo $MPD_HOST\
+mpc status\
+
+rmpc addyt "https://youtube.com/watch?v=egY5gNmPaO4"\
+
+sudo pacman -S deno           \
+
+mkdir -p ~/.cache/rmpc\
+
+rmpc addyt "https://www.youtube.com/watch?v=QH2-TGUlwu4"\
+
+rmpc addyt "https://youtu.be/qBbqjV3ijo4?si=EW1ahjmcHDJD3dsc
+rmpc addyt "https://youtu.be/qBbqjV3ijo4?si=EW1ahjmcHDJD3dsc"
+mkdir -p ~/.cache/rmpc/yt-dlp\
+chmod 755 ~/.cache/rmpc\
+systemctl --user restart mpd\
+
+v .config/mpd/mpd.conf
+mkdir -p ~/.local/{state,share}/mpd\
+chmod 755 ~/.local/{state,share}/mpd\
+
+rmpc addyt "https://youtu.be/qBbqjV3ijo4"\
+mpc status\
+mpc play\
+
+systemctl --user status mpd
+ls ~/.cache/rmpc/yt-dlp/
+pactl info | grep "Server Name"\
+
+cd .config/mpd/
+v mpd.conf
+systemctl --user status mpd    # Should show no output errors\
+mpc update                     # Scan music dir (initial)\
+rmpc addyt "https://youtu.be/qBbqjV3ijo4"  # Ragnarok track\
+mpc status                     # Shows in queue\
+mpc play                       # Streams via PulseAudio\
+
+systemctl --user status mpd    \
+mpc update                     \
+rmpc addyt "https://youtu.be/qBbqjV3ijo4"  \
+mpc status                     \
+mpc play                       \
+
+rmpc
+systemctl --user restart mpd
+rmpc
+v .config/waybar/config.jsonc 
+v .config/scripts/get-song.sh 
+sudo pacman -S mpd-mpris\
+
+v .config/mpd/mpd.conf
+systemctl --user restart mpd
+playerctl --list-all\
+
+playerctl --player=mpd metadata --format '{{artist}} - {{title}}'\
+
+rmpc
+mpd
+mp
+mpd
+loginctl enable-linger widzi  \
+
+# Check lingering enabled\
+loginctl show-user widzi | grep Linger\
+\
+# Test socket exists after reboot\
+ls /run/user/1000/mpd/socket\
+rmpc status\
+
+v .config/hypr/autostart.conf 
+v .config/hypr/autostart.conf 
+rmpc
+mpd
+# Check lingering enabled\
+loginctl show-user widzi | grep Linger\
+\
+# Test socket exists after reboot\
+ls /run/user/1000/mpd/socket\
+rmpc status\
+
+sudo systemctl --user start mpd
+export XDG_RUNTIME_DIR=/run/user/$(id -u)\
+mkdir -p $XDG_RUNTIME_DIR/mpd\
+systemctl --user daemon-reload\
+systemctl --user start mpd\
+ls $XDG_RUNTIME_DIR/mpd/socket  # Exists!\
+rmpc status\
+
+rmpc status
+rmpc
+rmpc
+rmpc
+mpd
+playerctl --player=mpd metadata --format '{{artist}} - {{title}}'\
+
+v .config/mpd/mpd.conf
+mpd-mpris
+v .config/hypr/autostart.conf 
+rmpc
+rmpc
+rmpc
+mpd
+v .config/mpd/mpd.conf
+v .config/zsh/.zshrc 
+nvim .config/zsh/.zshrc
+nvim .config/zsh/.zshrc
+mpd
+rmpd
+rmpc
+v .config/mpd/mpd.conf
+pkill mpd                    # Kill stale processes\
+mkdir -p ~/.local/share/mpd  # Ensure socket dir exists\
+mpd                          # Start MPD (creates socket)\
+echo $MPD_HOST               # Verify: /home/widzi/.local/share/mpd/socket  \
+rmpc                         # Connect\
+
+rmoc
+rmpc
+mpd
+v .config/mpd/mpd.conf 
+mpd
+v .config/mpd/mpd.conf 
+mpd
+v .config/mpd/mpd.conf 
+mpd
+mpd
+v .config/mpd/mpd.conf 
+mpd
+v .config/mpd/mpd.conf 
+mpd
+mp
+rmpc
+mpd-mpris
+v .config/hypr/autostart.conf 
+rmpc
+v .config/hypr/autostart.conf 
+mpd-mpris
+v .config/hypr/autostart.conf 
+rmpc
+mpd-mpris
+v .config/hypr/autostart.conf 
+systemctl --user list-unit-files | grep mpris
+systemctl --user enable mpd-mpris.service
+sudo systemctl --user status mpd-mpris.service
+systemctl --user status mpd-mpris.service
+systemctl --user start mpd-mpris.service
+rmpc
+mkdir -p ~/.config/systemd/user\
+systemctl --user edit mpd-mpris.service\
+
+systemctl --user daemon-reload\
+systemctl --user enable --now mpd-mpris.service\
+
+ournalctl --user -xeu mpd-mpris.service
+journalctl --user -xeu mpd-mpris.service
+rmpc
+v .config/mpd/mpd.conf 
+systemctl --user edit mpd-mpris.service\
+
+systemctl --user daemon-reload\
+systemctl --user restart mpd\
+sleep 3  # Let socket form\
+ls -l ~/.local/share/mpd/socket  # Verify: srw-------\
+systemctl --user restart mpd-mpris.service\
+systemctl --user status mpd-mpris.service  # Should be active\
+
+systemctl --user daemon-reload\
+systemctl --user restart mpd\
+sleep 3  # Let socket form\
+ls -l ~/.local/share/mpd/socket  \
+systemctl --user restart mpd-mpris.service\
+systemctl --user status mpd-mpris.service  \
+
+mpd-mpris
+systemctl --user start mpd-mpris.service
+journalctl --user -xeu mpd-mpris.service
+systemctl --user edit mpd-mpris.service\
+
+systemctl --user daemon-reload\
+systemctl --user restart mpd\
+sleep 2\
+systemctl --user restart mpd-mpris.service\
+systemctl --user status mpd-mpris.service\
+journalctl --user -xeu mpd-mpris.service  \
+
+rmpc
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+cd .config/rmpc
+v notify.sh
+chmod +x notify.sh
+cd /usr/bin/
+v 
+rmpc
+~/.config/rmpc/notify.sh
+v ~/.config/rmpc/notify.sh
+v ~/.config/rmpc/notify.sh
+~/.config/rmpc/notify.sh
+rmpc
+rmpc
+rmpc
+rmpc
+rmpc
+rmpc
+rmpc
+rmpc
+rmpc
+rmpc
+rmpc --version
+rmpc --ver
+rmpc --help
+rmpc
+v Documents/misc/english.txt 
+v Documents/misc/english.txt 
+y
+v projekt04-3c-zasady-klasyfikacji.txt
+cd
+cd Documents/Programming/PZAIW_widzi_2025-6
+ls
+cp projekt03 projekt04
+cp -r projekt03 projekt04
+ls
+cd projekt04
+v ./
+y
+sudo pacman -S sqlitebrowser
+sudo pacman -Syu
+sudo pacman -S sqlitebrowser
+v ./
+cd
+cd .config
+cd rmpc
+v config.ron
+mkdir themes
+cd themes
+v widzi.ron
+cd ..
+v
+v themes/widzi.ron
+cd Documents/Programming
+ls
+cd C\#
+ls
+v test.cs
+ls -la
+mkdir poczatki
+cd poczatki
+dotnet new console
+ls -la
+v Program.cs
+dotnet run
+v Program.cs
+v
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+git config --global url."git@github.com:"
+git config --global url."git@github.com:".insteadOf "https://github.com/" 
+git pull
+cd .config/rmpc
+ls
+v themes/widzi.ron
+v themes/widzi.ron
+rmpc
+rmpc
+rmpc
+rmpc
+rmpc
+sudo pacman -Rs rmpc
+yay -S rmpc-git
+rmpc
+rmpc
+rmpc
+rmpc
+rmpc
+rmpc
+v .config/kitty/kitty.conf 
+.config/zsh/.zshrc 
+v .config/local/share/Trash/info/zsh.trashinfo 
+v .config/zsh/.zshrc 
+rmpc
+rmpc
+rmpc
+v
+v .config/hypr/colors.conf 
+v Documents/misc/colors.txt 
+v Backup/nvim/init.lua 
+v .config/nvim/init.lua 
+v .config/hypr/colors.conf 
+v Documents/misc/colors.txt 
+v
+cd .config/rmpc
+v themes/widzi.ron
+v config.ron
+v themes/widzi.ron
+y
+ln -s ~/.config/mpd/mpd.conf ~/.config/mpd
+rmpc
+cd ..
+git add .
+git commit -m 'mpd and rmpc'
+git push
+git pull
+git status
+v hypr/hyprlock.conf 
+v hypr/hyprpaper.conf  
+y
+git reset --hard HEAD
+y
+v hypr/hyprpaper.conf 
+git pull
+git push
+y
+v config.jsonc
+cd ..
+cd normal
+v config.jsonc
+y
+v hyprlock.conf 
+v hyprpaper.conf 
+ls -a
+v monitors.conf
+hyprctl monitors
+v monitors.conf 
+v wallpapers.conf 
+cd .config
+git status
+git update-index --no-assume-unchanged hypr/hyprlock.conf hypr/hyprpaper.conf
+git status
+git update-index --assume-unchanged hypr/hyprlock.conf hypr/hyprpaper.conf
+cd .config/mpd
+y
+v 
+rmpc
+v .config/systemd/user/mpd-mpris.service.d/override.conf 
+v .config/hypr/hyprlock.conf 
+v Documents/misc/colors.txt 
+y
+v hyprlock.conf
+c
+cd
+v .config/hypr/hyprlock.conf 
+cd .config
+git pull
+v hypr/hyprlock.conf 
+v hypr/hyprlock.conf 
+git restore hypr/hyprlock.conf 
+git pull
+ls
+git status
+v .gitignore
+ls
+git status
+v hypr/hyprlock.conf 
+v
+v 
+cd nvim
+git status
+cd ..
+git update-index --assume-unchanged hypr/hyprlock.conf hypr/hyprpaper.conf
+cd nvim
+ls
+cd lua
+ls
+ls --la
+ls -la
+ls
+cd config
+ls
+cd plugins
+ls 
+cd ..
+v lazy.lua
+cd ..
+cd ..
+v init.lua
+cd lua
+cd config
+v ini
+v lazy.lua
+cd ..
+cd ..
+v init.lua
+v
+git add .
+git status
+cd ..
+git add ,
+git add .
+git commit -m 'fixed nvim theme'
+git push
+cd ..
+mv .config dotfiles-Miku-Teto
+ls
+y
+y
+cd
+v dotfiles-Miku-Teto/yazi
+hyprlock
+v 
+ln -s ~/dotfiles-Miku-Teto/btop .config
+ln -s ~/dotfiles-Miku-Teto/cava .config
+ln -s ~/dotfiles-Miku-Teto/fastfetch .config
+ln -s ~/dotfiles-Miku-Teto/fzf .config
+ln -s ~/dotfiles-Miku-Teto/hypr .config
+ln -s ~/dotfiles-Miku-Teto/kitty .config
+ln -s ~/dotfiles-Miku-Teto/nvim .config
+ln -s ~/dotfiles-Miku-Teto/rmpc .config
+ln -s ~/dotfiles-Miku-Teto/rofi .config
+ln -s ~/dotfiles-Miku-Teto/scripts .config
+ln -s ~/dotfiles-Miku-Teto/spicetify .config
+ln -s ~/dotfiles-Miku-Teto/swaync .config
+ln -s ~/dotfiles-Miku-Teto/waybar .config
+ln -s ~/dotfiles-Miku-Teto/wlogout .config
+ln -s ~/dotfiles-Miku-Teto/yazi .config
+ln -s ~/dotfiles-Miku-Teto/zsh .config
+ln -s ~/dotfiles-Miku-Teto/images .config
+ln -s ~/dotfiles-Miku-Teto/wallpapers .config
+ln -s ~/dotfiles-Miku-Teto/alt_styles .config
+y
+rm -rf ~/.config/yazi
+y
+ln -s ~/dotfiles-Miku-Teto/yazi .config
+y
+y
+y
+y
+v yazi.toml
+y
+v yazi.toml
+y
+y
+find . -type f -exec sed -i 's/Dotfiles/.config/g' {} +\
+
+y
+v lock-in-mode.sh
+cd ..
+find . -type f -exec sed -i 's/Dotfiles/.config/g' {} +\
+
+y
+y
+\
+v yazi.toml
+cd
+y
+ls 
+cd lua
+ls
+cd config
+ls
+cd themes
+ls
+cd ..
+cd ..
+cd ..
+gemini
+y
+cd dotfiles-Miku-Teto
+git add .
+git commit -m 'fixing stuff so it uses .config instead of ~/Dotfiles'
+git push 
+y
+v
+sudo pacman -S gum
+sudo pacman -S gum
+        sh -c "~/.config/scripts/rice_switcher/symlink_changer.sh ~/inabashell" \
+
+        sh -c "~/.config/scripts/rice_switcher/symlink_changer.sh ~/dotfiles-Miku-Teto" ;;\
+
+        sh -c "~/.config/scripts/rice_switcher/symlink_changer.sh ~/inabashell" \
+
+~/.config/scripts/rice_switcher/symlink_changer.sh ~/dotfiles-Miku-Teto
+~/.config/scripts/rice_switcher/rofi-rice-switcher.sh
+v inabashell/scripts/rofi-menu-scripts/rofi-menu.sh 
+v dotfiles-Miku-Teto/scripts/rice_switcher/rofi-rice-switcher.sh 
+v dotfiles-Miku-Teto/scripts/rice_switcher/symlink_changer.sh 
+v inabashell/scripts/rofi-menu-scripts/rofi-menu.sh 
+v inabashell/hypr/binds.conf 
+v dotfiles-Miku-Teto/hypr/binds.conf 
+v inabashell/scripts/rofi-menu-scripts/rofi-menu.sh 
+v inabashell/scripts/rice_switcher/rofi-rice-switcher.sh 
+v inabashell/scripts/rice_switcher/symlink_changer.sh 
+v dotfiles-Miku-Teto/hypr/binds.conf 
+v dotfiles-Miku-Teto/hypr/visuals.conf 
+notify-send 'test'
+cd dotfiles-Miku-Teto
+ls
+cd scripts
+ls
+mkdir rice_switcher
+cd rice_switcher
+touch 
+touch symlink_deleter.sh
+mv symlink_deleter.sh symlink_changer.sh
+v symlink_changer.sh
+chmod +x symlink_changer.sh
+v symlink_changer.sh
+./symlink_changer.sh ~/dotfiles-Miku-Teto/
+v symlink_changer.sh
+./symlink_changer.sh
+./symlink_changer.sh ~/dotfiles-Miku-Teto/
+y
+v rofi-rice-switcher.sh
+y
+echo "# inabashell" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin git@github.com:MWidzi/inabashell.git\
+git push -u origin main
+y
+git status
+v hypr/visuals.conf
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+cd 
+cd inabashell
+ls
+cd hypr
+v visuals.conf
+v autostart.conf
+yay -S awww-git
+sudo pacman -S swww
+v autostart.conf
+y
+v wallpapers.conf
+y
+v wallpapers.conf 
+cd inabashell/hypr 
+v wallpapers.conf
+cd inabashell/hypr 
+v wallpapers.conf
+cd ..
+v colors.css
+v kitty/kitty.conf
+cd inabashell
+v kitty/kitty.conf
+v inabashell/kitty/kitty.conf
+v inabashell/kitty/kitty.conf
+cd inabashell
+ls
+cd inabashell
+ls
+cd
+ls -la
+y
+p10k configure
+p10k configure
+v dotfiles-Miku-Teto/zsh/.p10k.zsh 
+cd inabashell
+v
+v kitty/kitty.conf
+v kitty/kitty.conf
+cd inabashell
+cd inabashell
+cd inabashell
+cd inabashell
+cd ..
+cd dotfiles-Miku-Teto
+cd inabashell
+cd inabashell
+cd inabashell
+cd inabashell
+cd ..
+cd dotfiles-Miku-Teto
+clear
+clear
+cd inabashell
+cd hypr
+v visuals.conf
+v colors.conf
+v visuals.conf
+v colors.conf
+v visuals.conf
+v colors.conf o
+v visuals.conf
+v colors.conf
+v visuals.conf
+cd ..
+cd zsh
+v p1
+v .p10k.zsh
+cd inabashell
+cd zsh
+v .zshrc
+cd inabashell
+cd zsh
+ls
+v .zshrc
+cd
+cd inabashell
+cd zsh
+ls
+v completion.zsh
+cd inabashell/zsh
+v completion.zsh
+sudo pacman -S ttf-mononoki-nerd
+sudo pacman -Syu
+sudo pacman -S ttf-mononoki-nerd
+cd inabashell
+git status
+v .gitignore
+cd kitty
+v kitty.conf
+cd inabashell
+y
+yes
+git status
+v kitty/kitty.conf
+cd inabashell
+v hypr/binds.conf
+v hypr/programs.conf
+v inabashell/colors.css 
+v inabashell/colors.css 
+cd inabashell/zsh
+v .p10k.zsh
+v
+v
+yes
+yes
+cd inabashell/scripts
+ls
+cd rofi-menu-scripts
+ls
+v omarchy-pkg-install.sh
+cd inabashell
+git status
+cd fzf
+v .fzfrc
+cd ..
+v .gitignore
+git add .
+cd hypr
+ls
+v visuals.conf
+y
+cd ..
+v zsh/.zshrc
+v
+v
+v inabashell/zsh/.zshrc
+v
+v
+v inabashell/hypr/visuals.conf
+cd inabashell
+cd hypr
+y
+y
+y
+y
+v
+V
+v
+y
+cd inabashell/zsh/
+v .zshrc
+y
+v inabashell/zsh/.zshrc
+v inabashell/hypr/colors.conf
+v inabashell/hypr/visuals.conf 
+y
+v hyprland.conf
+v hyprlock.conf
+v inabashell/hypr/hyprlock.conf 
+cd inabashell
+git add .
+v .gitignore
+git add .
+git commit
+git push
+cd hypr
+v visuals.conf
+v animations.conf
+git add .
+git commit -m 'changed hyprlock and shadow'
+git push
+v inabashell/colors.css 
+v inabashell/colors.css 
+cd inabashell
+cd zsh
+v .p10k.zsh
+cd inabashell
+y
+v
+y
+v palette.lua
+v palette.lua
+v palette.lua
+v palette.lua
+v palette.lua
+v palette.lua
+cd ..
+cd plugins
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+y
+v inabashell/colors.css 
+nmcli device wifi rescan
+nmcli device wifi list
+hyprctl reload
+v inabashell/colors.css 
+pkill waybar
+waybar & detach
+waybar & disown
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar
+waybar & disown
+pkill waybar
+waybar & disown
+clear
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+cd inabashell
+v hypr/visuals.conf
+v hypr/visuals.conf
+v hypr/rules.conf
+v hypr/visuals.conf
+v hypr/binds.conf
+cd
+cd Documents/Programming/
+ls
+cd PHP
+ls
+mkdir sklep
+mv sklep.xml sklep
+cd sklep
+touch sklep.php
+mv sklep.php display_xml.php
+v display_xml.php
+composer init sklep
+composer init --name sklep
+v display_xml.php
+ls
+v display_xml.php
+cd ..
+ls
+cd dbToIcs
+ls
+v dbToCalendar.php
+v dbToCalendar.php
+v dbToCalendar.php
+echo "extension=iconv" | sudo tee /etc/php/conf.d/iconv.ini\
+php --ri iconv  # Verify it's loaded\
+
+echo "extension=iconv" | sudo tee /etc/php/conf.d/iconv.ini\
+php --ri iconv  \
+
+v dbToCalendar.php
+cd ../sklep
+v display_xml.php
+cd ..
+cd .config
+ls
+y
+sudo pacman -S unixodbc\
+
+ls /usr/lib/qt6/qml/{QtQuick,Quickshell*}  \
+which qmlls6 \
+quickshell --version  \
+
+cd inabashell/nvim/lua/config/plugins
+v lspconfig.lua
+v lspconfig.lua
+qs
+cd inabashell
+ls
+ls | grep "quick"
+mkdir quickshell
+ln -s ~/inabashell/quickshell ~/.config
+ln -s ~/inabashell/quickshell ~/.config
+cd quickshell
+ls
+mkdir inababar
+cd inababar
+v shell.qml
+v shell.qml
+touch shell.qml
+v shell.qml
+ls /usr/lib/libodbc.so*     # Should show libodbc.so.2\
+qml --version               # Test qmlls if installed separately\
+
+ls /usr/lib/libodbc.so*     \
+qml --version               \
+
+sudo pacman -S qml
+sudo pacman -S qt6-declarative qt6-languageserver\
+
+v shell.qml
+ls /usr/lib/qt6/qml/QtQuick*     # Should exist\
+\
+pacman -Ql quickshell | grep qml\
+find /usr -name "*quickshell*" 2>/dev/null\
+
+cd ../..
+cd nvim/lua
+ls
+c config
+cd config
+ls
+cd plugins
+v lspconfig.lua
+v lspconfig.lua
+cd ..
+cd ../../..
+cd quickshell/inababar
+v shell.qml
+qs
+ls 
+cd
+cd .config/quickshell
+ls
+cd inababar
+qss
+qs
+ls
+mkdir -p ~/.config/quickshell/inababar/default\
+mv ~/.config/quickshell/inababar/shell.qml ~/.config/quickshell/inababar/default/\
+
+qs
+ls
+qs -c ./default/
+qs --path ~/.config/quickshell/inababar
+qs --path ~/.config/quickshell/inababar/default/shell.qml
+cd ..
+cd hyprquickshot
+ls
+v shell.qml
+cd ..
+cd inababar
+v default
+y
+qs
+touch .qmlls.ini
+v .qmlls.ini
+v shell.qml
+v shell.qml
+v shell.qml
+v shell.qml
+ls
+ls -la 
+v .qmlls.ini
+qs
+waybar
+hyprshot 
+v inabashell/nvim/lua/config/plugins/lspconfig.lua 
+wwaybar
+waybar
+cd .config/quickshell
+cd
+cd inabashell/hypr/
+v binds.conf
+v programs.conf
+quickshell -c hyprquickshot -n\
+
+cd ..
+cd quickshell
+ls
+cd ..
+v hypr/binds.conf
+cd inabashell/quickshell
+v shell.qml
+qs
+pkill waybar
+v shell.qml
+qs
+v shell.qml
+qs
+qs
+v shell.qml
+qs
+v shell.qml
+qs
+v shell.qml
+v dotfiles-Miku-Teto/hypr/animations.conf 
+cd inabashell/hypr
+v animations.conf
+v inabashell/kitty/kitty.conf 
+waybar
+v dotfiles-Miku-Teto/hypr/animations.conf 
+cd inabashell
+cd hypr
+ls
+v autostart.conf
+v wallpapers.conf
+fastfetch
+fastfetch
+cd inabashell
+ls
+v kitty
+fastfetch
+git status
+cd inabashell
+git status
+git status
+git add .
+git restore --staged quickshell/hyprquickshot
+v .gitignore
+git add .
+git status
+git commit -m 'getting down overall look and feel (nvim, fzf, hypr, swww, kitty)'
+git push
+hyprctl reload
+sudo pacman -Syu
+cd inabashell
+git status
+git pull
+git pull
+git restore rofi/theme.rasi
+git pull
+y
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | grep 'x86'
+cat /sys/class/thermal/thermal_zone*/type
+cat /sys/class/thermal/thermal_zone*/temp
+cat /sys/class/thermal/thermal_zone*/type\
+
+cd dotfiles-Miku-Teto/scripts/
+ls
+./get-battery.sh
+v Documents/Programming/PHP/dbToIcs/dbToCalendar.php 
+v Documents/Programming/PHP/dbToIcs/dbToCalendar.php 
+v Documents/Programming/PHP/dbToIcs/dbToCalendar.php 
+v Documents/Programming/PHP/dbToIcs/dbToCalendar.php 
+v Documents/Programming/PHP/dbToIcs/dbToCalendar.php 
+v
+v Documents/misc/english.txt 
+cd inabashell/quickshell
+ls
+v shell.qml
+cd ..
+cd nvim
+y
+y
+v indent-blankline.lua
+v indent-blankline.lua
+v
+v indent-blankline.lua
+v indent-blankline.lua
+v autoindent.lua
+v autoclose.lua
+v noice.lua
+v noice.lua
+v noice.lua
+v noice.lua
+v noice.lua
+v noice.lua
+v notify.lua
+y
+v telescope.lua
+cd ..
+y
+cd ..
+git add . 
+git commit -m 'added indent-blackline, noice and autoclose to nvim config'
+git push
+y
+v Documents/misc/english.txt 
+v Documents/misc/english.txt 
+dotnet run
+v Documents/misc/english.txt 
+dotnet run
+dotnet run
+inabashell/scripts/get-battery.sh 
+v 
+cd inabashell
+t
+v pc_backup/hyprlock.conf
+v hypr/hyprlock.conf
+y
+cd inabashell/nvim
+y
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+v lualine.lua
+cd
+cd Documents/Programming
+ls
+cd C\#
+ls
+mkdir funkcje_tabele_practice
+cd funkcje_tabele_practice
+dotnet new console
+y
+v Program.cs
+v Program.cs
+cd
+clear
+cd inabashell/quickshell
+v shell.qml
+cd inabashell/quickshell
+v shell.qml
+node index.js
+node index.js
+node index.js
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+v
+v
+v
+v
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+node index.js
+cd Documents/misc
+v test.html
+y
+\
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+node index.js
+node index.js
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+node index.js
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+node index.js
+v
+node index.js
+pkill node
+node index.js
+pkill node
+node index.js
+cd 
+\
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+;s
+ls
+node index.js
+npm install
+npm audir fix
+npm audit fix
+node index.js
+rm -rf node_modules
+npm install
+npm install express
+node index.js
+y
+v
+node index.js
+node index.js
+v Documents/misc/test.html 
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+node index.js
+node index.js
+v Documents/misc/english.txt 
+~/.config/scripts/get-battery.sh
+v ~/.config/scripts/get-battery.sh
+sudo mount /dev/sdb1 ./USB
+y
+sudo umount ./USB
+sudo pacman -Syu
+cd Documents/Programming/PHP/szablon_pain
+ls
+v index.php
+v index.php
+y
+v index.php
+php -S 0.0.0.0:8000
+sudo pacman -S amixer
+sudo pacman -S alsa-utils
+awk -F "[][]" '/Left:/ { print $2, $4 }' <(amixer sget Master)
+amixer
+amixer sget Master
+amixer sget IEC958
+cd inabashell/scripts
+v get-volume.sh
+chmod +x get-volume.sh
+./get-volume.sh
+v get-volume.sh
+./get-volume.sh
+./get-volume.sh
+./get-volume.sh
+./get-volume.sh
+./get-volume.sh
+v get-volume.sh
+./get-volume.sh
+./get-volume.sh
+./get-volume.sh
+./get-volume.sh
+./get-volume.sh
+v get-volume.sh
+./get-volume.sh
+./get-volume.sh
+v get-volume.sh
+v inabashell/fzf/.fzfrc 
+v inabashell/nvim/lua/config/plugins/lualine.lua 
+v inabashell/nvim/lua/config/plugins/lualine.lua 
+pkill waybar
+v inabashell/colors.css 
+cd inabashell/yazi
+;s
+;s
+ls
+v keymap.toml
+yazi --pick-mode
+v inabashell/fzf/.fzfrc 
+v Documents/misc/english.txt 
+cd inabashell
+v quickshell/shell.qml
+v quickshell
+v scripts/rice_switcher/symlink_changer.sh 
+y
+y
+v theme.toml
+cd inabashell/yazi
+ll
+ls 
+v yazi.toml
+yazi
+v Documents/misc/english.txt 
+sudo pacman -Syu 
+cd Documents/Programming/PHP/szablon_pain
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+php -S 0.0.0.0:8000
+cd Documents/Programming/PHP/szablon_pain
+v index.php
+y
+v index.php
+y
+v ServiceWorker.js
+v Manifest.json
+v index.php
+y
+v
+y 
+v Documents/misc/debaty/zapomniani_bohaterowie.txt
+cd inabashell/yazi
+v theme.toml
+cd .
+cd ..
+v hypr/rules.conf
+cd scripts
+y
+e
+y
+cd ..
+v hypr/binds.conf
+v hypr/programs.conf
+v scripts/fileManager.sh
+y
+y
+y
+v inabashell/scripts/fileManager.sh 
+y
+v inabashell/hypr/binds.conf
+v inabashell
+y
+y
+v inabashell/zsh/.zshrc 
+y
+y
+hyprctl clients
+y
+hyprctl clients
+v inabashell/hypr/wallpapers.conf 
+cava
+cd inabashell
+git status
+git update-index --assume-unchanged hypr/mainMonitor.conf
+git status
+git update-index --assume-unchanged hypr/monitors.conf hypr/wallpapers.conf
+git add colors.css hypr/hyprlock.conf
+git commit -m 'updated hyprlock'
+git status
+git reset --soft HEAD~1\
+
+git status
+git add scripts/get-battery.sh
+git commit -m 'updated hyprlock'
+git add scripts/fileManager.sh yazi/theme.toml yazi/yazi.toml
+git commit -m 'made yazi match the color scheme'
+git status
+git add scripts/get-volume.sh quickshell/shell.qml 
+git commit -m 'added laptop features to quickshell bar'
+git add hypr/rules.conf
+git commit -m 'updated floating window rules'
+git add .
+git commit -m 'backups'
+git push
+ls
+ls -la
+cd spicetify
+ls
+cd Themes
+ls
+v widzi_text
+spicetify backup apply enable-devtools
+spicetify restore backup
+spicetify config current_theme widzi_text
+spicetify apply
+yay -S spicetify-cli
+spicetify backup apply
+spicetify restore backup 
+sudo pacman -Syu
+sudo pacman -S spotify
+sudo pacman -S spotify-launcher
+spicetify restore backup 
+sudo pacman -S spotifyd
+sudo pacman -Rs spotify-launcher
+spicetify restore backup 
+sudo pacman -S spotify-player
+spicetify restore backup 
+spotify --version
+yay -S spotify
+git add . 
+git commit -s 'spicetify theme'
+git commit -m 'spicetify theme'
+git push
+y
+y
+git status
+y
+git status
+y
+cava
+hyprctl clients
+v inabashell/fzf/.fzfrc 
+cd inabashell/yazi
+v
+v
+v 
+v
+cd inabashell/yazi
+v inabashell/hypr/visuals.conf 
+v inabashell/hypr/rules.conf 
+v inabashell/hypr/rules.conf 
+rofi -show drun -theme-str 'listview { columns: 3; }'\
+
+rofi -show drun -theme-str 'window {width: 500px;} listview {columns: 4;}'\
+
+rofi -show drun -theme-str 'window {width: 600px;} listview {columns: 4;}'\
+
+v inabashell/yazi/theme.toml
+v inabashell/hypr/rules.conf 
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+./rofi_clipboard.sh
+cd ..
+git status
+cd rofi
+cd ..
+y
+v theme.rasi
+y
+v
+v theme.rasi
+y
+git status
+git add cava/config
+git commit -m 'updated cava colors'
+git add rofi/theme.rasi scripts/rofi-menu-scripts/* 
+git status
+git commit -m 'changed rofi config and dmenu scritps'
+git add yazi/theme.toml
+git commit -m 'changed yazi folder icons to nf_oct'
+git add .
+git commit -m 'deletions and slight changes'
+git push
+cd scripts
+cd rofi-menu-scripts
+v rofi_clipboard.sh
+chmod +x ./rofi_clipboard.sh
+v rofi_clipboard.sh
+cliplist
+./rofi_clipboard.sh
+v rofi_clipboard.sh
+v rofi_clipboard.sh
+./rofi_clipboard.sh
+wl-paste --watch cliphist store\
+
+\
+wl-paste --watch cliphist store & disown\
+
+v ../../hypr/autostart.conf
+./rofi_clipboard.sh
+v rofi_clipboard.sh
+v
+v rofi-menu.sh
+~/.config/scripts/rofi-menu-scripts/rofi_clipboard.sh
+./rofi-menu.sh
+sudo pacman -S cliphist
+cliphist
+inabashell/scripts/rofi-menu-scripts/rofi-menu.sh 
+v inabashell/rofi/theme.rasi 
+v inabashell/scripts/rofi-menu-scripts/rofi-menu.sh 
+cd inabashell/scripts/rofi-menu-scripts
+v rofi_clipboard.sh
+v inabashell/rofi/theme.rasi 
+v inabashell/scripts/rofi-menu-scripts/rofi-menu.sh 
+cd inabashell/scripts/rofi-menu-scripts
+v rofi_clipboard.sh
+inabashell/rofi/theme.rasi 
+v inabashell/rofi/theme.rasi 
+inabashell/scripts/rofi-menu-scripts/rofi-menu.sh 
+v inabashell/scripts/rofi-menu-scripts/rofi-menu.sh 
+cd inabashell/scripts/rofi-menu-scripts
+v rofi_clipboard.sh
+v rofi_clipboard.sh
+v rofi_clipboard.sh
+hyprctl reload
+v inabashell/colors.css 
+cd inabashell/scripts/rofi-menu-scripts
+v rofi_clipboard.sh
+y
+cd inabashell
+git status
+git add . 
+git commit 'added clipboard history rofi'
+git commit -m 'added clipboard history rofi'
+git push
+v
+cd inabashell
+y
+v
+cd inabashell/scripts/rofi-menu-scripts
+v nvimWrapper.sh
+git add .
+git commit -m 'fixed nvim wrapper'
+git push
+v 
+v nvimWrapper.sh
+v
+v nvimWrapper.sh
+git add . 'removed background opacity change from nvim wrapper'
+git add . 
+git commit -m 'removed background opacity change from nvim wrapper'
+git push
+cd
+cd dotfiles-Miku-Teto
+v scripts/rofi-menu-scripts/nvimWrapper.sh
+powerprofilesctl set 'power-saver'
+cd inabashell/nvim
+v
+v
+y
+node index.js
+node index.js
+node index.js
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+node index.js
+y
+v
+y
+v display_song.ejs
+cd ..
+v views/display_song.ejs
+v views/display_song.ejs
+cd inabashell
+ls
+y
+powerprofilesctl set 'balanced'
+sudo pacman -Syu
+yay -S spotify 
+spicetify restore backup 
+yay -S spicetify-cli
+spicetify restore backup 
+spicetify backup apply 
+spotify & disown
+spicetify restore backup 
+spicetify backup apply
+spicetify restore backup 
+spicetify appply
+spicetify apply
+spicetify restore backuo 
+spicetify restore backup
+spicetify backup apply 
+spicetify backup apply 
+spicetify restore backup 
+spicetify backup appl y
+spicetify backup apply
+spicetify backup apply
+spicetify backup restore 
+spicetify restore backup
+spicetify backup restore 
+spicetify backup apply
+yay -s spotify
+yay -S Spotify
+spicetify backup apply 
+cd inabashell/spicetify
+ls
+cd Themes
+v widzi_text
+cd inabashell
+git status
+git add .
+git commit -m 'changed spicetify border radius'
+git push 
+sudo pacman -S walker
+walker
+sudo pacman -S elephant 
+walker
+walker
+systemctl --user enable --now elephant.service
+elephant
+elephant & disown
+walker
+walker --gapplication-service & disown
+walker
+walker
+walker
+pkill elephant; elephant & disown
+pkill walker
+walker --gapplication-service & disown
+walker
+pkill elephant\
+elephant providers refresh desktopapplications\
+elephant &
+pkill elephant\
+elephant listproviders
+update-desktop-database ~/.local/share/applications\
+update-desktop-database /usr/share/applications
+elephant menu applications
+pkill elephant\
+elephant &   # Starts in background, returns shell\
+elephant listproviders
+yay -Rns elephant elephant-all\
+yay -S elephant elephant-desktopapplications elephant-menus\
+pkill elephant; elephant &
+mkdir dotfiles
+cd dotfiles
+git clone https://github.com/MWidzi/everforest_dots.git
+y
+swww img ~/.config/wallpapers/inabakumori_wallpaper_1.webp
+cd inabashell/hypr/
+ls
+y
+walker
+ln -s ~/inabashell/walker .config
+walker
+pkill walker
+walker
+walker --gapplication-service & disown
+walker
+pkill walker
+walker
+walker --gapplication-service & disown
+walker
+pkill walker
+walker
+pkill walker
+walker
+gemini
+cd ..
+gemini
+yu
+y
+walker --gapplication-service & disown
+v .config/zellij/config.kdl 
+curl -fsSL https://claude.ai/install.sh | bash
+curl -fsSL https://claude.ai/install.sh | bash
+curl -fsSL https://claude.ai/install.sh | bash
+walker
+walke
+walker
+cd .config/walker
+y
+sudo pacman -S gtk4 gtk4-layer-shell cairo poppler-glib protobuf\
+\
+yay -S elephant elephant-providerlist elephant-desktopapplications\
+yay -S elephant-files elephant-runner elephant-calc elephant-websearch\
+yay -S elephant-clipboard elephant-symbols elephant-emojis elephant-commands\
+\
+yay -S elephant-bookmarks elephant-windows elephant-ssh
+Walker
+walker
+v config.toml
+walker
+walker
+walker
+walker
+walker
+walker
+walker
+pkill walker
+walker --gapplication-service & disown
+walker
+# Core providers usually need these\
+sudo pacman -S wl-clipboard grim slurp jq
+cd .config
+mkdir elephant
+cd elephant
+v config.toml
+pkill walker 
+walker --gapplication-service & disown
+walker
+walker
+walker
+pkill walker
+walker
+walker
+walker
+walker
+walker
+walker
+cd .config/walker
+v config.toml
+cd ..
+rm -rf walker
+mkdir walker
+cd walker
+v config.toml
+walker
+v config.toml
+ls
+mkdir themes
+mkdir themes/widzi
+v config.toml
+pkill walker
+walker --gapplication-service & disown
+walker
+pkill walker
+walker --gapplication-service & disown
+walker
+pkill walker
+walker --gapplication-service & disown
+walker
+walker
+walker
+walker
+walker
+walker
+walker
+walker
+walker
+walker
+walker
+walker
+cd .config/walker
+v config.toml
+walker
+walker
+walker
+walke
+walker
+walker
+cd .config/walker
+v config.toml
+cd themes/widzi
+v style.css
+walker
+walker
+cd inabashell/hypr
+y
+ln -s ~/inabashell/walker .config
+y
+cd 
+ln -s ~/inabashell/walker .config
+y
+cd inabashell/hypr/wa
+cd inabashell/hypr
+v wallpapers.conf
+cd ..
+git status
+y
+git add walker/
+git status
+git add .
+git commit -m 'walker config.toml and moved from rofi to walker in binds and such'
+git push
+git pull
+git status
+git add quickshell/.qmlls.ini
+git commit -m 'automatic .qmlls.ini change'
+git push
+y
+y
+y
+git reflog
+cd inabashell
+git reflog
+git checkout -b restore-work 7283898
+y
+git checkout main\
+git reset --hard origin/main
+y
+\
+git reset --hard origin/main
+cd inabashell
+cd inabashell
+\
+git reset --hard origin/main
+y
+find ~ -name "*.swp" 2>/dev/null
+nvim -r ~/.config/walker/themes/widzi/style.css
+cd inabashell
+ls
+mkdir walker
+v style.css
+nvim -r ~/.config/walker/config.toml
+find ~ -name "*.swp" 2>/dev/null 
+find ~ -name "*.swp" 2>/dev/null 
+find ~ -name "*.swp" 2>/dev/null | grep 'inaba'
+nvim -r ~/inabashell
+y
+y
+ls
+./rice_switcher/symlink_changer.sh ~/inabashell
+cd ..
+git status
+y
+git checkout -b restore-work 7283898
+git branch
+git switch restore-work
+git rebase --quit
+git switch restore-work
+git add .
+git commit -m 'added walker (unstyled);
+git commit -m 'added walker (unstyled)'
+git switch restore-work
+y
+git switch main
+git push 
+cd inabashell
+git switch restore-work
+y
+git switch main 
+cd
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+git add .
+git commit -m 'projekt04/added song adding interface (no working post handling yet)'
+git pusg
+git push
+y
+cd inabashell
+y
+nmcli device wifi list
+nmcli device wifi 
+nmcli 
+nmcli device show 
+sudo reboot 
+elephant & disown 
+cd inabashell
+git pul;
+git pull
+v hypr/wallpapers.conf
+y
+sudo pacman -Syu 
+sudo pacman -Syu 
+cd inabashell
+v hypr/wallpapers.conf
+git restore hypr/wallpapers.conf
+git pull 
+git status 
+v hypr/wallpapers.conf
+git update-index --assume-unchanged hypr/wallpapers.conf
+sudo pacman -Syu 
+cd 
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+git pull 
+git status
+cd ..
+git add .
+git commit -m 'changed something to projekt03'
+git pull 
+cd Documents/Programming/pzaw_code
+ls
+y
+y
+git init
+y
+git clone git@github.com:ehmeth/pzaw-code.git
+y
+git add .
+git commit -m '01 start'
+y
+git add .
+git commit -m '02 add categories'
+y
+y
+git add .
+git commit -m '03 edit category name'
+y
+git add .
+git commit -m '04 edit and delete cards'
+hyprctl clients
+v inabashell/hypr/rules.conf
+cd .config
+y
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+sudo pacman -S nautilus xdg-desktop-portal-gnome
+sudo pacman -R xdg-desktop-portal-gtk xdg-desktop-portal-kde
+systemctl --user restart xdg-desktop-portal xdg-desktop-portal-gnome
+journalctl -xe
+sudo pacman -S xdg-desktop-portal-termfilechooser
+yay -S xdg-desktop-portal-termfilechooser-git
+v .config/xdg-desktop-portal/portals.conf
+v inabashell/zsh/.zshrc
+mkdir -p ~/.config/xdg-desktop-portal-termfilechooser
+v  ~/.config/xdg-desktop-portal-termfilechooser/yazi-chooser.sh
+chmod +x ~/.config/xdg-desktop-portal-termfilechooser/yazi-chooser.sh
+v ~/.config/xdg-desktop-portal-termfilechooser/config
+systemctl --user restart xdg-desktop-portal xdg-desktop-portal-termfilechooser
+sudo pacman -S ranger
+v 
+y
+sudo -Rs ranger
+sudo pacman -Rs ranger
+sudo pacman -Rs xdg-desktop-portal-termfilechooser-git
+y
+y
+cd projekt04
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+node index.js
+git add .
+git status
+git push 
+git status 
+v 
+walker
+walker
+pkill walker
+walker
+pkill walker
+walker
+walker
+cd inabashell
+ls
+git status
+git add .
+git commit -m 'added xdg-desktop-portal float rule'
+y
+cd themes
+cd widzi
+v style.css
+cd 
+cd inabashell
+git status
+git add .
+git commit -m 'styled walker'
+git push 
+pkill walker
+walker
+pkill elephant
+walkeer
+elephant
+elephant
+elephant
+v inabashell/colors.css 
+v inabashell/hypr/visuals.conf 
+pkill waybar
+hyprctl reload
+pkill waybar
+hyprctl reload
+cd Documents/ekjawlhakjaskjha
+v
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch -h editor-format
+fastfetch -h host-format
+fastfetch -h host-format
+fastfetch
+fastfetch -h uptime-format
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+v inabashell/fzf/.fzfrc 
+v inabashell/fzf/.fzfrc 
+v inabashell/colors.css 
+cd inabashell
+git pull 
+git pull 
+git status
+v .gitignore
+cd walker
+git status
+v config.toml
+v themes/widzi/style.css
+cd ..
+git add .
+git commit -m 'fixed walker css indent and made it force focus'
+git push
+y
+v config.jsonc
+git add .
+git commit -m 'fastfetch config'
+git push
+y
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+y
+git pull
+y
+cd ..
+y
+git clone git@github.com:MWidzi/NeuroRhythm.git
+cd Documents/Programming/Unity/NeuroRhythm
+git add .
+git commit -m 'attack animations and scene merge'
+git pull
+git push
+cd Documents/Programming
+ls
+mkdir javascript
+cd javascript
+mkdir dzielenie
+cd dziele
+cd dzielenie
+touch index.html
+v index.html
+v
+y
+cd Documents/Programming
+cd javascript/dzielenie
+v 
+cd ../..
+cd PHP
+ls
+y
+cd Documents/Programming/Unity/NeuroRhythm
+git pul;
+git pull
+v
+v
+v
+v
+v
+v
+v
+git add .
+git commit -m 'imported human enemy animations'
+git push
+git pull
+git pull
+git status
+git reset --soft HEAD~1\
+
+git status
+git restore --staged .
+gi tstatus
+git restore .
+git pull 
+git pull 
+v
+v
+git add 
+git add .
+git commit -m 'enemy attack animations logic and changed bullet sprite'
+git push
+v 
+git status
+v
+cd Documents/Programming
+ls
+git clone git@github.com:Sbotga/sbuga-backend.git
+cd sbuga-backend
+ls
+y
+y
+git puol
+git pull
+fastfetch
+v
+y
+cp ~/inabashell/Discord/themes/system24.theme.css 
+cd ..
+y
+cp ~/inabashell/Discord/themes/system24.theme.css ./
+y
+v inabashell/colors.css 
+cd Documents/Programming
+s
+y
+v
+y
+v 
+cd kwadratowe
+v
+cd Documents/Programming/Unity/NeuroRhythm
+v
+git pull
+git add .
+git commit -m 'made player not attack if in non-combat state'
+git pull
+git add . 'made noncombatant player a prefab; 
+git add . 'made noncombatant player a prefab'
+git add .
+git commit -m 'made noncombatant player a prefab'
+git push
+ v 
+v Documents/misc/mtb_puszcza.md
+v inabashell/colors.css 
+cd inabashell/spicetify
+ls
+v Themes/widzi_text
+                                            
