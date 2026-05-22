@@ -3,6 +3,15 @@ return {
     lazy = false,
     priority = 1000,
     config = function()
+        -- Shim for vim.lsp.with which was removed in Neovim 0.13+
+        if not vim.lsp.with then
+            vim.lsp.with = function(handler, override_config)
+                return function(err, result, ctx, config)
+                    return handler(err, result, ctx, vim.tbl_deep_extend('force', config or {}, override_config))
+                end
+            end
+        end
+
         require('palette').setup {
             palettes = {
                 main = 'custom_main',

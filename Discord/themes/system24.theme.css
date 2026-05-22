@@ -15,7 +15,7 @@
 
 body {
     /* font, change to '' for default discord font */
-    --font: 'Hack Nerd Font'; /* change to '' for default discord font */
+    --font: 'Mononoki Nerd Font'; /* change to '' for default discord font */
     --code-font: 'DM Mono'; /* change to '' for default discord font */
     font-weight: 300; /* text font weight. 300 is light, 400 is normal. DOES NOT AFFECT BOLD TEXT */
     letter-spacing: -0.05ch; /* decreases letter spacing for better readability. recommended on monospace fonts.*/
@@ -141,7 +141,7 @@ body {
     --green-4: oklch(60% 0.12 170);
     --green-5: oklch(55% 0.12 160);
 
-    --blue-1: oklch(0.75 0.11 222.76);
+    --blue-1: rgb(0 255 0);
     --blue-2: oklch(0.70 0.10 222.76);
     --blue-3: oklch(0.65 0.098 222.76);
     --blue-4: oklch(0.60 0.105 222.76);
@@ -165,7 +165,7 @@ body {
     *,
     *::before,
     *::after {
-        border-radius: 5px !important;
+        border-radius: 20px !important;
     }
 
     #app-mount,
@@ -175,6 +175,6 @@ body {
     }
     
     ::-webkit-scrollbar-thumb {
-        border-radius: 5px !important;
+        border-radius: 20px !important;
     }
 }

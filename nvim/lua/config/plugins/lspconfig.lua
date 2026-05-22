@@ -70,6 +70,12 @@ return {
                 end
 
                 local client = vim.lsp.get_client_by_id(event.data.client_id)
+
+                if client and client.name == 'html' then
+                    client.server_capabilities.documentFormattingProvider = false
+                    client.server_capabilities.documentRangeFormattingProvider = false
+                end
+
                 if client and client_supports_method(client, vim.lsp.protocol.Methods.textDocument_documentHighlight, event.buf) then
                     local highlight_augroup = vim.api.nvim_create_augroup('kickstart-lsp-highlight', { clear = false })
                     vim.api.nvim_create_autocmd({ 'CursorHold', 'CursorHoldI' }, {
@@ -215,6 +221,13 @@ return {
 
                     if server_name == 'html' then
                         server.filetypes = { 'html', 'php', 'ejs' }
+                        server.init_options = {
+                            provideFormatter = false,
+                        }
+                        server.on_init = function(client)
+                            client.server_capabilities.documentFormattingProvider = false
+                            client.server_capabilities.documentRangeFormattingProvider = false
+                        end
                     end
 
                     vim.lsp.config(server_name, server)
@@ -264,6 +277,20 @@ return {
             },
             html = {
                 filetypes = { 'html', 'php', 'ejs' },
+                init_options = {
+                    provideFormatter = false,
+                },
+                settings = {
+                    html = {
+                        format = {
+                            enable = false,
+                        },
+                    },
+                },
+                on_init = function(client)
+                    client.server_capabilities.documentFormattingProvider = false
+                    client.server_capabilities.documentRangeFormattingProvider = false
+                end,
             },
             ts_ls = {
                 filetypes = { 'javascript', 'javascriptreact', 'typescript', 'typescriptreact', 'html', 'ejs' },
