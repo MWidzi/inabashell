@@ -58,5 +58,19 @@ return {
         }
 
         vim.cmd 'colorscheme palette'
+
+        local function apply_diff_hl()
+            vim.api.nvim_set_hl(0, 'DiffAdd', { bg = '#2d4a2d', fg = 'NONE' })
+            vim.api.nvim_set_hl(0, 'DiffDelete', { bg = '#4d1e1e', fg = 'NONE' })
+            vim.api.nvim_set_hl(0, 'DiffChange', { bg = '#233243', fg = 'NONE' })
+            vim.api.nvim_set_hl(0, 'DiffText', { bg = '#354c68', fg = 'NONE' })
+        end
+
+        apply_diff_hl()
+
+        vim.api.nvim_create_autocmd('ColorScheme', {
+            pattern = '*',
+            callback = apply_diff_hl,
+        })
     end,
 }

@@ -9,6 +9,14 @@ vim.api.nvim_create_autocmd('TextYankPost', {
     end,
 })
 
+-- Set commentstring for Blade files
+vim.api.nvim_create_autocmd('FileType', {
+    pattern = 'blade',
+    callback = function()
+        vim.opt_local.commentstring = '{{-- %s --}}'
+    end,
+})
+
 -- [[ Install `lazy.nvim` plugin manager ]]
 local lazypath = vim.fn.stdpath 'data' .. '/lazy/lazy.nvim'
 if not (vim.uv or vim.loop).fs_stat(lazypath) then

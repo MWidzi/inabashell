@@ -74,6 +74,7 @@ PanelWindow {
     }
 
     property string wifiIcon: ""
+    property int signalStrength: 0
 
     property string batteryIcon: ""
     property int batteryPercentage
@@ -203,7 +204,10 @@ PanelWindow {
             command: ["sh", "-c", "~/.config/scripts/network_strength.sh"]
             stdout: SplitParser {
                 onRead: data => {
-                    root.wifiIcon = data;
+                    var parts = data.trim().split(/\s+/);
+
+                    root.wifiIcon = parts[0];
+                    root.signalStrength = parts[1];
                 }
             }
 
@@ -605,7 +609,7 @@ PanelWindow {
                     // NETWORK
                     Text {
                         text: root.wifiIcon
-                        color: root.mchr5
+                        color: root.signalStrength == '-' ? root.accent4 : root.signalStrength < 20 ? root.accent3 : root.signalStrength < 60 ? root.accent7 : root.mchr3
                         font {
                             family: root.fontFamily
                             pixelSize: root.fontSize
