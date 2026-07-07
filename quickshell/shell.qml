@@ -609,7 +609,7 @@ PanelWindow {
                     // NETWORK
                     Text {
                         text: root.wifiIcon
-                        color: root.signalStrength < 20 ? root.accent3 : root.signalStrength < 60 ? root.accent7 : root.mchr3
+                        color: root.signalStrength == '-' ? root.accent4 : root.signalStrength < 20 ? root.accent3 : root.signalStrength < 60 ? root.accent7 : root.mchr3
                         font {
                             family: root.fontFamily
                             pixelSize: root.fontSize

@@ -30,5 +30,5 @@ case $con in
             echo "󰤯 $strength"
         fi ;;
     *)
-        echo "󰤮" ;;
+        echo "󰤮 -" ;;
 esac
