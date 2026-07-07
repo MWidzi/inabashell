@@ -17,6 +17,9 @@ return {
             extension = {
                 ejs = 'html',
             },
+            pattern = {
+                ['.*%.blade%.php'] = 'blade',
+            },
         }
 
         vim.api.nvim_create_autocmd('LspAttach', {
@@ -141,103 +144,6 @@ return {
         }
 
         local capabilities = require('blink.cmp').get_lsp_capabilities()
-        local capabilities = require('blink.cmp').get_lsp_capabilities()
-        local servers = {
-            phpactor = {},
-            pyright = {},
-            rust_analyzer = {},
-            lua_ls = {
-                settings = {
-                    Lua = {
-                        completion = {
-                            callSnippet = 'Replace',
-                        },
-                        diagnostics = { disable = { 'missing-fields' } },
-                    },
-                },
-            },
-            omnisharp = {},
-            html = {},
-            ts_ls = {},
-            copilot = {},
-        }
-
-        local ensure_installed = vim.tbl_keys(servers or {})
-        vim.list_extend(ensure_installed, {
-            'stylua', -- Used to format Lua code
-            'html-lsp',
-            'omnisharp',
-            'phpactor',
-            'typescript-language-server',
-        })
-        require('mason-tool-installer').setup { ensure_installed = ensure_installed }
-
-        require('mason-lspconfig').setup {
-            ensure_installed = {}, -- explicitly set to an empty table (Kickstart populates installs via mason-tool-installer)
-            automatic_installation = false,
-            handlers = {
-                function(server_name)
-                    local server = servers[server_name] or {}
-                    server.capabilities = vim.tbl_deep_extend('force', {}, capabilities, server.capabilities or {})
-
-                    if server_name == 'phpactor' then
-                        vim.lsp.config('phpactor', {
-                            root_dir = function(_)
-                                return vim.loop.cwd()
-                            end,
-                            init_options = {
-                                ['language_server.diagnostics_on_update'] = false,
-                                ['language_server.diagnostics_on_open'] = false,
-                                ['language_server.diagnostics_on_save'] = false,
-                                ['language_server_phpstan.enabled'] = false,
-                                ['language_server_psalm.enabled'] = false,
-                            },
-                            capabilities = capabilities,
-                        })
-                        return
-                    end
-
-                    if server_name == 'omnisharp' then
-                        vim.lsp.config('omnisharp', {
-                            cmd = { 'mono', vim.fn.stdpath 'data' .. '/mason/packages/omnisharp/OmniSharp.exe' },
-                            settings = {
-                                FormattingOptions = { EnableEditorConfigSupport = true, OrganizeImports = true },
-                                RoslynExtensionsOptions = { EnableAnalyzersSupport = true, EnableImportCompletion = true },
-                                useModernNet = false,
-                            },
-                            handlers = {
-                                ['textDocument/definition'] = require('omnisharp_extended').handler,
-                                ['textDocument/typeDefinition'] = require('omnisharp_extended').type_definition_handler,
-                                ['textDocument/references'] = require('omnisharp_extended').references_handler,
-                                ['textDocument/implementation'] = require('omnisharp_extended').implementation_handler,
-                            },
-                            capabilities = capabilities,
-                        })
-                    end
-
-                    if server_name == 'ts_ls' then
-                        server.filetypes = { 'javascript', 'javascriptreact', 'typescript', 'typescriptreact', 'html', 'ejs' }
-                    end
-
-                    if server_name == 'html' then
-                        server.filetypes = { 'html', 'php', 'ejs' }
-                        server.init_options = {
-                            provideFormatter = false,
-                        }
-                        server.on_init = function(client)
-                            client.server_capabilities.documentFormattingProvider = false
-                            client.server_capabilities.documentRangeFormattingProvider = false
-                        end
-                    end
-
-                    vim.lsp.config(server_name, server)
-
-                    if server_name == 'copilot' then
-                        vim.lsp.enable 'copilot'
-                    end
-                end,
-            },
-        }
         local servers = {
             phpactor = {
                 root_dir = function(_)
@@ -250,6 +156,11 @@ return {
                     ['language_server_phpstan.enabled'] = false,
                     ['language_server_psalm.enabled'] = false,
                 },
+            },
+            intelephense = {},
+            tailwindcss = {},
+            emmet_ls = {
+                filetypes = { 'html', 'typescriptreact', 'javascriptreact', 'css', 'sass', 'scss', 'less', 'blade' },
             },
             pyright = {},
             rust_analyzer = {},
@@ -276,7 +187,7 @@ return {
                 },
             },
             html = {
-                filetypes = { 'html', 'php', 'ejs' },
+                filetypes = { 'html', 'php', 'ejs', 'blade' },
                 init_options = {
                     provideFormatter = false,
                 },
@@ -302,7 +213,21 @@ return {
         local ensure_installed = vim.tbl_keys(servers)
         vim.list_extend(
             ensure_installed,
-            { 'stylua', 'html-lsp', 'omnisharp', 'phpactor', 'typescript-language-server', 'lua-language-server', 'pyright', 'rust-analyzer' }
+            {
+                'stylua',
+                'html-lsp',
+                'omnisharp',
+                'phpactor',
+                'typescript-language-server',
+                'lua-language-server',
+                'pyright',
+                'rust-analyzer',
+                'intelephense',
+                'tailwindcss-language-server',
+                'emmet-ls',
+                'blade-formatter',
+                'pint',
+            }
         )
         require('mason-tool-installer').setup { ensure_installed = ensure_installed }
 
