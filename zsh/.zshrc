@@ -20,6 +20,20 @@ setopt PUSHD_SILENT         # Do not print the directory stack after pushd or po
 #path
 export PATH="$PATH:$HOME/.cargo/bin:$HOME/.local/bin"
 
+# git aliases
+alias gc='git commit -m'
+alias gpl='git pull'
+alias ga='git add'
+alias gps='git push'
+alias gfps='git push --force-with-lease'
+alias gr='git rebase'
+alias gm='git merge'
+alias gcl='git clone'
+alias gb='git branch -c'
+alias gbd='git branch -D'
+alias gs='git switch'
+
+# other aliases
 alias d='dirs -v'
 for index ({1..9}) alias "$index"="cd +${index}"; unset index
 
