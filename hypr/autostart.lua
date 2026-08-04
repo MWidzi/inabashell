@@ -2,18 +2,21 @@
 --- AUTOSTART ---
 -----------------
 
-hl.dsp.exec_cmd("playerctld daemon &")
-hl.dsp.exec_cmd("swaync")
-hl.dsp.exec_cmd("elephant")
-hl.dsp.exec_cmd("walker --gapplication-service")
-hl.dsp.exec_cmd("systemctl --user start hyprpolkitagent")
-hl.dsp.exec_cmd("awww-daemon & udiskie")
-hl.dsp.exec_cmd("qs")
-hl.dsp.exec_cmd("awww img ~/.config/wallpapers/inabakumori_wallpaper_1.webp")
-hl.dsp.exec_cmd("hyprctl dispatch workspace 1")
-hl.dsp.exec_cmd("gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'") -- GTK3 apps
-hl.dsp.exec_cmd("gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'") -- GTK4 apps
-hl.dsp.exec_cmd("pypr & hyprsunset & hypridle")
-hl.dsp.exec_cmd("systemctl --user start mpd")
-hl.dsp.exec_cmd("sleep 3 && mpd-mpris")
-hl.dsp.exec_cmd("wl-paste --watch cliphist store")
+hl.on("hyprland.start", function()
+    hl.exec_cmd("dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP")
+    hl.exec_cmd("playerctld daemon &")
+    hl.exec_cmd("swaync")
+    hl.exec_cmd("elephant")
+    hl.exec_cmd("walker --gapplication-service")
+    hl.exec_cmd("systemctl --user start hyprpolkitagent")
+    hl.exec_cmd("awww-daemon & udiskie")
+    hl.exec_cmd("qs")
+    hl.exec_cmd("awww img ~/.config/wallpapers/inabakumori_wallpaper_1.webp")
+    hl.exec_cmd("hyprctl dispatch workspace 1")
+    hl.exec_cmd("gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'") -- GTK3 apps
+    hl.exec_cmd("gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'") -- GTK4 apps
+    hl.exec_cmd("pypr & hyprsunset & hypridle")
+    hl.exec_cmd("systemctl --user start mpd")
+    hl.exec_cmd("sleep 3 && mpd-mpris")
+    hl.exec_cmd("wl-paste --watch cliphist store")
+end)

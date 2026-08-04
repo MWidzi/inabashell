@@ -14,16 +14,16 @@ hl.monitor({
     position = "-1920x0",
     scale = 1
 })
-monitor({
+hl.monitor({
     output = "DP-3",
     mode = "3840x2160@60",
     position = "0x-1080",
     scale = 2
 })
 
-hl.dsp.workspace.move({ workspace = 1, monitor = "DP-1" })
-hl.dsp.workspace.move({ workspace = 4, monitor = "DP-1" })
-hl.dsp.workspace.move({ workspace = 2, monitor = "HDMI-A-1" })
-hl.dsp.workspace.move({ workspace = 6, monitor = "HDMI-A-1" })
-hl.dsp.workspace.move({ workspace = 3, monitor = "DP-3" })
-hl.dsp.workspace.move({ workspace = 5, monitor = "DP-3" })
+hl.workspace_rule({ workspace = "1", monitor = "DP-1" })
+hl.workspace_rule({ workspace = "4", monitor = "DP-1" })
+hl.workspace_rule({ workspace = "2", monitor = "HDMI-A-1" })
+hl.workspace_rule({ workspace = "6", monitor = "HDMI-A-1" })
+hl.workspace_rule({ workspace = "3", monitor = "DP-3" })
+hl.workspace_rule({ workspace = "5", monitor = "DP-3" })

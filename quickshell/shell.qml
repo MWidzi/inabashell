@@ -9,6 +9,8 @@ import QtQuick.Layouts
 PanelWindow {
     id: root
 
+    screen: Quickshell.screens.find(s => s.x === 0 && s.y === 0) || Quickshell.screens.find(s => s.name === "eDP-1" || s.name === "DP-1") || Quickshell.screens[0]
+
     property color colBg: "#1a1b26"
     property color colCyan: "#0db9d7"
     property color colBlue: "#7aa2f7"
@@ -80,13 +82,13 @@ PanelWindow {
     property int batteryPercentage
 
     // basic bar setup
-    implicitHeight: Screen.height * 0.04
+    implicitHeight: (screen ? screen.height : Screen.height) * 0.04
     anchors.top: true
     anchors.left: true
     anchors.right: true
     margins {
-        left: Screen.width * 0.2
-        right: Screen.width * 0.2
+        left: (screen ? screen.width : Screen.width) * 0.2
+        right: (screen ? screen.width : Screen.width) * 0.2
     }
 
     color: "transparent"

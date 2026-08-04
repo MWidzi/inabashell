@@ -1,0 +1,1575 @@
+v
+cd dotfiles-Miku-Teto
+ls
+cd 
+git clone git@github.com:MWidzi/inabashell.git\ 
+git clone git@github.com:MWidzi/inabashell.git
+y
+pkill waybar
+waybar
+niggers 
+sudo pacman -Syu swww
+y
+hyprctl reload
+v binds.conf
+y
+hyprctl reload
+cd inabashell
+cd quickshell
+qs & disown
+yay -S quickshell
+qs & disown
+ls
+ls -la 
+qs & disown
+qs & disown
+pkill quickshell
+qs 
+yay -S --rebuild quickshell\
+
+y
+qs
+qs
+yay -Rns quickshell\
+
+yay -S quickshell-git\
+
+qs
+qs & disown
+v
+cd inabashell
+ls
+cd hypr
+ls
+v wallpapers.conf
+cd ..
+v nvim/lua
+v 
+v
+v 
+v \ 
+v \ 
+v 
+v
+cd inabashell/quickshell
+v shell.qml
+cd ..
+cd nvim
+v init.lua
+v lua/config/plugins/lspconfig.lua
+cd Documents/Programming
+cd Unity/NeuroRhythm
+v
+cd
+cd inabashell
+cd nvim
+ls
+v init.lua
+v init.lua
+v init.lua
+cd ../quickshell
+ls
+v shell.qml
+v shell.qml
+v shell.qml
+sudo pacman -S unixodbc
+v shell.qml
+cd .vim
+cd
+cd inabashell/nvim
+ls
+cd lua/config/plugins
+ls
+v lspconfig.lua
+qs & disown
+sudo pacman -S ttf-mononoki-nerd
+qs 
+qs & disown
+v dotfiles-Miku-Teto/hypr/visuals.conf 
+v inabashell/colors.css 
+v inabashell/hypr/visuals.conf '
+v inabashell/hypr/visuals.conf 
+qs & disown
+cd ina
+cd inabashell
+ls
+swww img --help
+swww img --help || grep 'monitor
+swww img --help || grep 'monitor'
+v hypr/wallpapers.conf
+v hypr/visuals.conf
+cd quickshell
+v shell.qml 
+v shell.qml 
+free | grep Mem
+free | grep Mem
+free | grep Mem
+free | grep Mem
+pkill quickshell
+qs
+pkill qs
+qs
+qs & disown
+v dotfiles-Miku-Teto/waybar/style.css 
+v dotfiles-Miku-Teto/waybar/config.jsonc 
+pkill qs
+qs & disown
+qs & disown
+pkill qs
+qs & disown
+cat /proc/stat
+cat /sys/class/thermal/thermal_zone*/temp\
+
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp)\
+
+tail -1 /sys/class/thermal/thermal_zone*/temp\
+
+head -1 /sys/class/thermal/thermal_zone*/temp\
+
+paste <(head -1 /sys/class/thermal/thermal_zone*/type) <(head -1 /sys/class/thermal/thermal_zone*/temp)
+head -1 /sys/class/thermal/thermal_zone3/temp\
+
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | grep 'x86'\
+
+cd Documents/Programming
+ls
+mkdir python
+cd python
+touch test.py
+v test.py
+v test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+-Mw20h0#70g9
+waybar
+pkill qs
+waybar
+v inabashell/waybar/config.jsonc 
+qs & disown
+waybar
+qs 
+waybar
+qs
+qs
+qs
+cd inabashell/scripts/
+ls
+./get-song.sh
+v ./get-song.sh 
+./get-song.sh wb
+v ./get-song.sh 
+~/.config/scripts/get-song.sh wb
+v ./get-song.sh 
+v ./get-song.sh 
+~/.config/scripts/get-song.sh wb
+v ./get-song.sh 
+~/.config/scripts/get-song.sh wb
+~/.config/scripts/get-song.sh wb
+v ./get-song.sh 
+v inabashell/scripts/get-song.sh 
+v inabashell/colors.css 
+qs log -i 52h3bdns9t
+awk -F"[][]" '/Left:/ { print $2 }' <(amixer sget Master)
+sudo pacman -S amixer
+amixer
+sudo pacman -S alsa-utils
+awk -F"[][]" '/Left:/ { print $2 }' <(amixer sget Master)
+v inabashell/scripts/rofi-menu-scripts/rofi-menu.sh 
+amixer sget Master
+amixer sget Master
+awk -F\"[][]\" '/Left:/ { print $2 $3 }' <(amixer sget Master)
+awk -F"[][]" '/Left:/ { print $2 $3 }' <(amixer sget Master)
+awk -F"[][]" '/Left:/ { print $2 print $3 }' <(amixer sget Master)
+awk -F"[][]" '/Left:/ { print $2 $4 }' <(amixer sget Master)
+awk -F"[][]" '/Left:/ { print $2  $4 }' <(amixer sget Master)
+awk -F"[][]" '/Left:/ { print $2, $4 }' <(amixer sget Master)
+nmcli 
+nmcli device show
+nmcli device list
+nmcli device status
+nmcli device status | grep ethernet
+nmcli device status | grep connected
+nmcli device status | grep ethernet
+awk -F\"[][]\" '/ethernet/ { print $3 }' <(nmcli device status)
+awk -F"[][]" '/ethernet/ { print $3 }' <(nmcli device status)
+awk -F"[][]" '/ethernet/ { print }' <(nmcli device status)
+awk -F"[][]" '/ethernet/ { print $1 }' <(nmcli device status)
+awk -F"[][]" '/ethernet/ { print $1 }' <(nmcli device status) | cut -f27-35
+awk -F"[][]" '/ethernet/ { print $1 }' <(nmcli device status) | cut -f27-35
+nmcli device status | tr ' ' '\n' | awk -F"[][]" '/ethernet/ { print }' 
+nmcli device status | tr ' ' '\n'
+nmcli device status | tr ' ' '\n'
+nmcli device status | tr ' ' '\n'
+nmcli device status | grep ethernet| tr ' ' '\n'
+cd inabashell/quickshell
+v shell.qml
+v shell.qml
+v shell.qml
+v shell.qml
+cd inabashell/quickshell
+v shell.qml
+v Documents/misc/staż.txt 
+cava
+cd inabashell/scripts
+touch network_strength.sh
+chmod +x network_strength.sh
+v network_strength.sh
+./network_strength.sh
+v network_strength.sh
+./network_strength.sh
+v network_strength.sh
+./network_strength.sh
+v network_strength.sh
+./network_strength.sh
+v network_strength.sh
+./network_strength.sh
+v network_strength.sh
+v network_strength.sh
+./network_strength.sh
+v network_strength.sh
+./network_strength.sh
+pkill waybar 
+qs 
+qs & disown
+cd inabashell/hypr
+touch mainMonitor.conf
+v mainMonitor.conf
+v inabashell/kitty/kitty.conf 
+v inabashell/quickshell/shell.qml 
+v inabashell/hypr/visuals.conf 
+cd inabashell/hypr
+v hyprlock.conf
+v visuals.conf '
+v visuals.conf 
+v colors.conf
+v colors.conf
+v hyprlock.conf
+pkill wayabr 
+pkill waybar
+qs & disown
+~/.config/scripts/get-song.sh wb
+pkill waybar 
+qs & disown
+v inabashell/hypr/autostart.conf
+v inabashell/scripts/get-song.sh 
+~/.config/scripts/get-song.sh wb
+v inabashell/scripts/get-song.sh 
+~/.config/scripts/get-song.sh wb
+~/.config/scripts/get-song.sh wb
+v inabashell/scripts/get-song.sh 
+~/.config/scripts/get-song.sh wb
+~/.config/scripts/get-song.sh wb
+~/.config/scripts/get-song.sh wb
+v inabashell/quickshell/shell.qml 
+waybar
+sudo pacman -Syu 
+~/.config/scripts/get-song.sh wb
+v inabashell/quickshell/shell.qml 
+y
+v Documents/misc
+v Documents/misc
+cd Documents/Programming/Unity/NeuroRhythm
+ls
+cd Assets/Charts
+touch test.json
+cd ..
+cd ..
+v 
+v
+v
+git add .
+git commit -m 'json structure prototype + added some assets + fixed precision of offset stuff'
+git push 
+cd Documents/Programming/Unity/NeuroRhythm
+v
+v
+v
+v
+v
+v
+cd Documents/Programming/Unity/NeuroRhythm
+v
+v
+v inabashell/nvim/init.lua 
+v inabashell/nvim/lua/config/sessions.lua 
+cd inabashell/nvim/lua/config
+rm sessions.lua
+cd ..
+cd ..
+v init.lua
+cd
+cd Documents/Programming/Unity/NeuroRhythm
+v
+v Documents/misc/dlugiAhhPromptJsonNr.txt 
+cd Documents/Programming/Unity/NeuroRhythm
+git add .
+git commit -m 'commit so i can work on laptop'
+git pull
+git config pull.rebase false
+git pull
+git push
+cd
+cd inabashell
+git add .
+git commit -m
+git commit -m 'pc changes + basic bar'
+git push
+v Documents/misc/staż.txt 
+cd Documents/Programming/Unity/NeuroRhythm
+l
+ls
+v
+pkill waybar 
+qs & disown
+pkill qs
+qs & disown
+y
+y
+waybar
+pkill qs
+qs & disown
+pkill hyprsunset
+hyprsunset & disown 
+pkill hyprsunset
+hyprsunset & disown 
+pkill hyprsunset
+hyprsunset & disown 
+v inabashell/hypr/hyprsunset.conf 
+v inabashell/hypr/hyprsunset.conf 
+pkill hyprsunset
+hyprsunset & disown 
+sudo pacman -Syu 
+cd inabashell
+ls
+cd hypr
+ls
+v visuals.conf
+hyprctl layout dwindle
+v inabashell/scripts/lock-in-mode.sh 
+hyprctl getoption general:layout
+v inabashell/scripts/lock.sh 
+v inabashell/scripts/lock-in-mode.sh 
+echo hyprctl getoption general:layout | grep "^str:" | awk '{print $2}'\
+
+echo hyprctl getoption general:layout | grep "^str:" '\
+
+echo hyprctl getoption general:layout | grep "^str:" \
+
+echo hyprctl getoption general:layout | grep "str:" \
+
+hyprctl getoption general:layout | grep "^str:" | awk '{print $2}'
+    hyprctl keyword general:layout dwindle\
+
+    hyprctl keyword general:layout scrolling\
+
+v inabashell/hypr/visuals.conf 
+cd inabashell/scripts
+ls
+v switch-layout.sh
+v lock-in-mode.sh
+v switch-layout.sh
+chmod 
+chmod +x switch-layout.sh
+./switch-layout.sh
+v switch-layout.sh
+./switch-layout.sh
+./switch-layout.sh
+v switch-layout.sh
+./switch-layout.sh
+v switch-layout.sh
+./switch-layout.sh
+v switch-layout.sh
+cd inabashell/hypr
+v visuals.conf
+v binds.conf
+v visuals.conf
+v inabashell/hypr/visuals.conf 
+cd Documents/Programming/l
+cd Documents/Programming/Unity/NeuroRhythm
+v 
+y
+v 
+v
+cd Documents/Programming/Unity/NeuroRhythm
+v
+cd Documents/Programming/Unity/NeuroRhythm
+v
+git pull
+git add .
+v Assets/Scripts/Note\ Scripts/NoteScript.cs 
+git add .
+git commit -m 'moved note destroying logic to rgm'
+git push
+cd dotfiles-Miku-Teto
+git status
+cd //
+cd
+cd dotfiles-Miku-Teto
+git status
+cd 
+cd inabashell
+git add .
+git commit -m 'changed hyprland layout to scrolling'
+git push
+cd 
+cd Documents/Programming/Unity/NeuroRhythm
+cd inabashell
+git pull
+git status
+c
+sudo pacman -S openrazer-daemon
+sudo systemctl enable openrazer-daemon
+sudo pacman -S linux-headers\
+
+sudo gpasswd -a $USER openrazer plugdev\
+
+sudo gpasswd -a widzi openrazer plugdev\
+
+sudo gpasswd -add widzi openrazer plugdev\
+
+sudo gpasswd -awidzi openrazer plugdev\
+
+sudo gpasswd -a openrazer plugdev\
+
+sudo gpasswd -a widzi openrazer\
+sudo gpasswd -a widzi plugdev\
+
+sudo reboot 
+yay -S polychromatic\
+
+v Downloads/monsgeek_m1_v5_m1_v5_us_default_1.1.bin 
+sudo pacman -Syu openrgb\
+
+sudo openrgb\
+
+QT_QPA_PLATFORM=xcb sudo -E WAYLAND_DISPLAY=hyprland openrgb --server\
+
+udo pacman -S i2c-tools i2c-tools-dev
+sudo pacman -S i2c-tools i2c-tools-dev
+sudo pacman -S i2c-tools
+QT_QPA_PLATFORM=wayland sudo -E WAYLAND_DISPLAY=$XDG_RUNTIME_DIR/$WAYLAND_DISPLAY openrgb\
+
+lspci | grep -i sata\
+
+sudo modprobe i2c-dev i2c-1801\
+
+echo "i2c-dev" | sudo tee /etc/modules-load.d/i2c.conf\
+echo "i2c-1801" | sudo tee -a /etc/modules-load.d/i2c.conf\
+
+sudo i2cdetect -l\
+sudo i2cdetect -y 0\
+
+sudo modprobe -r spd5118 ee1004 \
+QT_QPA_PLATFORM=xcb sudo -E openrgb\
+
+sudo modprobe -r spd5118 ee1004 \
+QT_QPA_PLATFORM=wayland sudo -E openrgb\
+
+sudo modprobe i2c-dev i2c-1801\
+
+echo "i2c-dev" | sudo tee /etc/modules-load.d/i2c.conf\
+echo "i2c-1801" | sudo tee -a /etc/modules-load.d/i2c.conf\
+
+sudo i2cdetect -l\
+sudo i2cdetect -y 0\
+
+sudo modprobe -r spd5118 ee1004 \
+QT_QPA_PLATFORM=wayland sudo -E openrgb\
+
+sudo modprobe -r spd5118 ee1004 \
+QT_QPA_PLATFORM=wayland sudo -E openrgb\
+
+sudo modprobe -r spd5118 ee1004 \
+QT_QPA_PLATFORM=wayland sudo -E openrgb\
+
+v Documents/misc/plan-lekcji.ics
+y
+cd Documents/Programming/Unity/NeuroRhythm
+git pull 
+sudo pacman -Syu 
+v
+v
+v
+v
+git add .
+git commit -m 'move timing logic from playercontroller to RGM' 
+git push
+v
+v 
+curl -fsSL https://claude.ai/install.sh > install.sh; less install.sh)
+curl -fsSL https://claude.ai/install.sh > install.sh; less install.sh
+curl -fsSL https://claude.ai/install.sh | bash
+v inabashell/zsh/.zshrc 
+claude --help
+claude
+cd Documents/Programming/Unity/NeuroRhythm'
+cd Documents/Programming/Unity/NeuroRhythm
+v
+v
+b
+v
+v
+git add .
+v
+git commit -m 'added code for new spawning (NOT TESTED NOR HOOKED UP PROPERLY SO IT DOSENT WORK YET)'
+git push
+v Documents/staż/staż.txt 
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+v 
+git add. 
+git add .
+git commit -m 'json spawning is now the main spawning method'
+git push
+cd Documents/misc/debaty
+v odzyskani_bohaterowie.txt
+sudo pacman -Syu 
+v Documents/misc/debaty/odzyskani_bohaterowie.txt 
+v Documents/misc/debaty/odzyskani_bohaterowie.txt 
+hyprlock
+sudo pacman -Syu
+cd inabashell
+git status
+v zsh/.zshrc
+git pull
+y
+hyprlock
+cd inabashell
+cd quickshell
+v shell.qml
+v shell.qml
+git add .
+git commit -m 'fixed battery percentage appearing on pc'
+git push
+cd ..
+git status
+git add hypr/hyprlock.conf
+hyprlock
+v hypr/hyprlock.conf
+git commit -m 'fixed hyprlock'
+git push 
+git status
+git add zsh/.zshrc
+git commit -m 'changed path variable'
+git add .
+git commit -m 'removed unused folder'
+git push 
+cd inabashell
+git pull 
+git status
+sudo pacman -Syu
+git status 
+yay -S walker elephant elephant-all
+sudo pacman -U --overwrite '/usr/lib/debug/*' \\
+  /home/widzi/.config/cache/yay/elephant-all/elephant-all-2.20.3-1-x86_64.pkg.tar.zst \\
+  /home/widzi/.config/cache/yay/elephant-all/elephant-all-debug-2.20.3-1-x86_64.pkg.tar.zst \\
+  /home/widzi/.config/cache/yay/elephant/elephant-2.20.3-1-x86_64.pkg.tar.zst \\
+  /home/widzi/.config/cache/yay/elephant/elephant-debug-2.20.3-1-x86_64.pkg.tar.zst \\
+  /home/widzi/.config/cache/yay/walker/walker-2.15.2-1-x86_64.pkg.tar.zst \\
+  /home/widzi/.config/cache/yay/walker/walker-debug-2.15.2-1-x86_64.pkg.tar.zst
+v hypr/autostart.conf
+git add .
+git commit -m 'fixed elephant in autostart 
+git commit -m 'fixed elephant in autostart'
+git push
+cd inabashell
+cd hypr
+v autostart.conf
+v wallpapers.conf
+y
+yay -S spotify spicetify-cli
+yay -S spicetify-cli-git
+yay -S spicetify-cli-git
+yay -S spotify 
+yay -S Spotify
+spicetify backup apply 
+sudo chown -R "$USER":spotify /opt/spotify/Apps\
+sudo chmod -R 755 /opt/spotify/Apps
+sudo chown -R "$USER" /opt/spotify/Apps
+spicetify backup apply
+pkill Spotify
+pkill spotify
+sudo chown -R "$USER" /opt/spotify\
+sudo chmod -R 755 /opt/spotify
+spicetify backup apply
+spicetify restore backup 
+spicetify backup apply 
+y
+spicetify backup apply 
+spicetify restore backup 
+spicetify apply 
+spicetify config current_theme widzi
+spicetify apply 
+y
+spicetify config current_theme widzi_text
+spicetify apply 
+hyprctl clients 
+cd
+cd inabashell
+v hypr/rules.conf
+git status
+git add hypr/rules.conf 
+git commit -m 'fixed spotify floating'
+git add .
+git commit -m 'fixed autostart and wallpapers to use awww'
+git push 
+cd Documents/Programming
+ls
+cd PZAIW_widzi_2025-6
+git pull
+cd projekt04
+y
+ln -s ~/inabashell/walker .config
+pkill waybar 
+hyprctl reload 
+y
+npm update gemini 
+npm install gemini 
+cd Documents/Programming
+git clone git@github.com:ehmeth/pzaw-code.git
+cd pzaw-code
+ls
+cd ..
+y
+git init 
+y
+git add .
+git commit -m 
+git commit -m 
+git commit -m 'start'
+y
+git add .
+git commit -m 'add_categories_feature'
+y
+git add .
+git commit -m 'edit category name'
+y
+git add .
+git commit -m 'edit and delete cards'
+v
+v
+git add .
+git commit -m 'added the song display menu im cooked on this project' 
+git pus h
+git push 
+v Documents/misc/projekt04-3c-zasady-klasyfikacji.txt 
+v Documents/Programming/materialy_pzaw/lekcja09/
+v inabashell/colors.css 
+git init 
+y
+git add .
+git commit -m 'initial commit 
+git commit -m 'initial commit'
+y
+git add .
+git commit -m '02 cookies theme'
+y 
+git add .
+git commit -m '03 cookie consent'
+cd /run/media/widzi/USB_WIDZIEG/PZAW
+v projekt04-3c-zasady-klasyfikacji.txt
+cd Documents/Programming/PZAIW_widzi_2025-6
+git pull 
+cd projekt04
+v
+v
+v
+v
+y
+v 
+v
+v
+y
+cd ..
+y
+v
+y
+v 
+v utils/generate_env.sh
+chmod +x utils/generate_env.sh
+utils/generate_env.sh > .env
+y
+y
+v
+y
+v
+v package.json
+v
+npm install hepburn
+v
+git add .
+cd ..
+git add .
+git status
+git commit -m 'early cookies, no user system yet'
+git push 
+v README.md
+git add .
+git commit -m 'changed readme'
+git push 
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js\ 
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+y
+node index.js
+npm install cookie-parser
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+dc
+cd inabashell
+v .gitignore
+cd inabashell
+git pull
+v quickshell/.qmlls.ini
+v .gitignore
+git status
+git add .
+git commit -m 'added .qmlls.ini to gitignore'
+git push 
+cd inabashell/hypr
+v hyprsunset.conf
+pkill hyprsunset
+hyprsunset & disown 
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+v
+git statis
+npm install argon2 
+v utils/generate_env.sh
+v
+mkdir controllers
+v
+v
+v
+y
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+node index.js
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+v package.json
+npm run generate_env
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+v
+git statis
+npm install argon2 
+v utils/generate_env.sh
+v
+mkdir controllers
+v
+v
+v
+mv controllers/authenticate.js controllers/authentication.js
+v
+git add .
+git commit -m 'sessions and user login'
+git push 
+cd Documents/Programming/materialy_pzaw
+ls
+y
+npm install
+npm run dev
+v package.json
+npm run generate_env
+npm run dev
+y
+v
+sudo modprobe -r spd5118 ee1004 \
+QT_QPA_PLATFORM=wayland sudo -E openrgb\
+
+fastfetch
+fastfetch
+fastfetch
+fastfetch -h cpu-format
+cd inabashell
+git pull 
+git status
+git update-index --assume-unchanged quickshell/.qmlls.ini
+git add .
+git commit -m 'updated hyprsunset for spring day hours'
+git push 
+fastfetch
+v fastfetch/config.jsonc
+cd fastfetch
+v config.jsonc
+v ascii-clean.txt
+fastfetch
+v ascii-clean.txt
+fastfetch
+v ascii-clean.txt
+fastfetch
+v ascii-clean.txt
+fastfetch
+v ascii-clean.txt
+fastfetch
+v
+y
+fastfetch
+v config.jsonc
+fastfetch
+y
+v config.jsonc
+y
+fastfetch
+cd inabashell/fastfetch
+v config.jsonc
+fastfetch
+fastfetch
+fastfetch
+y
+fastfetch
+cd inabashell/fastfetch
+v config.jsonc
+cd inabashell/fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+v spotlate.png
+v config.jsonc
+fastfetch
+v config.jsonc
+fastfetch
+y
+fastfetch
+fastfetch
+y
+fastfetch
+v config.jsonc 
+fastfetch
+fastfetch
+y
+git add .
+git commit -m 'added fastfetch image'
+git push
+\
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+npm run dev
+v
+v
+v
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+\:qa
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+v
+git add .
+git commit 
+git push
+cd Documents/Programming/materialy_pzaw
+ls
+y
+cd Documents/Programming/python
+ls
+v test.py
+cd Documents/Programming/materialy_pzaw/pzaw-code/lekcja16/03_user_attributes
+v
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+npm run devc
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+npm run dev
+y
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+npm run dev 
+npm run dev 
+npm run dev 
+npm run dev 
+npm run dev 
+y
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+POPULATE_DB=true npm run dev
+sudo pacman -S opencode
+sudo pacman -Syu 
+sudo pacman -S opencode
+cd Documents/Programming/PZAIW_widzi_2025-6/projekt04
+v 
+v
+v package.json
+y
+npm populate_db
+npm run populate_db
+v utils/populate_db.js 
+npm run populate_db
+v utils/populate_db.js 
+v package.json 
+v package.json
+npm run populate_db
+cd ..
+v README.md
+cd projekt04
+v
+npm run populate_db
+v
+npm run populate_db
+y
+npm run populate_db
+cd ..
+v README.md
+git add .
+cd projekt04
+v 
+git add .
+git commit -m 'projekt04'
+git push
+hyprctl monitors 
+hyprctl monitors 
+hyprctl monitors 
+hyprctl monitors 
+v 
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+v
+v
+v
+v
+v
+git add .
+git commit
+git pusgh
+git push
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+npm update -g @google/gemini-cli
+sudo npm update -g @google/gemini-cli
+gemini --version
+gemini
+gemini
+gemini --model gemini-3-pro "testing if model is working"
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+git status 
+pkill waybar 
+hyprctl reload
+v
+git add .
+git commit -m 'notes are now spawned rotated based on the amount of flicks hit' 
+git push
+v
+v
+v
+git add .
+git commit
+git status
+git add .
+git restore --staged Assets/Scripts/PlayerController.cs 
+git commit
+git push
+y
+v
+git status 
+git add Assets/Scripts/RhythmGameManager.cs
+git commit -m 'made combo++ animation bezier'
+git add .
+git commit -m 'player facing the right way'
+git push
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+v
+git statis
+git status
+git add .
+git commit -m 'changed sprites folder structure and added new sprites to project'
+git push
+v
+git add .
+git commit -m 'judgements show up now and have a little animation
+git commit -m 'judgements show up now and have a little animation'
+git push 
+v Documents/misc/neuroRhythm_plan 
+cd Documents/Programming/Unity/NeuroRhythm
+v
+git add .
+git commit -m 'player idle animation'
+git push
+v
+git add .
+git commit -m 'rank assignement'
+git push
+cd Documents/Programming/Unity/NeuroRhythm
+git pull 
+v
+v
+v
+v Documents/misc/neuroRhythm_plan 
+kew
+v inabashell/rmpc/config.ron 
+v .config/mpd/
+kew
+kew
+sudo pacman -S kew
+kew
+cd Documents/Programming/Unity/NeuroRhythm
+v
+v
+v 
+v
+v
+git add .
+git commit 
+git pull
+git checkout --ours Assets/TextMesh\ Pro/Examples\ \&\ Extras/Resources/Fonts\ \&\ Materials/Electronic\ Highway\ Sign\ SDF.asset
+git add Assets/TextMesh\ Pro/Examples\ \&\ Extras/Resources/Fonts\ \&\ Materials/Electronic\ Highway\ Sign\ SDF.asset\
+git commit -m "Resolve merge conflict, keep my version of Electronic Highway Sign SDF"
+git push
+v 
+git add .
+git commit -m 'player walking animation 
+git commit -m 'player walking animation'
+git push
+npm install basic-pitch-ts
+sudo pacman -S yarn
+yarn add @spotify/basic-pitch
+yarn remove @spotify/basic-pitch
+cd Documents/Programming/python
+pip install basic-pitch
+sudo pacman -S python-basic-pitch
+sudo pacman -S python-pipx\
+pipx install basic-pitch
+cd
+cd Documents/Programming/Unity/NeuroRhythm
+gemini
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+v
+v
+git add . 
+git commit -m 'parallax background;
+git commit -m 'parallax background'
+git push
+git pull 
+git push
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+git status
+v
+v
+v
+v
+v
+git add .
+git commit -m 'weapons system and player attack animations'
+git pull
+git oush
+git push
+v
+v
+git add .
+git commit -m 'player attack animations fixed and enemy walking and idle animations'
+git push
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+git pull 
+git add .
+git commit -m 'changed notearea transparency 
+git commit -m 'changed notearea transparency'
+git pull
+git checkout --theirs Assets/TextMesh\ Pro/Examples\ \&\ Extras/Resources/Fonts\ \&\ Materials/Electronic\ Highway\ Sign\ SDF.asset
+git checkout --theirs Assets/_Recovery/0\ \(20\).unity.meta\
+git rm Assets/Prefabs/notes/Enemy.prefab.meta  # If incoming deleted the original
+git add .\
+git commit -m "Resolve conflicts: accept all incoming changes"
+git push
+v
+git add .
+git commit -m 'result screen layout
+git commit -m 'result screen layout'
+git push 
+cd Documents/Programming/Unity/NeuroRhythm
+vb
+v
+git add .
+git commit -m 'end screen logic and animation'
+git push 
+v
+v Documents/staż/staż.txt 
+v Documents/staż/staż.txt 
+cd Documents/Programming/Unity/NeuroRhythm
+git pull 
+v
+sudo npm update -g @google/gemini-cli
+v
+git add ,
+git add .
+git add 'chart selector logic'
+git push 
+git commit -m 'chart selector logic'
+git push 
+cd Documents/Programming/Unity/NeuroRhythm
+git pull 
+v 
+git add .
+git commit -m 'working chart loader'
+git push 
+cd Documents/Programming/Unity/NeuroRhythm
+git pull 
+cd Documents/Programming/Unity/NeuroRhythm
+y
+cd ..
+v
+v
+v
+v
+v
+v
+av
+v
+git add .
+git commit -m 'song list trigger + hub layout' 
+git push 
+v
+git push 
+v 
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+v
+git status 
+v 
+v
+git add .
+git commit -m 'item selection logic (not hooked up in editor)'
+git push
+cd Documents/Programming/Unity/NeuroRhythm
+git pull
+v
+cd Documents/Programming/Unity/NeuroRhythm
+git pull 
+git add .
+git commit -m 'weapon selector initial hookup'
+git push 
+v 
+y
+cd ..
+cd ..
+cd .. 
+v 
+v
+git add .
+git commit -m 'new charts and hub prefab in hub scene'
+git push 
+sudo pacman -S jre-openjdk
+sudo pacman -yu 
+sudo pacman -Syu
+sudo pacman -Syu
+sudo pacman -Syu
+v latest.log
+v
+v
+v
+v
+v
+sudo pacman -Syu
+sudo pacman -Syu
+sudo pacman -S tree-sitter
+sudo ldconfig
+ldd $(which nvim) | grep tree-sitter
+sudo pacman -S neovim
+sudo pacman -S neovim
+v
+v
+v
+v latest.log
+cd
+yay -S curseforge
+v Documents/misc/serwerekChetni.txt
+y
+pkill qs
+qs & disown
+sudo pacman -Syu 
+sudo pacman -Syu 
+cd inabashell
+git pull
+git add ,
+git add .
+git status
+git commit -m 'small change'
+git p
+git pull
+git config pull.rebase false
+git pull
+y
+v .gitignore
+gemini
+cd Documents/Programming
+ls
+cd websites
+ls
+ls
+cd strona\ muzyczna
+git pull
+cd ..
+cd ..
+ls 
+cd PHP
+ls
+cd miniCMS
+git pull 
+php -S 0.0.0.0:8000
+cd 
+ls
+cd Documents/Programming
+cd python
+ls
+cd ..
+cd PHP
+ls
+cd ..
+cd websites
+ls
+cd strona\ muzyczna
+ls
+npm install http_server
+http-server
+cd ..
+ls
+cd pogodynka
+ls
+npm install
+v
+npm run dev
+cd 
+cd Documents/Programming
+ls
+cd
+cd inabashell
+git pull
+v scripts/rice_switcher/rofi-rice-switcher.sh 
+v scripts/rice_switcher/symlink_changer.sh 
+v scripts/rice_switcher/rofi-rice-switcher.sh 
+pkill waybar
+qs
+qs & disown
+cd inabashell
+cd
+v Documents/misc/codelab_spotkanie_pytania.txt
+v Documents/misc/codelab_spotkanie_pytania.txt
+gemini
+v Documents/misc/codelab_spotkanie_pytania.txt
+pkill qs
+qs & disown
+pkill qs
+pkill waybar
+qs & disown
+v
+v Documents/Programming/materialy_pzaw/lekcja09/index.js
+cd Documents/Programming/websites/strona\ muzyczna/
+http-server
+v Documents/misc/codelab_spotkanie_pytania.txt 
+cd Documents/Programming/PZAIW_widzi_2025-6/
+git pull
+cd projekt04
+v package.json
+npm run generate_env
+npm run populate_db
+rm db.sqlite
+npm run populate_db
+v
+                                                                                                                                                                                                                                                     xampp-control-panel
+sudo pacman -Syu 
+xampp-control-panel
+gemini
+ls
+clea
+clear
+c
+clear
+cd /opt/lampp/htdocs
+ls
+y
+sudo yazi
+v index.php
+sudo nvim
+sudo nvim index.php
+v index.php
+cd /opt/lampp/htdocs
+ls
+sudo code index.php
+sudo code index.php
+sudo code index.php
+sudo code
+code index.php
+gemini
+ls
+v index.php
+gemini
+cd /opt/lampp/htdocs
+gemini
+cd /opt/lampp/htdocs
+nvim index.php
+cd D
+y
+v bd13\ -\ polecenie\ do\ php\ i\ formularzy.txt
+cp baza_geografia.sql /opt/lampp/htdocs
+cp baza_geografia.sql /opt/lampp/htdocs/baza_geografia.sql
+sudo cp baza_geografia.sql /opt/lampp/htdocs/baza_geografia.sql
+v bd13\ -\ polecenie\ do\ php\ i\ formularzy.txt
+sudo xampp-manager
+xampp-manager
+pkexec xampp-manager
+pkexec xampp-manager
+xhost +local:root
+sudo env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY xampp-manager
+sudo pacman -S xhost
+-Mw20h0#70g9
+sudo pacman -S xorg-xhost
+xhost +local:root
+pkexec xampp-manager
+cd Documents/Programming/code_reviews
+mkdir pzaw
+y
+v review.md
+v Documents/Programming/code_reviews/pzaw/filip/review.md 
+cd Documents/Programming/code_reviews/pzaw/filip/pzaw_filip_woj/projekt04
+ls
+tree
+v
+cd Documents/Programming
+ls
+mkdir code_reviews
+cd code_reviews
+git clone git@github.com:fwojciechoo/pzaw_filip_woj.git
+ls
+cd pzaw_filip_woj
+cd projekt04
+ls
+v chmod
+tree
+sudo pacman -S tree
+tree
+v chmod
+vim chmod
+cd ..
+cd 
+cd Documents/Programming/code_reviews/pzaw/filip/pzaw_filip_woj
+cd projekt04
+tree
+cat chmod
+grep chmod
+v
+v utils/generate_env.sh
+bash utils/generate_env.sh > .env\
+
+npm install
+bash utils/generate_env.sh > .env\
+
+node utils/populate_db.js
+node index.js
+rm .env
+node index.js
+bash utils/generate_env.sh > .env\
+
+node index.js
+node utils/populate_db.js
+ls 
+rm db.sqlite
+node utils/populate_db.js
+node index.js
+fastfetch
+sudo pacman -S tty-clock
+tty-clock -c 
+tty-clock -c -C 3
+tty-clock -c -C 3 -x
+tty-clock -c -C 3 -b
+mv Downloads/konspekty_lalka.txt Documents/misc
+v Documents/misc/konspekty_lalka.txt 
+v Documents/misc/konspekty_lalka.txt 
+tty-clock -c -C 4 
+v Documents/misc/konspekty_lalka.txt 
+node index.js
+node index.js
+cd Documents/Programming/code_reviews/pzaw/artur
+git clone git@github.com:art-szkola/projekt4-pzaw.git
+ls
+cd projekt4-pzaw
+v
+npm i
+node index.js
+node index.js
+node index.js
+v
+ls -la
+v 
+node index.js
+cd Documents/Programming/code_reviews/pzaw
+mkdir artur
+cd artur
+touch review.md
+v
+v review.md
+node index.js
+cd Documents/Programming/code_reviews/pzaw/artur/projekt4-pzaw
+v
+cd Documents/Programming/code_reviews/pzaw/artur
+v review.md
+sudo pacman -Syu 
+cd dotfiles-Miku-Teto
+git status
+git pull
+git add .
+git commit -m 'random shit'
+git pull
+cd
+cd inabashell
+git status
+v scripts/rice_switcher/symlink_changer.sh 
+v scripts/rice_switcher/rofi-rice-switcher.sh 
+v fastfetch/hq720.jpg
+y
+git pull 
+git status 
+git push 
+y
+git stauts
+git status
+cd
+cd .cache
+mkdir wal
+cp ~/inabashell/firefox/pywalfox_colors.json ./colors.json
+cd
+y
+pipx install pywalfox
+pywalfox install
+cd .cache
+ls
+cd wal
+ls
+ls
+ls
+ls
+ls
+ls
+cd ..
+mv colors.json ./wal
+cd
+cd inabashell
+git pull 
+cd
+cp inabashell/firefox/pywalfox_colors.json .cache/wal/colors.json
+v .cache/wal/colors.json
+y
+cd .mozilla/firefox
+ls
+cd pm13qkyv.default-release
+ls
+cd chrome
+v overwrites.css
+cd
+v ~/dotfiles-Miku-Teto/firefox/config.css
+cd
+cd inabashell/firefox
+ls
+v config.css
+cp config.css ~/.mozilla/firefox/pm13qkyv.default-release/chrome/config.css
+cd
+v inabashell/firefox/config.css
+cd Documents/ricing/planning
+v rice_switcher_plan.md
+cd .mozilla/firefox/pm13qkyv.default-release/chrome
+agy 
+agy
+v config.css
+cd
+cd inabashell
+git status
+git add .
+git commit -m 'changed config.css to include the setcolor dots'
+git push 
+v inabashell/colors.css 
+sudo pacman -S xorg-xrandr
+y
+pkill hyprsunset
