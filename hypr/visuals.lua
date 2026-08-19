@@ -1,0 +1,86 @@
+require("colors")
+
+hl.config({
+    dwindle = {
+        force_split = 0,
+        smart_split = true,
+    },
+
+    scrolling = {
+        column_width = 0.333,
+    },
+
+    misc = {
+        force_default_wallpaper = 0,
+        disable_hyprland_logo = true,
+        font_family = "Mononoki Nerd Font",
+    },
+
+    ---------------------
+    --- LOOK AND FEEL ---
+    ---------------------
+
+    general = {
+        gaps_in = 5,
+        gaps_out = { left = 10, top = 20 , right = 10, bottom = 20},
+
+        border_size = 0,
+
+        ["col.active_border"] = mchr4,
+        ["col.inactive_border"] = bg,
+        ["col.nogroup_border_active"] = mchr4,
+
+        layout = "scrolling",
+
+        resize_on_border = true,
+        extend_border_grab_area = 30,
+        hover_icon_on_border = true,
+
+        allow_tearing = false,
+    },
+
+    decoration = {
+        rounding = 20,
+        rounding_power = 2,
+
+        active_opacity = 0.9,
+        inactive_opacity = 0.7,
+        fullscreen_opacity = 1.0,
+
+        dim_inactive = true,
+        dim_strength = 0.1,
+
+        shadow = {
+            enabled = true,
+            range = 20,
+            render_power = 3,
+            color = "rgba(1a1a1aee)",
+        },
+
+        blur = {
+            enabled = true,
+            size = 5,
+            passes = 2,
+            noise = 0.0200,
+            contrast = 1,
+            xray = true,
+
+            vibrancy = 0.1796,
+            vibrancy_darkness = 3,
+
+            popups = true,
+            popups_ignorealpha = 0.2,
+
+            new_optimizations = true,
+        },
+        
+        glow = {
+            enabled = true,
+            color = fg,
+            color_inactive = mchr2,
+            range = 30,
+            render_power = 4,
+        },
+    },
+})
+
