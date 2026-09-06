@@ -73,14 +73,6 @@ hl.config({
 
             new_optimizations = true,
         },
-        
-        glow = {
-            enabled = true,
-            color = fg,
-            color_inactive = mchr2,
-            range = 30,
-            render_power = 4,
-        },
     },
 })
 

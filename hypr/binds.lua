@@ -49,7 +49,7 @@ hl.bind(mainMod .. " + CTRL + k", hl.dsp.window.swap({ direction = "up" }))
 hl.bind(mainMod .. " + CTRL + j", hl.dsp.window.swap({ direction = "down" }))
 
 -- Scrolling layout binds
-hl.bind(mainMod .. " + r", hl.dsp.layout("colresize"))
+hl.bind(mainMod .. " + r", hl.dsp.layout("colresize +conf"))
 hl.bind(mainMod .. " + s", hl.dsp.exec_cmd("~/.config/scripts/switch-layout.sh"))
 
 -- Switch workspaces with mainMod + [0-9]
