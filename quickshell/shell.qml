@@ -141,12 +141,13 @@ PanelWindow {
 
         Process {
             id: tempProc
-            command: ["sh", "-c", "paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | grep 'x86'"]
+            command: ["sh", "-c", "~/.config/scripts/get-temperature.sh"]
             stdout: SplitParser {
                 onRead: data => {
-                    var parts = data.trim().split(/\s+/);
-                    var temp = parseInt(parts[1]) || 0;
-                    root.cpuTemp = (temp / 1000);
+                    var temp = parseInt(data.trim());
+                    if (!isNaN(temp) && temp > 0) {
+                        root.cpuTemp = temp;
+                    }
                 }
             }
 
@@ -188,12 +189,9 @@ PanelWindow {
             stdout: SplitParser {
                 onRead: data => {
                     var parts = data.trim().split(/\s+/);
-
-                    if (parts[1] == "on") {
-                        root.muted = false;
-                        root.volume = parseInt(parts[0]);
-                    } else {
-                        root.muted = true;
+                    if (parts.length >= 2) {
+                        root.volume = parseInt(parts[0]) || 0;
+                        root.muted = (parts[1] !== "on");
                     }
                 }
             }
@@ -497,7 +495,7 @@ PanelWindow {
 
                     Text {
                         text: cpuTemp + "°"
-                        color: cpuTemp > 40 ? root.accent7 : cpuTemp > 80 ? root.accent3 : root.mchr3
+                        color: cpuTemp > 80 ? root.accent3 : cpuTemp > 40 ? root.accent7 : root.mchr3
                         font {
                             family: root.fontFamily
                             pixelSize: root.fontSize
