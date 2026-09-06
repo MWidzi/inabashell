@@ -16,8 +16,8 @@
 body {
     /* font, change to '' for default discord font */
     --font: 'Mononoki Nerd Font'; /* change to '' for default discord font */
-    --code-font: 'DM Mono'; /* change to '' for default discord font */
-    font-weight: 300; /* text font weight. 300 is light, 400 is normal. DOES NOT AFFECT BOLD TEXT */
+    --code-font: 'Mononoki Nerd Font'; /* change to '' for default discord font */
+    font-weight: 400; /* text font weight. 300 is light, 400 is normal. DOES NOT AFFECT BOLD TEXT */
     letter-spacing: -0.05ch; /* decreases letter spacing for better readability. recommended on monospace fonts.*/
 
     /* sizes */
@@ -38,14 +38,14 @@ body {
     --subtle-top-bar-title: off; /* off: default, on: hide the icon and use subtle text color (like old discord) */
 
     /* window controls */
-    --custom-window-controls: off; /* off: default window controls, on: custom window controls */
+    --custom-window-controls: on; /* off: default window controls, on: custom window controls */
     --window-control-size: 14px; /* size of custom window controls */
 
     /* dms button options */
-    --custom-dms-icon: off; /* off: use default discord icon, hide: remove icon entirely, custom: use custom icon */
-    --dms-icon-svg-url: url(''); /* icon svg url. MUST BE A SVG. */
+    --custom-dms-icon: custom; /* off: use default discord icon, hide: remove icon entirely, custom: use custom icon */
+    --dms-icon-svg-url: url('./inabakumori_discord.svg'); /* icon svg url. MUST BE A SVG. */
     --dms-icon-svg-size: 90%; /* size of the svg (css mask-size property) */
-    --dms-icon-color-before: var(--icon-secondary); /* normal icon color */
+    --dms-icon-color-before: var(--text-3); /* normal icon color */
     --dms-icon-color-after: var(--white); /* icon color when button is hovered/selected */
     --custom-dms-background: off; /* off to disable, image to use a background image (must set url variable below), color to use a custom color/gradient */
     --dms-background-image-url: url(''); /* url of the background image */
@@ -77,7 +77,7 @@ body {
 
     /* panel labels */
     --panel-labels: on; /* off: default, on: add labels to panels */
-    --label-color: var(--text-muted); /* color of labels */
+    --label-color: rgb(133, 133, 133); /* color of labels */
     --label-font-weight: 500; /* font weight of labels */
 }
 
@@ -86,30 +86,30 @@ body {
     --colors: on; /* off: discord default colors, on: midnight custom colors */
 
     /* text colors */
-    --text-0: var(--bg-4); /* text on colored elements */
-    --text-1: oklch(95% 0 0); /* other normally white text */
-    --text-2: oklch(85% 0 0); /* headings and important text */
-    --text-3: oklch(75% 0 0); /* normal text */
-    --text-4: oklch(60% 0 0); /* icon buttons and channels */
-    --text-5: oklch(40% 0 0); /* muted channels/chats and timestamps */
+    --text-0: rgb(52, 52, 52); /* based on --bg */
+    --text-1: rgb(243, 243, 243); /* --mchr5 */
+    --text-2: rgb(199, 199, 199); /* --mchr3 */
+    --text-3: rgb(178, 178, 178); /* --fg */
+    --text-4: rgb(133, 133, 133); /* --mchr2 */
+    --text-5: rgb(69, 69, 69); /* --mchr1 */
 
     /* background and dark colors */
-    --bg-1: oklch(0.31 0.009 283.4); /* dark buttons when clicked */
-    --bg-2: oklch(0.27 0.022 283.4); /* dark buttons */
-    --bg-3: oklch(0.23 0.033 283.4); /* spacing, secondary elements */
-    --bg-4: oklch(0.1973 0.0453 283.39); /* main background color */
-    --hover: oklch(54% 0 0 / 0.1); /* channels and buttons when hovered */
-    --active: oklch(54% 0 0 / 0.2); /* channels and buttons when clicked or selected */
-    --active-2: oklch(54% 0 0 / 0.3); /* extra state for transparent buttons */
+    --bg-1: rgb(40, 40, 40); /* slightly darker than --bg */
+    --bg-2: rgb(52, 52, 52); /* --bg */
+    --bg-3: rgb(60, 60, 60); /* slightly lighter than --bg */
+    --bg-4: rgb(52, 52, 52); /* --bg */
+    --hover: rgba(69, 69, 69, 0.1); /* --mchr1 with transparency */
+    --active: rgba(69, 69, 69, 0.2); /* --mchr1 with transparency */
+    --active-2: rgba(69, 69, 69, 0.3); /* --mchr1 with transparency */
     --message-hover: var(--hover); /* messages when hovered */
 
     /* accent colors */
-    --accent-1: var(--blue-1); /* links and other accent text */
-    --accent-2: var(--red-5); /* small accent elements */
-    --accent-3: var(--blue-3); /* accent buttons */
-    --accent-4: var(--blue-4); /* accent buttons when hovered */
-    --accent-5: var(--blue-5); /* accent buttons when clicked */
-    --accent-new: var(--red-2); /* stuff that's normally red like mute/deafen buttons */
+    --accent-1: var(--blue-1); /* links and other accent text, using main accent blue */
+    --accent-2: var(--blue-2); /* small accent elements, using --accent3 for red */
+    --accent-3: var(--blue-3); /* accent buttons, using main accent blue */
+    --accent-4: var(--yellow-1); /* accent buttons when hovered, using --accent6 blue */
+    --accent-5: var(--yellow-2); /* accent buttons when clicked, using main accent blue */
+    --accent-new: var(--red-1); /* stuff that's normally red like mute/deafen buttons, using --accent3 red */
     --mention: linear-gradient(to right, color-mix(in hsl, var(--accent-2), transparent 90%) 40%, transparent); /* background of messages that mention you */
     --mention-hover: linear-gradient(to right, color-mix(in hsl, var(--accent-2), transparent 95%) 40%, transparent); /* background of messages that mention you when hovered */
     --reply: linear-gradient(to right, color-mix(in hsl, var(--text-3), transparent 90%) 40%, transparent); /* background of messages that reply to you */
@@ -117,64 +117,45 @@ body {
 
     /* status indicator colors */
     --online: var(--green-2); /* change to #40a258 for default */
-    --dnd: var(--red-2); /* change to #d83a41 for default */
+    --dnd: var(--red-3); /* change to #d83a41 for default */
     --idle: var(--yellow-2); /* change to #cc954c for default */
     --streaming: var(--purple-2); /* change to ##9147ff for default */
     --offline: var(--text-4); /* change to #82838b for default offline color */
 
     /* border colors */
-    --border-light: var(--hover); /* general light border color */
-    --border: var(--active); /* general normal border color */
-    --border-hover: var(--accent-2); /* border color of panels when hovered */
-    --button-border: hsl(220, 0%, 100%, 0.1); /* neutral border color of buttons */
+    --border-light: rgb(133, 133, 133); /* from spotify border-active */
+    --border: rgb(133, 133, 133); /* from spotify border-inactive */
+    --border-hover: rgb(199, 199, 199); /* from spotify border-active */
+    --button-border: rgba(133, 133, 133, 0.1); /* transparent version of spotify border-inactive */
 
     /* base colors */
-    --red-1: oklch(0.75 0.13 5.17);
-    --red-2: oklch(0.70 0.13 5.17);
-    --red-3: oklch(0.65 0.13 5.17);
-    --red-4: oklch(0.60 0.13 5.17);
-    --red-5: oklch(0.473 0.1236 5.17);
+    --red-1: rgb(245, 149, 159); /* --accent1 */
+    --red-2: rgb(233, 82, 116); /* --accent2 */
+    --red-3: rgb(232, 79, 86); /* --accent3 */
+    --red-4: rgb(162, 69, 68); /* --accent4 */
+    --red-5: rgb(162, 69, 68); /* --accent4 for now, since we only have 4 red-ish accents */
 
-    --green-1: oklch(75% 0.12 170);
-    --green-2: oklch(70% 0.12 170);
-    --green-3: oklch(65% 0.12 170);
-    --green-4: oklch(60% 0.12 170);
-    --green-5: oklch(55% 0.12 160);
+    --green-1: rgb(244, 209, 119); /* --accent7 */
+    --green-2: rgb(246, 222, 41); /* --accent8 */
+    --green-3: rgb(246, 222, 41); /* --accent8 */
+    --green-4: rgb(246, 222, 41); /* --accent8 */
+    --green-5: rgb(246, 222, 41); /* --accent8 */
 
-    --blue-1: rgb(0 255 0);
-    --blue-2: oklch(0.70 0.10 222.76);
-    --blue-3: oklch(0.65 0.098 222.76);
-    --blue-4: oklch(0.60 0.105 222.76);
-    --blue-5: oklch(0.5701 0.1024 222.76);
+    --blue-1: rgb(196, 201, 252); /* --accent5 */
+    --blue-2: rgb(143, 182, 232); /* --accent6 */
+    --blue-3: rgb(196, 201, 252); /* --accent5 */
+    --blue-4: rgb(143, 182, 232); /* --accent6 */
+    --blue-5: rgb(196, 201, 252); /* --accent5 */
 
-    --yellow-1: oklch(80% 0.12 90);
-    --yellow-2: oklch(75% 0.12 90);
-    --yellow-3: oklch(70% 0.12 90);
-    --yellow-4: oklch(65% 0.12 90);
-    --yellow-5: oklch(60% 0.12 90);
+    --yellow-1: rgb(244, 209, 119); /* --accent7 */
+    --yellow-2: rgb(246, 222, 41); /* --accent8 */
+    --yellow-3: rgb(244, 209, 119); /* --accent7 */
+    --yellow-4: rgb(246, 222, 41); /* --accent8 */
+    --yellow-5: rgb(244, 209, 119); /* --accent7 */
 
-    --purple-1: oklch(75% 0.12 310);
-    --purple-2: oklch(70% 0.12 310);
-    --purple-3: oklch(65% 0.12 310);
-    --purple-4: oklch(60% 0.12 310);
-    --purple-5: oklch(55% 0.12 310);
-}
-
-
-@container body style(--unrounding: off) {
-    *,
-    *::before,
-    *::after {
-        border-radius: 20px !important;
-    }
-
-    #app-mount,
-    .app,
-    .theme-dark {
-        border-radius: 0 !important;
-    }
-    
-    ::-webkit-scrollbar-thumb {
-        border-radius: 20px !important;
-    }
+    --purple-1: rgb(196, 201, 252); /* --accent5 */
+    --purple-2: rgb(143, 182, 232); /* --accent6 */
+    --purple-3: rgb(196, 201, 252); /* --accent5 */
+    --purple-4: rgb(143, 182, 232); /* --accent6 */
+    --purple-5: rgb(196, 201, 252); /* --accent5 */
 }
