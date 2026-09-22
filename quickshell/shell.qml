@@ -141,7 +141,7 @@ PanelWindow {
 
         Process {
             id: tempProc
-            command: ["sh", "-c", "~/.config/scripts/get-temperature.sh"]
+            command: ["sh", "-c", "~/.config/quickshell/scripts/get-temperature.sh"]
             stdout: SplitParser {
                 onRead: data => {
                     var temp = parseInt(data.trim());
@@ -156,7 +156,7 @@ PanelWindow {
 
         Process {
             id: playerctlProc
-            command: ["sh", "-c", "~/.config/scripts/get-song.sh wb"]
+            command: ["sh", "-c", "~/.config/quickshell/scripts/get-song.sh wb"]
             stdout: SplitParser {
                 onRead: data => {
                     if (data.includes("No players found")) {
@@ -185,7 +185,7 @@ PanelWindow {
 
         Process {
             id: volumeProc
-            command: ["sh", "-c", "~/.config/scripts/get-volume.sh"]
+            command: ["sh", "-c", "~/.config/quickshell/scripts/get-volume.sh"]
             stdout: SplitParser {
                 onRead: data => {
                     var parts = data.trim().split(/\s+/);
@@ -201,7 +201,7 @@ PanelWindow {
 
         Process {
             id: networkProc
-            command: ["sh", "-c", "~/.config/scripts/network_strength.sh"]
+            command: ["sh", "-c", "~/.config/quickshell/scripts/network_strength.sh"]
             stdout: SplitParser {
                 onRead: data => {
                     var parts = data.trim().split(/\s+/);
@@ -216,7 +216,7 @@ PanelWindow {
 
         Process {
             id: batteryProc
-            command: ["sh", "-c", "~/.config/scripts/get-battery.sh"]
+            command: ["sh", "-c", "~/.config/quickshell/scripts/get-battery.sh"]
             stdout: SplitParser {
                 onRead: data => {
                     var parts = data.trim().split(/\s+/);

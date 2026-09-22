@@ -26,8 +26,8 @@ hl.config({
 
         border_size = 0,
 
-        ["col.active_border"] = mchr4,
-        ["col.inactive_border"] = bg,
+        ["col.active_border"]         = mchr4,
+        ["col.inactive_border"]       = bg,
         ["col.nogroup_border_active"] = mchr4,
 
         layout = "scrolling",

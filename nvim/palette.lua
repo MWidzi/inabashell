@@ -57,6 +57,39 @@ return {
             transparent_background = false,
         }
 
+        _G.lualine_theme = {
+            normal = {
+                a = { fg = '#454545', bg = '#e1e1e1', gui = 'bold' },
+                b = { fg = '#e1e1e1', bg = '#454545' },
+                c = { fg = '#c7c7c7', bg = '#343434' },
+            },
+            visual = {
+                a = { fg = '#E95274', bg = '#454545', gui = 'bold' },
+                b = { fg = '#e1e1e1', bg = '#454545' },
+                c = { fg = '#c7c7c7', bg = '#343434' },
+            },
+            insert = {
+                a = { fg = '#C4C9FC', bg = '#454545', gui = 'bold' },
+                b = { fg = '#e1e1e1', bg = '#454545' },
+                c = { fg = '#c7c7c7', bg = '#343434' },
+            },
+            replace = {
+                a = { fg = '#F5959F', bg = '#454545', gui = 'bold' },
+                b = { fg = '#e1e1e1', bg = '#454545' },
+                c = { fg = '#c7c7c7', bg = '#343434' },
+            },
+            command = {
+                a = { fg = '#F4D177', bg = '#454545', gui = 'bold' },
+                b = { fg = '#e1e1e1', bg = '#454545' },
+                c = { fg = '#c7c7c7', bg = '#343434' },
+            },
+            inactive = {
+                a = { fg = '#000000', bg = '#454545', gui = 'bold' },
+                b = { fg = '#e1e1e1', bg = '#454545' },
+                c = { fg = '#c7c7c7', bg = '#343434' },
+            },
+        }
+
         vim.cmd 'colorscheme palette'
 
         local function apply_diff_hl()
