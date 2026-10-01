@@ -11,7 +11,9 @@ hl.on("hyprland.start", function()
     hl.exec_cmd("systemctl --user start hyprpolkitagent")
     hl.exec_cmd("awww-daemon & udiskie")
     hl.exec_cmd("qs")
-    hl.exec_cmd("awww img ~/.config/wallpapers/inabakumori_wallpaper_1.webp")
+    hl.exec_cmd("awww img ~/.config/wallpapers/inabakumori_wallpaper_1.webp --transition-fps 255 --transition-step 10")
+    hl.exec_cmd("awww img ~/.config/wallpapers/inabakumori_wallpaper_2.png --transition-fps 255 --transition-step 10 -o DP-3")
+    hl.exec_cmd("awww img ~/.config/wallpapers/inabakumori_wallpaper_3.png --transition-fps 255 --transition-step 10 -o HDMI-A-1")
     hl.exec_cmd("hyprctl dispatch workspace 1")
     hl.exec_cmd("gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'") -- GTK3 apps
     hl.exec_cmd("gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'") -- GTK4 apps
